@@ -1,0 +1,251 @@
+{
+ "reverse_geocoded_address_components": {
+  "postal_code": "40014",
+  "country_code": "US",
+  "street_number": "6220",
+  "locality": "Crestwood",
+  "sublocality_1": null,
+  "route": "Old Lagrange Rd",
+  "sublocality_2": null,
+  "administrative_area_2": "Oldham County",
+  "administrative_area_3": null,
+  "sublocality_3": null,
+  "administrative_area_1": "KY"
+ },
+ "opening_date": "None",
+ "nissan_nctc": false,
+ "payment_enabled": null,
+ "reverse_geocoded_address": "6220 Old Lagrange Rd, Crestwood, KY 40014, USA",
+ "amenities": [],
+ "latitude": 38.336927,
+ "open247": false,
+ "valid_outlets": [
+  {
+   "connector": 1,
+   "power": 0
+  },
+  {
+   "connector": 2,
+   "power": 0
+  },
+  {
+   "connector": 3,
+   "power": 0
+  },
+  {
+   "connector": 13,
+   "power": 0
+  },
+  {
+   "connector": 4,
+   "power": 0
+  },
+  {
+   "connector": 6,
+   "power": 0
+  },
+  {
+   "connector": 5,
+   "power": 0
+  }
+ ],
+ "phone": "",
+ "e164_phone_number": "",
+ "locked": false,
+ "title_description": "Yew Dell Botanical Gardens - Free Electric Car Charging - 2 Check-ins 2 Photos - 6217–6305 Old LaGrange Rd, Crestwood, KY  40014, United States - US - PlugShare",
+ "name": "Yew Dell Botanical Gardens",
+ "icon_type": "G",
+ "stations": [
+  {
+   "volts": null,
+   "network_ext_id": null,
+   "qr_enabled": null,
+   "cost": 0,
+   "pwps_version": null,
+   "location_id": 177307,
+   "id": 364226,
+   "cost_description": "Unknown",
+   "pre_charge_instructions": null,
+   "nissan_nctc": false,
+   "payment_enabled": null,
+   "available": 0,
+   "outlets": [
+    {
+     "available": 0,
+     "description": null,
+     "power": 0,
+     "volts": null,
+     "id": 655065,
+     "watts": null,
+     "connector": 2,
+     "connector_type": 2,
+     "amps": null,
+     "available_changed_at": null,
+     "outlet_index": null
+    }
+   ],
+   "hours": "",
+   "promos": [],
+   "ocpp_version": null,
+   "kilowatts": null,
+   "requiresAccessCard": false,
+   "manufacturer": "",
+   "name": null,
+   "network_id": null,
+   "created_at": "2019-01-11T19:03:07Z",
+   "amps": null,
+   "model": "",
+   "available_changed_at": null
+  }
+ ],
+ "enabled": true,
+ "longitude": -85.463569,
+ "reviews": [
+  {
+   "comment": "",
+   "rating": 1,
+   "connector_type": 2,
+   "volts": null,
+   "created_at": "2019-01-11T19:04:53Z",
+   "finished": "2019-01-11T20:04:53Z",
+   "station_id": 364226,
+   "waiting": false,
+   "user": {
+    "last_name": "",
+    "hide_address": false,
+    "charger_type": 0,
+    "country_code": "US",
+    "language_code": null,
+    "allow_promo_email": false,
+    "id": 81997,
+    "notify_nearby": 0,
+    "first_name": "Stuart",
+    "vehicle_color": 8,
+    "last_login": "2019-02-22T00:56:32Z",
+    "allow_notifications": null,
+    "vehicle_description": "2011 Leaf SL -- Ocean Blue",
+    "phone": "5024265376",
+    "e164_phone_number": "",
+    "hide_phone": false,
+    "vehicle_type": 1,
+    "about": "President of EVolve KY, Kentucky’s electric vehicle organization. Group meets monthly. Visit our website at www.evolveky.org or call me for more information. ",
+    "notify_nearby_radius": 0,
+    "receive_grid_alerts": 0,
+    "created_at": "2014-10-05T21:52:21Z",
+    "photos": [
+     {
+      "user_id": 81997,
+      "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/62035.jpg",
+      "created_at": "2014-10-05T22:14:34Z",
+      "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/62035.png",
+      "caption": "",
+      "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/62035.png",
+      "order": 0,
+      "id": 62035
+     }
+    ],
+    "formatted_phone_number": "+1 502-426-5376",
+    "vehicle_subtype": 2
+   },
+   "amps": null,
+   "vehicle_type": 1,
+   "outlet_id": 655065,
+   "id": 1492183
+  },
+  {
+   "comment": "Station will be officially open next week. Signage etc to be placed in March. ",
+   "rating": 0,
+   "volts": null,
+   "created_at": "2019-01-11T19:04:46Z",
+   "connector_type": 2,
+   "station_id": 364226,
+   "waiting": false,
+   "user": {
+    "last_name": "",
+    "hide_address": false,
+    "charger_type": 0,
+    "country_code": "US",
+    "language_code": null,
+    "allow_promo_email": false,
+    "id": 81997,
+    "notify_nearby": 0,
+    "first_name": "Stuart",
+    "vehicle_color": 8,
+    "last_login": "2019-02-22T00:56:32Z",
+    "allow_notifications": null,
+    "vehicle_description": "2011 Leaf SL -- Ocean Blue",
+    "phone": "5024265376",
+    "e164_phone_number": "",
+    "hide_phone": false,
+    "vehicle_type": 1,
+    "about": "President of EVolve KY, Kentucky’s electric vehicle organization. Group meets monthly. Visit our website at www.evolveky.org or call me for more information. ",
+    "notify_nearby_radius": 0,
+    "receive_grid_alerts": 0,
+    "created_at": "2014-10-05T21:52:21Z",
+    "photos": [
+     {
+      "user_id": 81997,
+      "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/62035.jpg",
+      "created_at": "2014-10-05T22:14:34Z",
+      "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/62035.png",
+      "caption": "",
+      "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/62035.png",
+      "order": 0,
+      "id": 62035
+     }
+    ],
+    "formatted_phone_number": "+1 502-426-5376",
+    "vehicle_subtype": 2
+   },
+   "amps": null,
+   "vehicle_type": 1,
+   "outlet_id": 655065,
+   "id": 1492182
+  }
+ ],
+ "under_repair": false,
+ "poi_name": null,
+ "locale": "US",
+ "updated_at": "2019-01-11T19:04:53Z",
+ "cost": false,
+ "pwps_version": null,
+ "id": 177307,
+ "datasources": [],
+ "cost_description": "",
+ "access": 1,
+ "description": "Evolve KY Adopt a Charger location 16!",
+ "custom_ports": "",
+ "confidence": null,
+ "hours": "During hours of operation (Yew Dell)",
+ "all_promos": [],
+ "address": "6217–6305 Old LaGrange Rd, Crestwood, KY  40014, United States",
+ "parking_type_name": null,
+ "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png",
+ "photos": [
+  {
+   "user_id": 14864,
+   "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/378554.jpg",
+   "created_at": "2019-01-13T18:27:49Z",
+   "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/378554.png",
+   "caption": "",
+   "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/378554.png",
+   "order": 0,
+   "id": 378554
+  },
+  {
+   "user_id": 81997,
+   "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/377900.jpg",
+   "created_at": "2019-01-11T19:03:59Z",
+   "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/377900.png",
+   "caption": "",
+   "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/377900.png",
+   "order": 0,
+   "id": 377900
+  }
+ ],
+ "url": "http://api.plugshare.com/view/location/177307",
+ "created_at": "2019-01-11T19:03:07Z",
+ "promos": [],
+ "formatted_phone_number": "",
+ "coming_soon": false
+}

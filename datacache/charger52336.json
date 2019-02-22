@@ -1,0 +1,285 @@
+{
+ "reverse_geocoded_address_components": {
+  "postal_code": "40209",
+  "country_code": "US",
+  "street_number": "600",
+  "locality": "Louisville",
+  "sublocality_1": null,
+  "route": "Terminal Dr",
+  "sublocality_2": null,
+  "administrative_area_2": "Jefferson County",
+  "administrative_area_3": "Jefferson Southwest",
+  "sublocality_3": null,
+  "administrative_area_1": "KY"
+ },
+ "opening_date": "None",
+ "nissan_nctc": false,
+ "payment_enabled": null,
+ "reverse_geocoded_address": "600 Terminal Dr, Louisville, KY 40209, USA",
+ "amenities": [],
+ "latitude": 38.185844,
+ "open247": true,
+ "valid_outlets": [
+  {
+   "connector": 1,
+   "power": 0
+  },
+  {
+   "connector": 2,
+   "power": 0
+  },
+  {
+   "connector": 3,
+   "power": 0
+  },
+  {
+   "connector": 13,
+   "power": 0
+  },
+  {
+   "connector": 4,
+   "power": 0
+  },
+  {
+   "connector": 6,
+   "power": 0
+  },
+  {
+   "connector": 5,
+   "power": 0
+  }
+ ],
+ "phone": "5023686524",
+ "e164_phone_number": "+15023686524",
+ "locked": false,
+ "title_description": "Louisville International Airport - Electric Car Charging - 2 Check-ins 3 Photos - 600 Terminal Drive, Louisville, KY 40209 - US - PlugShare",
+ "name": "Louisville International Airport",
+ "icon_type": "G",
+ "stations": [
+  {
+   "volts": null,
+   "network_ext_id": null,
+   "qr_enabled": null,
+   "cost": 0,
+   "pwps_version": null,
+   "location_id": 52336,
+   "id": 71200,
+   "cost_description": "Unknown",
+   "pre_charge_instructions": null,
+   "nissan_nctc": false,
+   "payment_enabled": null,
+   "available": 0,
+   "outlets": [
+    {
+     "available": null,
+     "description": null,
+     "power": 0,
+     "volts": null,
+     "id": 327110,
+     "watts": null,
+     "connector": 2,
+     "connector_type": 2,
+     "amps": null,
+     "available_changed_at": null,
+     "outlet_index": null
+    },
+    {
+     "available": null,
+     "description": null,
+     "power": 0,
+     "volts": null,
+     "id": 274078,
+     "watts": null,
+     "connector": 2,
+     "connector_type": 2,
+     "amps": null,
+     "available_changed_at": null,
+     "outlet_index": null
+    }
+   ],
+   "hours": "",
+   "promos": [],
+   "ocpp_version": null,
+   "kilowatts": null,
+   "requiresAccessCard": false,
+   "manufacturer": "",
+   "name": null,
+   "network_id": null,
+   "created_at": "2014-07-16T17:49:31Z",
+   "amps": null,
+   "model": "",
+   "available_changed_at": null
+  }
+ ],
+ "enabled": true,
+ "longitude": -85.741646,
+ "reviews": [
+  {
+   "comment": "The idea is for valet company to manage the chargers. Once a car is charged and others are waiting, cars can be moved. ",
+   "rating": 0,
+   "volts": null,
+   "created_at": "2017-06-03T14:45:48Z",
+   "connector_type": 2,
+   "station_id": 71200,
+   "waiting": false,
+   "user": {
+    "last_name": "",
+    "hide_address": false,
+    "charger_type": 1,
+    "country_code": "US",
+    "language_code": null,
+    "allow_promo_email": true,
+    "id": 66871,
+    "notify_nearby": 3,
+    "first_name": "Ray",
+    "vehicle_color": 3,
+    "last_login": "2019-02-21T21:49:27Z",
+    "allow_notifications": null,
+    "vehicle_description": "2011 SL model, dual charge port",
+    "phone": "5138079342",
+    "e164_phone_number": "",
+    "hide_phone": false,
+    "vehicle_type": 1,
+    "about": "Retired;  involved in environmental issues. ",
+    "notify_nearby_radius": 16000,
+    "receive_grid_alerts": 0,
+    "created_at": "2014-06-08T15:27:20Z",
+    "photos": [],
+    "formatted_phone_number": "+1 513-807-9342",
+    "vehicle_subtype": 2
+   },
+   "amps": null,
+   "vehicle_type": 1,
+   "id": 751732
+  },
+  {
+   "comment": "Glad this is here...but....it's a bit much...can one charge without valet parking?",
+   "rating": 1,
+   "connector_type": 2,
+   "volts": null,
+   "created_at": "2014-07-17T00:52:51Z",
+   "finished": "2014-07-17T01:24:09Z",
+   "waiting": false,
+   "user": {
+    "last_name": "",
+    "hide_address": true,
+    "charger_type": 0,
+    "country_code": "US",
+    "language_code": null,
+    "allow_promo_email": false,
+    "id": 14864,
+    "notify_nearby": 1,
+    "first_name": "Austin",
+    "vehicle_color": 3,
+    "last_login": "2019-02-21T22:14:21Z",
+    "allow_notifications": null,
+    "vehicle_description": "Awesome gateway electric car! ;-)",
+    "phone": "",
+    "e164_phone_number": "",
+    "hide_phone": true,
+    "vehicle_type": 23,
+    "about": "Ready for the Model 3!",
+    "notify_nearby_radius": 16000,
+    "receive_grid_alerts": 0,
+    "created_at": "2013-04-15T15:33:57Z",
+    "photos": [
+     {
+      "user_id": 14864,
+      "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/281261.jpg",
+      "created_at": "2018-04-03T21:51:12Z",
+      "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/281261.png",
+      "caption": "",
+      "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/281261.png",
+      "order": 0,
+      "id": 281261
+     },
+     {
+      "user_id": 14864,
+      "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/9823.jpg",
+      "created_at": "2013-05-14T12:16:23Z",
+      "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/9823.png",
+      "caption": "",
+      "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/9823.png",
+      "order": 0,
+      "id": 9823
+     }
+    ],
+    "formatted_phone_number": "",
+    "vehicle_subtype": 0
+   },
+   "amps": null,
+   "vehicle_type": 13,
+   "id": 125784
+  }
+ ],
+ "under_repair": false,
+ "poi_name": null,
+ "locale": "US",
+ "updated_at": "2019-01-18T01:32:44Z",
+ "cost": true,
+ "pwps_version": null,
+ "id": 52336,
+ "datasources": [
+  {
+   "map_type": 0,
+   "network_ext_id": "62505",
+   "id": 25655,
+   "network": {
+    "description": null,
+    "formatted_phone_number": "",
+    "url": null,
+    "phone": null,
+    "e164_phone_number": "",
+    "id": 32,
+    "name": "DOE AFDC"
+   }
+  }
+ ],
+ "cost_description": "$24.00 per day for valet parking",
+ "access": 1,
+ "description": "Charging station accessible by using valet parking at Louisville International Airport.",
+ "custom_ports": "",
+ "confidence": null,
+ "hours": "24 hours",
+ "all_promos": [],
+ "address": "600 Terminal Drive, Louisville, KY 40209",
+ "parking_type_name": null,
+ "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png",
+ "photos": [
+  {
+   "user_id": 14864,
+   "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/76095.jpg",
+   "created_at": "2015-04-08T14:28:56Z",
+   "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/76095.png",
+   "caption": "",
+   "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/76095.png",
+   "order": 0,
+   "id": 76095
+  },
+  {
+   "user_id": 14864,
+   "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/76094.jpg",
+   "created_at": "2015-04-08T14:28:38Z",
+   "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/76094.png",
+   "caption": "",
+   "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/76094.png",
+   "order": 0,
+   "id": 76094
+  },
+  {
+   "user_id": 14864,
+   "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/65632.jpg",
+   "created_at": "2014-11-23T14:24:40Z",
+   "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/65632.png",
+   "caption": "",
+   "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/65632.png",
+   "order": 0,
+   "id": 65632
+  }
+ ],
+ "url": "http://api.plugshare.com/view/location/52336",
+ "created_at": "2014-07-16T17:49:31Z",
+ "promos": [],
+ "formatted_phone_number": "+1 502-368-6524",
+ "coming_soon": null
+}

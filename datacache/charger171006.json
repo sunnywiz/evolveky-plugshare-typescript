@@ -1,0 +1,392 @@
+{
+ "reverse_geocoded_address_components": {
+  "postal_code": "40059",
+  "country_code": "US",
+  "street_number": "9213",
+  "locality": "Prospect",
+  "sublocality_1": null,
+  "route": "US-42",
+  "sublocality_2": null,
+  "administrative_area_2": "Jefferson County",
+  "administrative_area_3": null,
+  "sublocality_3": null,
+  "administrative_area_1": "KY"
+ },
+ "opening_date": "None",
+ "nissan_nctc": false,
+ "payment_enabled": null,
+ "reverse_geocoded_address": "9213 US-42, Prospect, KY 40059, USA",
+ "amenities": [
+  {
+   "location_id": 171006,
+   "type": 8
+  },
+  {
+   "location_id": 171006,
+   "type": 7
+  },
+  {
+   "location_id": 171006,
+   "type": 4
+  },
+  {
+   "location_id": 171006,
+   "type": 3
+  },
+  {
+   "location_id": 171006,
+   "type": 2
+  }
+ ],
+ "latitude": 38.340479,
+ "open247": true,
+ "valid_outlets": [
+  {
+   "connector": 1,
+   "power": 0
+  },
+  {
+   "connector": 2,
+   "power": 0
+  },
+  {
+   "connector": 3,
+   "power": 0
+  },
+  {
+   "connector": 13,
+   "power": 0
+  },
+  {
+   "connector": 4,
+   "power": 0
+  },
+  {
+   "connector": 6,
+   "power": 0
+  },
+  {
+   "connector": 5,
+   "power": 0
+  }
+ ],
+ "phone": "",
+ "e164_phone_number": "",
+ "locked": false,
+ "title_description": "Prospect Plaza - Free Electric Car Charging - 5 Check-ins 1 Photos - 9211 US Highway 42 Prospect, KY  40059 United States - US - Shopping Center - PlugShare",
+ "name": "Prospect Plaza",
+ "icon_type": "G",
+ "enabled": true,
+ "longitude": -85.618992,
+ "reviews": [
+  {
+   "comment": "",
+   "rating": 1,
+   "connector_type": 2,
+   "volts": null,
+   "created_at": "2019-02-06T14:31:46Z",
+   "finished": "2019-02-06T16:31:46Z",
+   "station_id": 347587,
+   "waiting": false,
+   "user": {
+    "last_name": "",
+    "hide_address": false,
+    "charger_type": 0,
+    "country_code": "US",
+    "language_code": "en-US",
+    "allow_promo_email": false,
+    "id": 348561,
+    "notify_nearby": 0,
+    "first_name": "sunnywiz",
+    "vehicle_color": 3,
+    "last_login": "2019-02-22T04:51:10Z",
+    "allow_notifications": null,
+    "vehicle_description": "",
+    "phone": "",
+    "e164_phone_number": "",
+    "hide_phone": false,
+    "vehicle_type": 1,
+    "about": "",
+    "notify_nearby_radius": 0,
+    "receive_grid_alerts": 0,
+    "created_at": "2018-05-16T14:48:56Z",
+    "photos": [],
+    "formatted_phone_number": "",
+    "vehicle_subtype": 2
+   },
+   "amps": null,
+   "vehicle_type": 1,
+   "id": 1532460
+  },
+  {
+   "comment": "",
+   "rating": 1,
+   "connector_type": 2,
+   "volts": 0,
+   "created_at": "2018-12-12T21:21:37Z",
+   "finished": "2018-12-12T21:36:36Z",
+   "station_id": 347587,
+   "waiting": false,
+   "user": {
+    "last_name": "",
+    "hide_address": false,
+    "charger_type": 0,
+    "country_code": "US",
+    "language_code": "en",
+    "allow_promo_email": false,
+    "id": 391946,
+    "notify_nearby": 0,
+    "first_name": "Adam Hodges",
+    "vehicle_color": 3,
+    "last_login": "2019-02-21T20:54:08Z",
+    "allow_notifications": null,
+    "vehicle_description": "",
+    "phone": "",
+    "e164_phone_number": "",
+    "hide_phone": false,
+    "vehicle_type": 17,
+    "about": "",
+    "notify_nearby_radius": 0,
+    "receive_grid_alerts": 0,
+    "created_at": "2018-08-29T19:56:58Z",
+    "photos": [],
+    "formatted_phone_number": "",
+    "vehicle_subtype": 0
+   },
+   "amps": 0,
+   "vehicle_type": 17,
+   "id": 1443516
+  },
+  {
+   "comment": "",
+   "rating": 1,
+   "connector_type": 2,
+   "volts": null,
+   "created_at": "2018-12-05T00:00:26Z",
+   "finished": "2018-12-05T01:00:26Z",
+   "station_id": 347587,
+   "waiting": false,
+   "user": {
+    "last_name": "",
+    "hide_address": false,
+    "charger_type": 0,
+    "country_code": "US",
+    "language_code": "en-US",
+    "allow_promo_email": false,
+    "id": 348561,
+    "notify_nearby": 0,
+    "first_name": "sunnywiz",
+    "vehicle_color": 3,
+    "last_login": "2019-02-22T04:51:10Z",
+    "allow_notifications": null,
+    "vehicle_description": "",
+    "phone": "",
+    "e164_phone_number": "",
+    "hide_phone": false,
+    "vehicle_type": 1,
+    "about": "",
+    "notify_nearby_radius": 0,
+    "receive_grid_alerts": 0,
+    "created_at": "2018-05-16T14:48:56Z",
+    "photos": [],
+    "formatted_phone_number": "",
+    "vehicle_subtype": 2
+   },
+   "amps": null,
+   "vehicle_type": 1,
+   "id": 1432097
+  },
+  {
+   "comment": "",
+   "rating": 1,
+   "connector_type": 2,
+   "volts": null,
+   "created_at": "2018-11-11T15:40:26Z",
+   "finished": "2018-11-11T17:40:26Z",
+   "station_id": 347587,
+   "waiting": false,
+   "user": {
+    "last_name": "",
+    "hide_address": false,
+    "charger_type": 0,
+    "country_code": "US",
+    "language_code": null,
+    "allow_promo_email": false,
+    "id": 81997,
+    "notify_nearby": 0,
+    "first_name": "Stuart",
+    "vehicle_color": 8,
+    "last_login": "2019-02-22T00:56:32Z",
+    "allow_notifications": null,
+    "vehicle_description": "2011 Leaf SL -- Ocean Blue",
+    "phone": "5024265376",
+    "e164_phone_number": "",
+    "hide_phone": false,
+    "vehicle_type": 1,
+    "about": "President of EVolve KY, Kentucky’s electric vehicle organization. Group meets monthly. Visit our website at www.evolveky.org or call me for more information. ",
+    "notify_nearby_radius": 0,
+    "receive_grid_alerts": 0,
+    "created_at": "2014-10-05T21:52:21Z",
+    "photos": [
+     {
+      "user_id": 81997,
+      "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/62035.jpg",
+      "created_at": "2014-10-05T22:14:34Z",
+      "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/62035.png",
+      "caption": "",
+      "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/62035.png",
+      "order": 0,
+      "id": 62035
+     }
+    ],
+    "formatted_phone_number": "+1 502-426-5376",
+    "vehicle_subtype": 2
+   },
+   "amps": null,
+   "vehicle_type": 1,
+   "id": 1396858
+  },
+  {
+   "comment": "",
+   "rating": 1,
+   "connector_type": 2,
+   "volts": null,
+   "created_at": "2018-11-07T18:34:44Z",
+   "finished": "2018-11-07T19:34:44Z",
+   "station_id": 347587,
+   "waiting": false,
+   "user": {
+    "last_name": "",
+    "hide_address": false,
+    "charger_type": 0,
+    "country_code": "US",
+    "language_code": null,
+    "allow_promo_email": false,
+    "id": 81997,
+    "notify_nearby": 0,
+    "first_name": "Stuart",
+    "vehicle_color": 8,
+    "last_login": "2019-02-22T00:56:32Z",
+    "allow_notifications": null,
+    "vehicle_description": "2011 Leaf SL -- Ocean Blue",
+    "phone": "5024265376",
+    "e164_phone_number": "",
+    "hide_phone": false,
+    "vehicle_type": 1,
+    "about": "President of EVolve KY, Kentucky’s electric vehicle organization. Group meets monthly. Visit our website at www.evolveky.org or call me for more information. ",
+    "notify_nearby_radius": 0,
+    "receive_grid_alerts": 0,
+    "created_at": "2014-10-05T21:52:21Z",
+    "photos": [
+     {
+      "user_id": 81997,
+      "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/62035.jpg",
+      "created_at": "2014-10-05T22:14:34Z",
+      "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/62035.png",
+      "caption": "",
+      "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/62035.png",
+      "order": 0,
+      "id": 62035
+     }
+    ],
+    "formatted_phone_number": "+1 502-426-5376",
+    "vehicle_subtype": 2
+   },
+   "amps": null,
+   "vehicle_type": 1,
+   "id": 1390931
+  }
+ ],
+ "under_repair": false,
+ "poi_name": "Shopping Center",
+ "locale": "US",
+ "updated_at": "2019-02-06T14:31:46Z",
+ "cost": false,
+ "pwps_version": null,
+ "id": 171006,
+ "datasources": [],
+ "cost_description": "",
+ "access": 1,
+ "score": 9,
+ "description": "Evolve KY’s 15th location!  Near the road at Highland Cleaners. ",
+ "custom_ports": "",
+ "confidence": 2,
+ "hours": "",
+ "all_promos": [],
+ "address": "9211 US Highway 42 Prospect, KY  40059 United States",
+ "parking_type_name": "Free",
+ "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png",
+ "stations": [
+  {
+   "volts": null,
+   "network_ext_id": null,
+   "qr_enabled": null,
+   "cost": 0,
+   "pwps_version": null,
+   "location_id": 171006,
+   "id": 347587,
+   "cost_description": "Unknown",
+   "pre_charge_instructions": null,
+   "nissan_nctc": false,
+   "payment_enabled": null,
+   "available": 0,
+   "outlets": [
+    {
+     "available": 0,
+     "description": null,
+     "power": 0,
+     "volts": null,
+     "id": 633881,
+     "watts": null,
+     "connector": 2,
+     "connector_type": 2,
+     "amps": null,
+     "available_changed_at": null,
+     "outlet_index": null
+    },
+    {
+     "available": 0,
+     "description": null,
+     "power": 0,
+     "volts": null,
+     "id": 633880,
+     "watts": null,
+     "connector": 2,
+     "connector_type": 2,
+     "amps": null,
+     "available_changed_at": null,
+     "outlet_index": null
+    }
+   ],
+   "hours": "",
+   "promos": [],
+   "ocpp_version": null,
+   "kilowatts": null,
+   "requiresAccessCard": false,
+   "manufacturer": "",
+   "name": null,
+   "network_id": null,
+   "created_at": "2018-11-07T18:21:02Z",
+   "amps": null,
+   "model": "",
+   "available_changed_at": null
+  }
+ ],
+ "url": "http://api.plugshare.com/view/location/171006",
+ "created_at": "2018-11-07T18:21:02Z",
+ "promos": [],
+ "photos": [
+  {
+   "user_id": 81997,
+   "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/357513.jpg",
+   "created_at": "2018-11-07T18:22:49Z",
+   "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/357513.png",
+   "caption": "Evolve KY location 15!",
+   "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/357513.png",
+   "order": 0,
+   "id": 357513
+  }
+ ],
+ "formatted_phone_number": "",
+ "coming_soon": false
+}

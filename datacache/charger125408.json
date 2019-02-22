@@ -1,0 +1,225 @@
+{
+ "reverse_geocoded_address_components": {
+  "postal_code": "40216",
+  "country_code": "US",
+  "street_number": "4041",
+  "locality": "Louisville",
+  "sublocality_1": null,
+  "route": "Dixie Hwy",
+  "sublocality_2": null,
+  "administrative_area_2": "Jefferson County",
+  "administrative_area_3": null,
+  "sublocality_3": null,
+  "administrative_area_1": "KY"
+ },
+ "opening_date": "None",
+ "nissan_nctc": false,
+ "payment_enabled": null,
+ "reverse_geocoded_address": "4041 Dixie Hwy, Louisville, KY 40216, USA",
+ "amenities": [
+  {
+   "location_id": 125408,
+   "type": 2
+  },
+  {
+   "location_id": 125408,
+   "type": 3
+  },
+  {
+   "location_id": 125408,
+   "type": 8
+  },
+  {
+   "location_id": 125408,
+   "type": 4
+  }
+ ],
+ "latitude": 38.18952,
+ "open247": false,
+ "valid_outlets": [
+  {
+   "connector": 1,
+   "power": 0
+  },
+  {
+   "connector": 2,
+   "power": 0
+  },
+  {
+   "connector": 3,
+   "power": 0
+  },
+  {
+   "connector": 13,
+   "power": 0
+  },
+  {
+   "connector": 4,
+   "power": 0
+  },
+  {
+   "connector": 6,
+   "power": 0
+  },
+  {
+   "connector": 5,
+   "power": 0
+  }
+ ],
+ "phone": "",
+ "e164_phone_number": "",
+ "locked": false,
+ "title_description": "Byerly Ford - Free Electric Car Charging - 2 Check-ins - 4041 Dixie Hwy, Louisville, KY 40216 - US - Car Dealership - PlugShare",
+ "name": "Byerly Ford",
+ "icon_type": "G",
+ "stations": [
+  {
+   "volts": null,
+   "network_ext_id": null,
+   "qr_enabled": null,
+   "cost": 0,
+   "pwps_version": null,
+   "location_id": 125408,
+   "id": 223982,
+   "cost_description": "Unknown",
+   "pre_charge_instructions": null,
+   "nissan_nctc": false,
+   "payment_enabled": null,
+   "available": 0,
+   "outlets": [
+    {
+     "available": null,
+     "description": null,
+     "power": 0,
+     "volts": null,
+     "id": 471706,
+     "watts": null,
+     "connector": 2,
+     "connector_type": 2,
+     "amps": null,
+     "available_changed_at": null,
+     "outlet_index": null
+    }
+   ],
+   "hours": "",
+   "promos": [],
+   "ocpp_version": null,
+   "kilowatts": null,
+   "requiresAccessCard": false,
+   "manufacturer": "",
+   "name": null,
+   "network_id": null,
+   "created_at": "2017-08-15T22:47:40Z",
+   "amps": null,
+   "model": "",
+   "available_changed_at": null
+  }
+ ],
+ "enabled": true,
+ "longitude": -85.809045,
+ "reviews": [
+  {
+   "comment": "Was there after business hours, but could not see where any charger was located - significant part of parking lot was blocked by dealership's cars, so could have been located somewhere on the lot, but it definitely doesn't look like outside of dealership hours-charging is an option.",
+   "rating": -1,
+   "volts": null,
+   "created_at": "2018-10-07T12:47:37Z",
+   "connector_type": 2,
+   "station_id": 223982,
+   "waiting": false,
+   "user": {
+    "last_name": "",
+    "hide_address": false,
+    "charger_type": 0,
+    "country_code": "US",
+    "language_code": "en-US",
+    "allow_promo_email": true,
+    "id": 406038,
+    "notify_nearby": 0,
+    "first_name": "IMiev",
+    "vehicle_color": 3,
+    "last_login": "2018-10-08T02:08:38Z",
+    "allow_notifications": null,
+    "vehicle_description": "",
+    "phone": "",
+    "e164_phone_number": "",
+    "hide_phone": false,
+    "vehicle_type": 5,
+    "about": "",
+    "notify_nearby_radius": 0,
+    "receive_grid_alerts": 0,
+    "created_at": "2018-10-06T14:25:56Z",
+    "photos": [],
+    "formatted_phone_number": "",
+    "vehicle_subtype": 0
+   },
+   "amps": null,
+   "vehicle_type": 5,
+   "outlet_id": 471706,
+   "id": 1343643
+  },
+  {
+   "comment": "",
+   "rating": 1,
+   "connector_type": 2,
+   "volts": null,
+   "created_at": "2017-09-28T18:27:58Z",
+   "finished": "2017-09-28T20:42:58Z",
+   "station_id": 223982,
+   "waiting": false,
+   "user": {
+    "last_name": "",
+    "hide_address": false,
+    "charger_type": 0,
+    "country_code": "US",
+    "language_code": "en-US",
+    "allow_promo_email": false,
+    "id": 220147,
+    "notify_nearby": 0,
+    "first_name": "Jason Webb",
+    "vehicle_color": 3,
+    "last_login": "2017-09-28T18:27:58Z",
+    "allow_notifications": null,
+    "vehicle_description": "",
+    "phone": "",
+    "e164_phone_number": "",
+    "hide_phone": false,
+    "vehicle_type": 13,
+    "about": "",
+    "notify_nearby_radius": 0,
+    "receive_grid_alerts": 0,
+    "created_at": "2017-02-23T11:23:44Z",
+    "photos": [],
+    "formatted_phone_number": "",
+    "vehicle_subtype": 0
+   },
+   "amps": null,
+   "vehicle_type": 13,
+   "outlet_id": 471706,
+   "id": 873586
+  }
+ ],
+ "under_repair": false,
+ "poi_name": "Car Dealership",
+ "locale": "US",
+ "updated_at": "2018-10-07T12:47:37Z",
+ "cost": false,
+ "pwps_version": null,
+ "id": 125408,
+ "datasources": [],
+ "cost_description": "",
+ "access": 1,
+ "description": "",
+ "custom_ports": "",
+ "confidence": 2,
+ "hours": "",
+ "all_promos": [],
+ "address": "4041 Dixie Hwy, Louisville, KY 40216",
+ "parking_type_name": "Free",
+ "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png",
+ "photos": [],
+ "url": "http://api.plugshare.com/view/location/125408",
+ "created_at": "2017-08-15T22:47:40Z",
+ "promos": [],
+ "formatted_phone_number": "",
+ "coming_soon": null
+}

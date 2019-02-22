@@ -1,0 +1,225 @@
+{
+ "reverse_geocoded_address_components": {
+  "postal_code": "47111",
+  "country_code": "US",
+  "street_number": "7735",
+  "locality": "Charlestown",
+  "sublocality_1": null,
+  "route": "IN-62",
+  "sublocality_2": null,
+  "administrative_area_2": "Clark County",
+  "administrative_area_3": "Utica",
+  "sublocality_3": null,
+  "administrative_area_1": "IN"
+ },
+ "opening_date": "None",
+ "nissan_nctc": false,
+ "payment_enabled": null,
+ "reverse_geocoded_address": "7735 IN-62, Charlestown, IN 47111, USA",
+ "amenities": [
+  {
+   "location_id": 140517,
+   "type": 4
+  },
+  {
+   "location_id": 140517,
+   "type": 3
+  },
+  {
+   "location_id": 140517,
+   "type": 7
+  },
+  {
+   "location_id": 140517,
+   "type": 6
+  },
+  {
+   "location_id": 140517,
+   "type": 2
+  },
+  {
+   "location_id": 140517,
+   "type": 8
+  }
+ ],
+ "latitude": 38.388986,
+ "open247": false,
+ "valid_outlets": [
+  {
+   "connector": 1,
+   "power": 0
+  },
+  {
+   "connector": 2,
+   "power": 0
+  },
+  {
+   "connector": 3,
+   "power": 0
+  },
+  {
+   "connector": 13,
+   "power": 0
+  },
+  {
+   "connector": 4,
+   "power": 0
+  },
+  {
+   "connector": 6,
+   "power": 0
+  },
+  {
+   "connector": 5,
+   "power": 0
+  }
+ ],
+ "phone": "8122824303",
+ "e164_phone_number": "+18122824303",
+ "locked": false,
+ "title_description": "First Harrison Bank - Electric Car Charging -  3 Photos - 7735 IN-62, Charlestown, IN 47111 - US - Bank - PlugShare",
+ "name": "First Harrison Bank",
+ "icon_type": "G",
+ "stations": [
+  {
+   "volts": null,
+   "network_ext_id": null,
+   "qr_enabled": null,
+   "cost": 0,
+   "pwps_version": null,
+   "location_id": 140517,
+   "id": 371512,
+   "cost_description": "Unknown",
+   "pre_charge_instructions": null,
+   "nissan_nctc": false,
+   "payment_enabled": null,
+   "available": 0,
+   "outlets": [
+    {
+     "available": 0,
+     "description": null,
+     "power": 0,
+     "volts": null,
+     "id": 664623,
+     "watts": null,
+     "connector": 2,
+     "connector_type": 2,
+     "amps": null,
+     "available_changed_at": null,
+     "outlet_index": null
+    }
+   ],
+   "hours": "",
+   "promos": [],
+   "ocpp_version": null,
+   "kilowatts": null,
+   "requiresAccessCard": false,
+   "manufacturer": "",
+   "name": null,
+   "network_id": null,
+   "created_at": "2019-02-06T16:25:28Z",
+   "amps": null,
+   "model": "",
+   "available_changed_at": null
+  },
+  {
+   "volts": null,
+   "network_ext_id": null,
+   "qr_enabled": null,
+   "cost": 0,
+   "pwps_version": null,
+   "location_id": 140517,
+   "id": 263698,
+   "cost_description": "Unknown",
+   "pre_charge_instructions": null,
+   "nissan_nctc": false,
+   "payment_enabled": null,
+   "available": 0,
+   "outlets": [
+    {
+     "available": null,
+     "description": null,
+     "power": 0,
+     "volts": null,
+     "id": 529777,
+     "watts": null,
+     "connector": 2,
+     "connector_type": 2,
+     "amps": null,
+     "available_changed_at": null,
+     "outlet_index": null
+    }
+   ],
+   "hours": "",
+   "promos": [],
+   "ocpp_version": null,
+   "kilowatts": null,
+   "requiresAccessCard": false,
+   "manufacturer": "",
+   "name": null,
+   "network_id": null,
+   "created_at": "2018-01-10T21:16:58Z",
+   "amps": null,
+   "model": "",
+   "available_changed_at": null
+  }
+ ],
+ "enabled": true,
+ "longitude": -85.681633,
+ "reviews": [],
+ "under_repair": false,
+ "poi_name": "Bank",
+ "locale": "US",
+ "updated_at": "2019-01-18T01:32:44Z",
+ "cost": true,
+ "pwps_version": null,
+ "id": 140517,
+ "datasources": [],
+ "cost_description": "",
+ "access": 1,
+ "description": "",
+ "custom_ports": "",
+ "confidence": 2,
+ "hours": "8:30am to 5pm",
+ "all_promos": [],
+ "address": "7735 IN-62, Charlestown, IN 47111",
+ "parking_type_name": "Free",
+ "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png",
+ "photos": [
+  {
+   "user_id": null,
+   "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/385395.jpg",
+   "created_at": "2019-02-06T20:38:06Z",
+   "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/385395.png",
+   "caption": "As of 02/06/19 this charger is operational. See manager to switch it on during business hours.",
+   "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/385395.png",
+   "order": 0,
+   "id": 385395
+  },
+  {
+   "user_id": null,
+   "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/346594.jpg",
+   "created_at": "2018-10-06T17:03:04Z",
+   "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/346594.png",
+   "caption": "The Bank my turn them off after hours. Lame.",
+   "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/346594.png",
+   "order": 0,
+   "id": 346594
+  },
+  {
+   "user_id": null,
+   "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/346592.jpg",
+   "created_at": "2018-10-06T16:59:41Z",
+   "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/346592.png",
+   "caption": "Not working.",
+   "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/346592.png",
+   "order": 0,
+   "id": 346592
+  }
+ ],
+ "url": "http://api.plugshare.com/view/location/140517",
+ "created_at": "2018-01-10T21:16:58Z",
+ "promos": [],
+ "formatted_phone_number": "+1 812-282-4303",
+ "coming_soon": null
+}

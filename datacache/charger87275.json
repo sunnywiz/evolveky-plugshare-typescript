@@ -1,0 +1,220 @@
+{
+ "reverse_geocoded_address_components": {
+  "postal_code": "40203",
+  "country_code": "US",
+  "street_number": "736",
+  "locality": "Louisville",
+  "sublocality_1": null,
+  "route": "S Jackson St",
+  "sublocality_2": null,
+  "administrative_area_2": "Jefferson County",
+  "administrative_area_3": null,
+  "sublocality_3": null,
+  "administrative_area_1": "KY"
+ },
+ "opening_date": "None",
+ "nissan_nctc": false,
+ "payment_enabled": null,
+ "reverse_geocoded_address": "736 S Jackson St, Louisville, KY 40203, USA",
+ "amenities": [
+  {
+   "location_id": 87275,
+   "type": 4
+  }
+ ],
+ "latitude": 38.242969,
+ "open247": false,
+ "valid_outlets": [
+  {
+   "connector": 1,
+   "power": 0
+  },
+  {
+   "connector": 2,
+   "power": 0
+  },
+  {
+   "connector": 3,
+   "power": 0
+  },
+  {
+   "connector": 13,
+   "power": 0
+  },
+  {
+   "connector": 4,
+   "power": 0
+  },
+  {
+   "connector": 6,
+   "power": 0
+  },
+  {
+   "connector": 5,
+   "power": 0
+  }
+ ],
+ "phone": "",
+ "e164_phone_number": "",
+ "locked": false,
+ "title_description": "Louisville Metro Housing Authority EVCS #2 - Electric Car Charging - 1 Check-ins 2 Photos - 433 Roselane St., Louisville, KY 40203 - US - Street Parking - PlugShare",
+ "name": "Louisville Metro Housing Authority EVCS #2",
+ "icon_type": "G",
+ "stations": [
+  {
+   "volts": null,
+   "network_ext_id": "181675G01003010000",
+   "qr_enabled": null,
+   "cost": 2,
+   "pwps_version": null,
+   "location_id": 87275,
+   "id": 134287,
+   "cost_description": "$2.00 flat rate per session $0.50 minimum. First 60 minutes are free.",
+   "pre_charge_instructions": null,
+   "nissan_nctc": false,
+   "network": {
+    "description": "GE's networked platform that allows users to manage and monitor the charging of their electric cars.",
+    "formatted_phone_number": "+1 855-443-3873",
+    "url": "https://www.gewattstation.com/connect/",
+    "image": "https://s3.amazonaws.com/plugshare.production.assets/network-images/watt.png",
+    "action_url": "https://www.gewattstation.com/connect/",
+    "action_name": "Sign Up",
+    "phone": "8554433873",
+    "e164_phone_number": "+18554433873",
+    "id": 4,
+    "name": "GE WattStation"
+   },
+   "payment_enabled": null,
+   "latitude": 38.242969,
+   "available": 1,
+   "outlets": [
+    {
+     "available": null,
+     "description": null,
+     "power": 0,
+     "volts": null,
+     "id": 333095,
+     "watts": null,
+     "connector": 2,
+     "connector_type": 2,
+     "amps": null,
+     "available_changed_at": null,
+     "outlet_index": null
+    }
+   ],
+   "hours": "",
+   "promos": [],
+   "ocpp_version": null,
+   "kilowatts": null,
+   "requiresAccessCard": false,
+   "manufacturer": "GE",
+   "name": "LMHA EVCS #2",
+   "network_id": 4,
+   "created_at": "2016-05-10T21:18:34Z",
+   "longitude": -85.746268,
+   "amps": null,
+   "model": "",
+   "available_changed_at": "2019-02-07T19:54:04Z"
+  }
+ ],
+ "enabled": true,
+ "longitude": -85.746268,
+ "reviews": [
+  {
+   "comment": "",
+   "rating": 1,
+   "connector_type": 2,
+   "volts": null,
+   "created_at": "2017-06-13T17:46:39Z",
+   "finished": "2017-06-13T18:01:39Z",
+   "station_id": 134287,
+   "waiting": false,
+   "user": {
+    "last_name": "",
+    "hide_address": false,
+    "charger_type": 0,
+    "country_code": "US",
+    "language_code": null,
+    "allow_promo_email": false,
+    "id": 81997,
+    "notify_nearby": 0,
+    "first_name": "Stuart",
+    "vehicle_color": 8,
+    "last_login": "2019-02-22T00:56:32Z",
+    "allow_notifications": null,
+    "vehicle_description": "2011 Leaf SL -- Ocean Blue",
+    "phone": "5024265376",
+    "e164_phone_number": "",
+    "hide_phone": false,
+    "vehicle_type": 1,
+    "about": "President of EVolve KY, Kentucky’s electric vehicle organization. Group meets monthly. Visit our website at www.evolveky.org or call me for more information. ",
+    "notify_nearby_radius": 0,
+    "receive_grid_alerts": 0,
+    "created_at": "2014-10-05T21:52:21Z",
+    "photos": [
+     {
+      "user_id": 81997,
+      "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/62035.jpg",
+      "created_at": "2014-10-05T22:14:34Z",
+      "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/62035.png",
+      "caption": "",
+      "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/62035.png",
+      "order": 0,
+      "id": 62035
+     }
+    ],
+    "formatted_phone_number": "+1 502-426-5376",
+    "vehicle_subtype": 2
+   },
+   "amps": null,
+   "vehicle_type": 1,
+   "outlet_id": 333095,
+   "id": 761435
+  }
+ ],
+ "under_repair": false,
+ "poi_name": "Street Parking",
+ "locale": "US",
+ "updated_at": "2018-12-03T19:11:19Z",
+ "cost": true,
+ "pwps_version": null,
+ "id": 87275,
+ "datasources": [],
+ "cost_description": "Free for first hour with a flat rate of $2.00 after that.\nStart charging with GE Wattstation Connect app",
+ "access": 1,
+ "description": "",
+ "custom_ports": "",
+ "confidence": 2,
+ "hours": "",
+ "all_promos": [],
+ "address": "433 Roselane St., Louisville, KY 40203",
+ "parking_type_name": "Free",
+ "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png",
+ "photos": [
+  {
+   "user_id": 81997,
+   "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/205373.jpg",
+   "created_at": "2017-06-13T17:46:19Z",
+   "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/205373.png",
+   "caption": "Testing station two.",
+   "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/205373.png",
+   "order": 0,
+   "id": 205373
+  },
+  {
+   "user_id": 14864,
+   "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/176300.jpg",
+   "created_at": "2017-02-03T13:30:08Z",
+   "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/176300.png",
+   "caption": "",
+   "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/176300.png",
+   "order": 0,
+   "id": 176300
+  }
+ ],
+ "url": "http://api.plugshare.com/view/location/87275",
+ "created_at": "2016-05-10T21:18:32Z",
+ "promos": [],
+ "formatted_phone_number": "",
+ "coming_soon": null
+}

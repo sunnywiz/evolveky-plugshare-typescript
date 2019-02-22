@@ -1,0 +1,2485 @@
+[
+ {
+  "name": "Walmart Supercenter",
+  "stations": [
+   {
+    "network_id": 47,
+    "outlets": [
+     {
+      "connector": 13,
+      "id": 642239,
+      "power": 0
+     },
+     {
+      "connector": 13,
+      "id": 642238,
+      "power": 0
+     }
+    ],
+    "id": 354215
+   },
+   {
+    "network_id": 47,
+    "outlets": [
+     {
+      "connector": 13,
+      "id": 642237,
+      "power": 0
+     },
+     {
+      "connector": 13,
+      "id": 642236,
+      "power": 0
+     }
+    ],
+    "id": 354214
+   },
+   {
+    "network_id": 47,
+    "outlets": [
+     {
+      "connector": 13,
+      "id": 642235,
+      "power": 0
+     },
+     {
+      "connector": 13,
+      "id": 642234,
+      "power": 0
+     }
+    ],
+    "id": 354213
+   },
+   {
+    "network_id": 47,
+    "outlets": [
+     {
+      "connector": 13,
+      "id": 642233,
+      "power": 0
+     },
+     {
+      "connector": 13,
+      "id": 642232,
+      "power": 0
+     }
+    ],
+    "id": 354212
+   },
+   {
+    "network_id": 47,
+    "outlets": [
+     {
+      "connector": 13,
+      "id": 631771,
+      "power": 0
+     },
+     {
+      "connector": 13,
+      "id": 628427,
+      "power": 0
+     }
+    ],
+    "id": 343496
+   },
+   {
+    "network_id": 47,
+    "outlets": [
+     {
+      "connector": 13,
+      "id": 628424,
+      "power": 0
+     },
+     {
+      "connector": 3,
+      "id": 628423,
+      "power": 0
+     }
+    ],
+    "id": 343493
+   }
+  ],
+  "url": "http://api.plugshare.com/view/location/169454",
+  "icon_type": "Y",
+  "longitude": -85.759178,
+  "access": 1,
+  "score": 4.7,
+  "address": "1351 Veterans Pkwy, Clarksville, IN 47129, USA",
+  "latitude": 38.331831,
+  "id": 169454,
+  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/Y.png"
+ },
+ {
+  "name": "Kentucky One Medical Center Jewish South",
+  "stations": [
+   {
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 202343,
+      "power": 0
+     }
+    ],
+    "id": 88729
+   },
+   {
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 202575,
+      "power": 0
+     }
+    ],
+    "id": 88818
+   }
+  ],
+  "url": "http://api.plugshare.com/view/location/63797",
+  "icon_type": "G",
+  "longitude": -85.696388,
+  "access": 1,
+  "score": 8.6,
+  "address": "1903 W Hebron Ln, Shepherdsville, KY 40165",
+  "latitude": 38.061409,
+  "id": 63797,
+  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
+ },
+ {
+  "name": "First Harrison Bank",
+  "stations": [
+   {
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 664623,
+      "power": 0
+     }
+    ],
+    "id": 371512
+   },
+   {
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 529777,
+      "power": 0
+     }
+    ],
+    "id": 263698
+   }
+  ],
+  "url": "http://api.plugshare.com/view/location/140517",
+  "icon_type": "G",
+  "longitude": -85.681633,
+  "access": 1,
+  "address": "7735 IN-62, Charlestown, IN 47111",
+  "latitude": 38.388986,
+  "id": 140517,
+  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
+ },
+ {
+  "name": "Tattoo Charlie’s",
+  "stations": [
+   {
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 551071,
+      "power": 0
+     }
+    ],
+    "id": 281404
+   }
+  ],
+  "url": "http://api.plugshare.com/view/location/146495",
+  "icon_type": "G",
+  "longitude": -85.68673,
+  "access": 1,
+  "latitude": 38.137596,
+  "score": 9,
+  "address": "7904 Preston Hwy, Louisville, KY  40219, United States",
+  "owner": {
+   "first_name": "Buddy Wheeler",
+   "id": 290441
+  },
+  "id": 146495,
+  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
+ },
+ {
+  "name": "Prospect Plaza",
+  "stations": [
+   {
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 633881,
+      "power": 0
+     },
+     {
+      "connector": 2,
+      "id": 633880,
+      "power": 0
+     }
+    ],
+    "id": 347587
+   }
+  ],
+  "url": "http://api.plugshare.com/view/location/171006",
+  "icon_type": "G",
+  "longitude": -85.618992,
+  "access": 1,
+  "score": 9,
+  "address": "9211 US Highway 42 Prospect, KY  40059 United States",
+  "latitude": 38.340479,
+  "id": 171006,
+  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
+ },
+ {
+  "name": "Thomas Jefferson Unitarian Church",
+  "stations": [
+   {
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 524768,
+      "power": 0
+     },
+     {
+      "connector": 2,
+      "id": 524769,
+      "power": 0
+     }
+    ],
+    "id": 259691
+   }
+  ],
+  "url": "http://api.plugshare.com/view/location/139073",
+  "icon_type": "G",
+  "longitude": -85.628436,
+  "access": 1,
+  "score": 10,
+  "address": "4934 Brownsboro Rd, Louisville, KY  40222, United States",
+  "latitude": 38.280904,
+  "id": 139073,
+  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
+ },
+ {
+  "name": "Sam Swope BMW",
+  "stations": [
+   {
+    "network_id": 1,
+    "promos": [
+     {
+      "id": 2
+     }
+    ],
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 166029,
+      "power": 0
+     },
+     {
+      "connector": 2,
+      "id": 299149,
+      "power": 0
+     }
+    ],
+    "id": 77288
+   }
+  ],
+  "url": "http://api.plugshare.com/view/location/50856",
+  "icon_type": "G",
+  "longitude": -85.579857,
+  "access": 1,
+  "score": 8.6,
+  "address": "4 Swope Autocenter Drive Louisville, KY 40299",
+  "latitude": 38.216698,
+  "id": 50856,
+  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
+ },
+ {
+  "name": "Abel Construction ",
+  "stations": [
+   {
+    "network_id": 1,
+    "promos": [
+     {
+      "id": 2
+     }
+    ],
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 664829,
+      "power": 0
+     },
+     {
+      "connector": 2,
+      "id": 664828,
+      "power": 0
+     }
+    ],
+    "id": 371698
+   }
+  ],
+  "url": "http://api.plugshare.com/view/location/180210",
+  "icon_type": "G",
+  "longitude": -85.513321,
+  "access": 1,
+  "address": "2401 Stanley Gault Pkwy, Louisville, KY 40223",
+  "latitude": 38.273397,
+  "id": 180210,
+  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
+ },
+ {
+  "name": "Tri-County Ford",
+  "stations": [
+   {
+    "outlets": [
+     {
+      "connector": 1,
+      "id": 93400,
+      "power": 0
+     },
+     {
+      "connector": 2,
+      "id": 93401,
+      "power": 0
+     }
+    ],
+    "id": 52257
+   }
+  ],
+  "url": "http://api.plugshare.com/view/location/38667",
+  "icon_type": "G",
+  "longitude": -85.431152,
+  "access": 1,
+  "score": 10,
+  "address": "4032 Commerce Pkwy, Buckner, KY 40010",
+  "latitude": 38.37949,
+  "id": 38667,
+  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
+ },
+ {
+  "name": "Jeffersontown Library",
+  "stations": [
+   {
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 306141,
+      "power": 0
+     }
+    ],
+    "id": 119158
+   }
+  ],
+  "url": "http://api.plugshare.com/view/location/81440",
+  "icon_type": "GR",
+  "longitude": -85.561222,
+  "access": 1,
+  "score": 10,
+  "address": "10635 Watterson Trail, Jeffersontown, KY 40299",
+  "latitude": 38.197298,
+  "id": 81440,
+  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/GR.png"
+ },
+ {
+  "name": "LG&E Seneca Park",
+  "stations": [
+   {
+    "network_id": 1,
+    "promos": [
+     {
+      "id": 2
+     }
+    ],
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 629509,
+      "power": 0
+     },
+     {
+      "connector": 2,
+      "id": 629496,
+      "power": 0
+     }
+    ],
+    "id": 344315
+   }
+  ],
+  "url": "http://api.plugshare.com/view/location/169780",
+  "icon_type": "G",
+  "longitude": -85.671174,
+  "access": 1,
+  "address": "3101 Rock Creek Dr, Louisville, KY 40207",
+  "latitude": 38.242103,
+  "id": 169780,
+  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
+ },
+ {
+  "name": "The Pepin Mansion B&B",
+  "stations": [
+   {
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 471269,
+      "power": 0
+     }
+    ],
+    "id": 173679
+   },
+   {
+    "network_id": 35,
+    "outlets": [
+     {
+      "connector": 6,
+      "id": 477532,
+      "power": 0
+     }
+    ],
+    "id": 227959
+   }
+  ],
+  "url": "http://api.plugshare.com/view/location/102921",
+  "icon_type": "G",
+  "longitude": -85.812532,
+  "access": 1,
+  "score": 9,
+  "address": "1003 E. Main St., New Albany, Indiana 47150",
+  "latitude": 38.28717,
+  "id": 102921,
+  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
+ },
+ {
+  "name": "Taxspeaker",
+  "stations": [
+   {
+    "network_id": 1,
+    "promos": [
+     {
+      "id": 2
+     }
+    ],
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 565700,
+      "power": 0
+     },
+     {
+      "connector": 2,
+      "id": 565701,
+      "power": 0
+     }
+    ],
+    "id": 294364
+   }
+  ],
+  "url": "http://api.plugshare.com/view/location/153452",
+  "icon_type": "G",
+  "longitude": -85.74333,
+  "access": 1,
+  "score": 10,
+  "address": "4403 Hamburg Pike, Jeffersonville, IN 47130, USA",
+  "latitude": 38.330547,
+  "id": 153452,
+  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
+ },
+ {
+  "name": "Air Pollution Control District",
+  "stations": [
+   {
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 387398,
+      "power": 0
+     }
+    ],
+    "id": 167626
+   }
+  ],
+  "url": "http://api.plugshare.com/view/location/100542",
+  "icon_type": "G",
+  "longitude": -85.766289,
+  "access": 1,
+  "score": 10,
+  "address": "701 Ormsby Ave., Louisville, KY 40203",
+  "latitude": 38.233464,
+  "id": 100542,
+  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
+ },
+ {
+  "name": "The Anchor Building",
+  "stations": [
+   {
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 318985,
+      "power": 0
+     }
+    ],
+    "id": 124249
+   },
+   {
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 318984,
+      "power": 0
+     }
+    ],
+    "id": 124248
+   }
+  ],
+  "url": "http://api.plugshare.com/view/location/84518",
+  "icon_type": "G",
+  "longitude": -85.789136,
+  "access": 1,
+  "score": 10,
+  "address": "2509 Portland Ave, Louisville KY 40212, United States",
+  "latitude": 38.271257,
+  "id": 84518,
+  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
+ },
+ {
+  "name": "Mitsubishi Store Clarksville",
+  "stations": [
+   {
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 437107,
+      "power": 0
+     }
+    ],
+    "id": 202180
+   }
+  ],
+  "url": "http://api.plugshare.com/view/location/116587",
+  "icon_type": "G",
+  "longitude": -85.763286,
+  "access": 1,
+  "score": 9,
+  "address": "1590 Greentree Blvd, Clarksville, IN 47129",
+  "latitude": 38.318607,
+  "id": 116587,
+  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
+ },
+ {
+  "name": "Louisville International Airport",
+  "stations": [
+   {
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 327110,
+      "power": 0
+     },
+     {
+      "connector": 2,
+      "id": 274078,
+      "power": 0
+     }
+    ],
+    "id": 71200
+   }
+  ],
+  "url": "http://api.plugshare.com/view/location/52336",
+  "icon_type": "G",
+  "longitude": -85.741646,
+  "access": 1,
+  "address": "600 Terminal Drive, Louisville, KY 40209",
+  "latitude": 38.185844,
+  "id": 52336,
+  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
+ },
+ {
+  "name": "Norton Brownsboro Hospital",
+  "stations": [
+   {
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 662391,
+      "power": 0
+     },
+     {
+      "connector": 2,
+      "id": 662390,
+      "power": 0
+     }
+    ],
+    "id": 369812
+   },
+   {
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 662393,
+      "power": 0
+     },
+     {
+      "connector": 2,
+      "id": 662392,
+      "power": 0
+     }
+    ],
+    "id": 369813
+   }
+  ],
+  "url": "http://api.plugshare.com/view/location/179466",
+  "icon_type": "G",
+  "longitude": -85.574799,
+  "access": 1,
+  "address": "4960 Norton Healthcare Blvd, Louisville, KY 40241",
+  "latitude": 38.31676,
+  "id": 179466,
+  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
+ },
+ {
+  "name": "Healthy House",
+  "stations": [
+   {
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 422028,
+      "power": 0
+     }
+    ],
+    "id": 192524
+   }
+  ],
+  "url": "http://api.plugshare.com/view/location/112697",
+  "icon_type": "G",
+  "longitude": -85.776055,
+  "access": 1,
+  "score": 10,
+  "address": "1641 Portland Ave., Louisville, KY 40203",
+  "latitude": 38.263781,
+  "id": 112697,
+  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
+ },
+ {
+  "name": "Heine Bros. Coffee - Hikes Point",
+  "stations": [
+   {
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 541065,
+      "power": 0
+     }
+    ],
+    "id": 272973
+   }
+  ],
+  "url": "http://api.plugshare.com/view/location/143695",
+  "icon_type": "G",
+  "longitude": -85.626289,
+  "access": 1,
+  "score": 10,
+  "address": "3965 Taylorsville Rd, Louisville, KY 40220",
+  "latitude": 38.220117,
+  "id": 143695,
+  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
+ },
+ {
+  "name": "The Irish Rover",
+  "stations": [
+   {
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 423868,
+      "power": 0
+     },
+     {
+      "connector": 2,
+      "id": 423869,
+      "power": 0
+     }
+    ],
+    "id": 193714
+   }
+  ],
+  "url": "http://api.plugshare.com/view/location/113170",
+  "icon_type": "G",
+  "longitude": -85.70216,
+  "access": 1,
+  "score": 10,
+  "address": "2319 Frankfort Ave, Louisville, KY 40206",
+  "latitude": 38.253659,
+  "id": 113170,
+  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
+ },
+ {
+  "name": "LG&E Crescent Hill Library",
+  "stations": [
+   {
+    "network_id": 1,
+    "promos": [
+     {
+      "id": 2
+     }
+    ],
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 490136,
+      "power": 0
+     },
+     {
+      "connector": 2,
+      "id": 490137,
+      "power": 0
+     }
+    ],
+    "id": 236012
+   }
+  ],
+  "url": "http://api.plugshare.com/view/location/130057",
+  "icon_type": "G",
+  "longitude": -85.691806,
+  "access": 1,
+  "address": "2762 Frankfort Ave, Louisville, KY 40206",
+  "latitude": 38.254686,
+  "id": 130057,
+  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
+ },
+ {
+  "name": "Full Stop Station",
+  "stations": [
+   {
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 656778,
+      "power": 0
+     },
+     {
+      "connector": 2,
+      "id": 656777,
+      "power": 0
+     }
+    ],
+    "id": 365499
+   }
+  ],
+  "url": "http://api.plugshare.com/view/location/177875",
+  "icon_type": "G",
+  "longitude": -85.732244,
+  "access": 1,
+  "address": "1132 E St Catherine St, Louisville, KY 40204",
+  "latitude": 38.234292,
+  "id": 177875,
+  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
+ },
+ {
+  "name": "LG&E E. Washington Street",
+  "stations": [
+   {
+    "network_id": 1,
+    "promos": [
+     {
+      "id": 2
+     }
+    ],
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 383999,
+      "power": 0
+     },
+     {
+      "connector": 2,
+      "id": 384000,
+      "power": 0
+     }
+    ],
+    "id": 165519
+   }
+  ],
+  "url": "http://api.plugshare.com/view/location/99665",
+  "icon_type": "G",
+  "longitude": -85.73009,
+  "access": 1,
+  "score": 10,
+  "address": "1100–1116 E Washington St, Louisville KY 40206, United States",
+  "latitude": 38.256298,
+  "id": 99665,
+  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
+ },
+ {
+  "name": "DMB Transport",
+  "stations": [
+   {
+    "outlets": [
+     {
+      "connector": 1,
+      "id": 149577,
+      "power": 0
+     },
+     {
+      "connector": 2,
+      "id": 149578,
+      "power": 0
+     }
+    ],
+    "id": 62330
+   }
+  ],
+  "url": "http://api.plugshare.com/view/location/44453",
+  "icon_type": "G",
+  "longitude": -85.658501,
+  "access": 1,
+  "score": 9,
+  "address": "5500 Poplar Level Road, Louisville, KY 40228, USA",
+  "latitude": 38.159443,
+  "id": 44453,
+  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
+ },
+ {
+  "name": "Safai Coffee",
+  "stations": [
+   {
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 561630,
+      "power": 0
+     }
+    ],
+    "id": 290876
+   }
+  ],
+  "url": "http://api.plugshare.com/view/location/152263",
+  "icon_type": "G",
+  "longitude": -85.703197,
+  "access": 1,
+  "score": 10,
+  "address": "1707 Bardstown Rd, Louisville, KY 40205",
+  "latitude": 38.230009,
+  "id": 152263,
+  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
+ },
+ {
+  "name": "Highland Green Building",
+  "stations": [
+   {
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 326298,
+      "power": 0
+     }
+    ],
+    "id": 129071
+   }
+  ],
+  "url": "http://api.plugshare.com/view/location/85904",
+  "icon_type": "G",
+  "longitude": -85.711302,
+  "access": 1,
+  "score": 10,
+  "address": "1401 Bardstown Rd., Louisville, KY 40204",
+  "latitude": 38.233318,
+  "id": 85904,
+  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
+ },
+ {
+  "name": "The Green Building",
+  "stations": [
+   {
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 262335,
+      "power": 0
+     }
+    ],
+    "id": 99638
+   },
+   {
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 262671,
+      "power": 0
+     }
+    ],
+    "id": 106495
+   }
+  ],
+  "url": "http://api.plugshare.com/view/location/70274",
+  "icon_type": "G",
+  "longitude": -85.738831,
+  "access": 1,
+  "score": 10,
+  "address": "732 E Market St Louisville, KY 40202",
+  "latitude": 38.253147,
+  "id": 70274,
+  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
+ },
+ {
+  "name": "Hawthorn Suites by Wyndham Louisville",
+  "stations": [
+   {
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 466500,
+      "power": 0
+     }
+    ],
+    "id": 220520
+   },
+   {
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 466499,
+      "power": 0
+     }
+    ],
+    "id": 220519
+   },
+   {
+    "network_id": 35,
+    "outlets": [
+     {
+      "connector": 6,
+      "id": 469348,
+      "power": 0
+     }
+    ],
+    "id": 222388
+   },
+   {
+    "network_id": 35,
+    "outlets": [
+     {
+      "connector": 6,
+      "id": 469349,
+      "power": 0
+     }
+    ],
+    "id": 222389
+   },
+   {
+    "network_id": 35,
+    "outlets": [
+     {
+      "connector": 6,
+      "id": 480092,
+      "power": 0
+     }
+    ],
+    "id": 229844
+   },
+   {
+    "network_id": 35,
+    "outlets": [
+     {
+      "connector": 6,
+      "id": 480093,
+      "power": 0
+     }
+    ],
+    "id": 229845
+   }
+  ],
+  "url": "http://api.plugshare.com/view/location/123969",
+  "icon_type": "G",
+  "longitude": -85.54002,
+  "access": 1,
+  "score": 10,
+  "address": "11762 Commonwealth Dr, Louisville, KY 40299",
+  "latitude": 38.21398,
+  "id": 123969,
+  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
+ },
+ {
+  "name": "Yew Dell Botanical Gardens",
+  "stations": [
+   {
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 655065,
+      "power": 0
+     }
+    ],
+    "id": 364226
+   }
+  ],
+  "url": "http://api.plugshare.com/view/location/177307",
+  "icon_type": "G",
+  "longitude": -85.463569,
+  "access": 1,
+  "address": "6217–6305 Old LaGrange Rd, Crestwood, KY  40014, United States",
+  "latitude": 38.336927,
+  "id": 177307,
+  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
+ },
+ {
+  "name": "Springs Business Center",
+  "stations": [
+   {
+    "network_id": 1,
+    "promos": [
+     {
+      "id": 2
+     }
+    ],
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 279400,
+      "power": 0
+     },
+     {
+      "connector": 2,
+      "id": 279461,
+      "power": 0
+     }
+    ],
+    "id": 112052
+   }
+  ],
+  "url": "http://api.plugshare.com/view/location/77285",
+  "icon_type": "G",
+  "longitude": -85.643653,
+  "access": 1,
+  "score": 10,
+  "address": "950 Breckenridge Ln, St. Matthews KY 40207, United States",
+  "latitude": 38.235338,
+  "id": 77285,
+  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
+ },
+ {
+  "name": "Jefferson County Clerk",
+  "stations": [
+   {
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 668652,
+      "power": 0
+     },
+     {
+      "connector": 2,
+      "id": 668651,
+      "power": 0
+     }
+    ],
+    "id": 374554
+   }
+  ],
+  "url": "http://api.plugshare.com/view/location/181370",
+  "icon_type": "G",
+  "longitude": -85.566075,
+  "access": 1,
+  "address": "10420 Watterson Trail, Louisville, KY 40299",
+  "latitude": 38.193512,
+  "id": 181370,
+  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
+ },
+ {
+  "name": "Springs Medical Center",
+  "stations": [
+   {
+    "network_id": 1,
+    "promos": [
+     {
+      "id": 2
+     }
+    ],
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 279460,
+      "power": 0
+     },
+     {
+      "connector": 2,
+      "id": 279458,
+      "power": 0
+     }
+    ],
+    "id": 112075
+   },
+   {
+    "network_id": 1,
+    "promos": [
+     {
+      "id": 2
+     }
+    ],
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 279387,
+      "power": 0
+     },
+     {
+      "connector": 2,
+      "id": 279459,
+      "power": 0
+     }
+    ],
+    "id": 112049
+   }
+  ],
+  "url": "http://api.plugshare.com/view/location/77282",
+  "icon_type": "G",
+  "longitude": -85.642361,
+  "access": 1,
+  "score": 10,
+  "address": "6400 Dutchmans Pkwy, Louisville, KY 40205, USA",
+  "latitude": 38.229301,
+  "id": 77282,
+  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
+ },
+ {
+  "name": "Speed Art Museum",
+  "stations": [
+   {
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 551014,
+      "power": 0
+     }
+    ],
+    "id": 281357
+   },
+   {
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 551015,
+      "power": 0
+     }
+    ],
+    "id": 281358
+   },
+   {
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 551016,
+      "power": 0
+     }
+    ],
+    "id": 281359
+   }
+  ],
+  "url": "http://api.plugshare.com/view/location/146479",
+  "icon_type": "G",
+  "longitude": -85.759671,
+  "access": 1,
+  "score": 8.2,
+  "address": "2035 S 3rd St, Louisville, KY 40208",
+  "latitude": 38.219834,
+  "id": 146479,
+  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
+ },
+ {
+  "name": "Clay Commons",
+  "stations": [
+   {
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 372115,
+      "power": 0
+     }
+    ],
+    "id": 158069
+   },
+   {
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 372113,
+      "power": 0
+     }
+    ],
+    "id": 156185
+   }
+  ],
+  "url": "http://api.plugshare.com/view/location/96037",
+  "icon_type": "G",
+  "longitude": -85.757889,
+  "access": 1,
+  "score": 10,
+  "address": "324 W Chestnut St, Louisville, KY 40202",
+  "latitude": 38.248463,
+  "id": 96037,
+  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
+ },
+ {
+  "name": "YMCA at Norton Commons",
+  "stations": [
+   {
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 553222,
+      "power": 0
+     },
+     {
+      "connector": 2,
+      "id": 553223,
+      "power": 0
+     }
+    ],
+    "id": 283224
+   },
+   {
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 399776,
+      "power": 0
+     },
+     {
+      "connector": 2,
+      "id": 399777,
+      "power": 0
+     }
+    ],
+    "id": 175924
+   }
+  ],
+  "url": "http://api.plugshare.com/view/location/103853",
+  "icon_type": "G",
+  "longitude": -85.562939,
+  "access": 1,
+  "score": 10,
+  "address": "11000 Brownsboro Rd., Louisville, KY 40059",
+  "latitude": 38.32872,
+  "id": 103853,
+  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
+ },
+ {
+  "name": "BMW Certified Preowned of Louisville",
+  "stations": [
+   {
+    "network_id": 1,
+    "promos": [
+     {
+      "id": 2
+     }
+    ],
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 454156,
+      "power": 0
+     }
+    ],
+    "id": 212938
+   }
+  ],
+  "url": "http://api.plugshare.com/view/location/120934",
+  "icon_type": "G",
+  "longitude": -85.635949,
+  "access": 1,
+  "score": 10,
+  "address": "4311 Shelbyville Rd, Louisville, KY 40207",
+  "latitude": 38.25164,
+  "id": 120934,
+  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
+ },
+ {
+  "name": "Bob Hook Chevrolet",
+  "stations": [
+   {
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 110964,
+      "power": 0
+     }
+    ],
+    "id": 31176
+   }
+  ],
+  "url": "http://api.plugshare.com/view/location/19344",
+  "icon_type": "G",
+  "longitude": -85.644287,
+  "access": 1,
+  "score": 9,
+  "address": "4144 Bardstown Rd., Louisville, KY, 40218",
+  "latitude": 38.187408,
+  "id": 19344,
+  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
+ },
+ {
+  "name": "LG&E E. Main St. (Louisville Ballet)",
+  "stations": [
+   {
+    "network_id": 1,
+    "promos": [
+     {
+      "id": 2
+     }
+    ],
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 407141,
+      "power": 0
+     }
+    ],
+    "id": 182178
+   }
+  ],
+  "url": "http://api.plugshare.com/view/location/108676",
+  "icon_type": "G",
+  "longitude": -85.747053,
+  "access": 1,
+  "score": 10,
+  "address": "315 E. Main St., Louisville, KY 40202",
+  "latitude": 38.255707,
+  "id": 108676,
+  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
+ },
+ {
+  "name": "Hampton Inn/Home2 Suites Louisville",
+  "stations": [
+   {
+    "network_id": 35,
+    "outlets": [
+     {
+      "connector": 6,
+      "id": 519705,
+      "power": 0
+     }
+    ],
+    "id": 255480
+   },
+   {
+    "network_id": 35,
+    "outlets": [
+     {
+      "connector": 6,
+      "id": 519696,
+      "power": 0
+     }
+    ],
+    "id": 255471
+   },
+   {
+    "network_id": 35,
+    "outlets": [
+     {
+      "connector": 6,
+      "id": 519701,
+      "power": 0
+     }
+    ],
+    "id": 255476
+   },
+   {
+    "network_id": 35,
+    "outlets": [
+     {
+      "connector": 6,
+      "id": 519704,
+      "power": 0
+     }
+    ],
+    "id": 255479
+   },
+   {
+    "network_id": 35,
+    "outlets": [
+     {
+      "connector": 6,
+      "id": 519703,
+      "power": 0
+     }
+    ],
+    "id": 255478
+   },
+   {
+    "network_id": 35,
+    "outlets": [
+     {
+      "connector": 6,
+      "id": 519697,
+      "power": 0
+     }
+    ],
+    "id": 255472
+   },
+   {
+    "network_id": 35,
+    "outlets": [
+     {
+      "connector": 6,
+      "id": 519698,
+      "power": 0
+     }
+    ],
+    "id": 255473
+   },
+   {
+    "network_id": 35,
+    "outlets": [
+     {
+      "connector": 6,
+      "id": 519699,
+      "power": 0
+     }
+    ],
+    "id": 255474
+   },
+   {
+    "network_id": 35,
+    "outlets": [
+     {
+      "connector": 6,
+      "id": 519700,
+      "power": 0
+     }
+    ],
+    "id": 255475
+   },
+   {
+    "network_id": 35,
+    "outlets": [
+     {
+      "connector": 6,
+      "id": 519702,
+      "power": 0
+     }
+    ],
+    "id": 255477
+   },
+   {
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 519970,
+      "power": 0
+     }
+    ],
+    "id": 255736
+   },
+   {
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 519971,
+      "power": 0
+     }
+    ],
+    "id": 255737
+   }
+  ],
+  "url": "http://api.plugshare.com/view/location/137562",
+  "icon_type": "G",
+  "longitude": -85.575171,
+  "access": 1,
+  "score": 10,
+  "address": "1150 Forest Bridge Rd., Building B, Louisville, KY 40223",
+  "latitude": 38.261613,
+  "id": 137562,
+  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
+ },
+ {
+  "name": "LG&E AB Sawyer Park",
+  "stations": [
+   {
+    "network_id": 1,
+    "promos": [
+     {
+      "id": 2
+     }
+    ],
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 629511,
+      "power": 0
+     },
+     {
+      "connector": 2,
+      "id": 629497,
+      "power": 0
+     }
+    ],
+    "id": 344316
+   }
+  ],
+  "url": "http://api.plugshare.com/view/location/169781",
+  "icon_type": "G",
+  "longitude": -85.580355,
+  "access": 1,
+  "address": "9310 Whipps Mill Rd, Louisville, KY 40223, United States",
+  "latitude": 38.264235,
+  "id": 169781,
+  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
+ },
+ {
+  "name": "1st and Main PARC Garage",
+  "stations": [
+   {
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 372114,
+      "power": 0
+     }
+    ],
+    "id": 158068
+   },
+   {
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 372112,
+      "power": 0
+     }
+    ],
+    "id": 158067
+   }
+  ],
+  "url": "http://api.plugshare.com/view/location/96792",
+  "icon_type": "G",
+  "longitude": -85.7513,
+  "access": 1,
+  "score": 10,
+  "address": "100 E Main St, Louisville KY 40202, United States",
+  "latitude": 38.255754,
+  "id": 96792,
+  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
+ },
+ {
+  "name": "Witherspoon Garage",
+  "stations": [
+   {
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 617545,
+      "power": 0
+     }
+    ],
+    "id": 334845
+   },
+   {
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 617544,
+      "power": 0
+     }
+    ],
+    "id": 334844
+   }
+  ],
+  "url": "http://api.plugshare.com/view/location/166450",
+  "icon_type": "G",
+  "longitude": -85.751253,
+  "access": 1,
+  "score": 9,
+  "address": "101 Witherspoon St, Louisville, KY 40202, USA",
+  "latitude": 38.258228,
+  "id": 166450,
+  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
+ },
+ {
+  "name": "LG&E Main & 9th",
+  "stations": [
+   {
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 448912,
+      "power": 0
+     },
+     {
+      "connector": 2,
+      "id": 449856,
+      "power": 0
+     }
+    ],
+    "id": 209723
+   }
+  ],
+  "url": "http://api.plugshare.com/view/location/119729",
+  "icon_type": "G",
+  "longitude": -85.765831,
+  "access": 1,
+  "address": "927 W Main St, Louisville, KY 40202",
+  "latitude": 38.257824,
+  "id": 119729,
+  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
+ },
+ {
+  "name": "Hepburn Avenue Parking/Charging",
+  "stations": [
+   {
+    "network_id": 1,
+    "promos": [
+     {
+      "id": 2
+     }
+    ],
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 396414,
+      "power": 0
+     },
+     {
+      "connector": 2,
+      "id": 396461,
+      "power": 0
+     }
+    ],
+    "id": 173666
+   }
+  ],
+  "url": "http://api.plugshare.com/view/location/102915",
+  "icon_type": "G",
+  "longitude": -85.72363,
+  "access": 1,
+  "score": 10,
+  "address": "1523 Hepburn Ave, Louisville, KY 40204, USA",
+  "latitude": 38.239097,
+  "id": 102915,
+  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
+ },
+ {
+  "name": "Glassworks Garage",
+  "stations": [
+   {
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 395054,
+      "power": 0
+     }
+    ],
+    "id": 172662
+   },
+   {
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 395055,
+      "power": 0
+     }
+    ],
+    "id": 172663
+   }
+  ],
+  "url": "http://api.plugshare.com/view/location/102537",
+  "icon_type": "G",
+  "longitude": -85.764133,
+  "access": 1,
+  "score": 6.9,
+  "address": "809 W Market St, Louisville KY 40202, United States",
+  "latitude": 38.256312,
+  "id": 102537,
+  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
+ },
+ {
+  "name": "Jeff Wyler Nissan",
+  "stations": [
+   {
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 303889,
+      "power": 0
+     }
+    ],
+    "id": 2105
+   },
+   {
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 377981,
+      "power": 0
+     }
+    ],
+    "id": 161894
+   }
+  ],
+  "url": "http://api.plugshare.com/view/location/2109",
+  "icon_type": "G",
+  "longitude": -85.643013,
+  "access": 1,
+  "score": 10,
+  "address": "4136 Shelbyville Rd, Louisville KY 40207",
+  "latitude": 38.251625,
+  "id": 2109,
+  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
+ },
+ {
+  "name": "Wingate by Wyndham Louisville East",
+  "stations": [
+   {
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 523448,
+      "power": 0
+     }
+    ],
+    "id": 258648
+   },
+   {
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 523453,
+      "power": 0
+     }
+    ],
+    "id": 258653
+   },
+   {
+    "network_id": 35,
+    "outlets": [
+     {
+      "connector": 6,
+      "id": 524754,
+      "power": 0
+     }
+    ],
+    "id": 259677
+   },
+   {
+    "network_id": 35,
+    "outlets": [
+     {
+      "connector": 6,
+      "id": 524755,
+      "power": 0
+     }
+    ],
+    "id": 259678
+   }
+  ],
+  "url": "http://api.plugshare.com/view/location/138454",
+  "icon_type": "G",
+  "longitude": -85.534761,
+  "access": 1,
+  "score": 10,
+  "address": "12301 Alliant Ct, Louisville, KY 40299",
+  "latitude": 38.220194,
+  "id": 138454,
+  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
+ },
+ {
+  "name": "University of Louisville",
+  "stations": [
+   {
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 540338,
+      "power": 0
+     }
+    ],
+    "id": 272374
+   },
+   {
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 540339,
+      "power": 0
+     }
+    ],
+    "id": 272375
+   }
+  ],
+  "url": "http://api.plugshare.com/view/location/143500",
+  "icon_type": "G",
+  "longitude": -85.756242,
+  "access": 1,
+  "score": 9,
+  "address": "2215 S Brook St, Louisville, KY 40208, USA",
+  "latitude": 38.215174,
+  "id": 143500,
+  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
+ },
+ {
+  "name": "Kentucky Science Center",
+  "stations": [
+   {
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 470279,
+      "power": 0
+     }
+    ],
+    "id": 222968
+   },
+   {
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 470278,
+      "power": 0
+     }
+    ],
+    "id": 222967
+   },
+   {
+    "network_id": 35,
+    "outlets": [
+     {
+      "connector": 6,
+      "id": 481005,
+      "power": 0
+     }
+    ],
+    "id": 230364
+   },
+   {
+    "network_id": 35,
+    "outlets": [
+     {
+      "connector": 6,
+      "id": 481006,
+      "power": 0
+     }
+    ],
+    "id": 230365
+   }
+  ],
+  "url": "http://api.plugshare.com/view/location/125034",
+  "icon_type": "G",
+  "longitude": -85.762665,
+  "access": 1,
+  "score": 10,
+  "address": "727 W Main St, Louisville, KY 40202, USA",
+  "latitude": 38.25766,
+  "id": 125034,
+  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
+ },
+ {
+  "name": "21c Museum Hotel",
+  "stations": [
+   {
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 293014,
+      "power": 0
+     }
+    ],
+    "id": 105466
+   },
+   {
+    "network_id": 35,
+    "outlets": [
+     {
+      "connector": 6,
+      "id": 248808,
+      "power": 0
+     }
+    ],
+    "id": 100938
+   },
+   {
+    "network_id": 35,
+    "outlets": [
+     {
+      "connector": 6,
+      "id": 248809,
+      "power": 0
+     }
+    ],
+    "id": 100939
+   }
+  ],
+  "url": "http://api.plugshare.com/view/location/56103",
+  "icon_type": "G",
+  "longitude": -85.76178,
+  "access": 1,
+  "score": 9,
+  "address": "700 W. Main St., Louisville, Kentucky 40202, United States",
+  "latitude": 38.256783,
+  "id": 56103,
+  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
+ },
+ {
+  "name": "Hampton Inn Louisville - Airport",
+  "stations": [
+   {
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 579867,
+      "power": 0
+     }
+    ],
+    "id": 304635
+   },
+   {
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 579868,
+      "power": 0
+     }
+    ],
+    "id": 304636
+   },
+   {
+    "network_id": 35,
+    "outlets": [
+     {
+      "connector": 6,
+      "id": 572063,
+      "power": 0
+     }
+    ],
+    "id": 299763
+   },
+   {
+    "network_id": 35,
+    "outlets": [
+     {
+      "connector": 6,
+      "id": 572064,
+      "power": 0
+     }
+    ],
+    "id": 299764
+   }
+  ],
+  "url": "http://api.plugshare.com/view/location/155318",
+  "icon_type": "G",
+  "longitude": -85.743196,
+  "access": 1,
+  "score": 9,
+  "address": "800 Phillips Ln, Louisville, KY 40209, USA",
+  "latitude": 38.190859,
+  "id": 155318,
+  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
+ },
+ {
+  "name": "Residence Inn",
+  "stations": [
+   {
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 594529,
+      "power": 0
+     },
+     {
+      "connector": 2,
+      "id": 594530,
+      "power": 0
+     }
+    ],
+    "id": 316162
+   },
+   {
+    "network_id": 35,
+    "outlets": [
+     {
+      "connector": 6,
+      "id": 572061,
+      "power": 0
+     }
+    ],
+    "id": 299761
+   },
+   {
+    "network_id": 35,
+    "outlets": [
+     {
+      "connector": 6,
+      "id": 572062,
+      "power": 0
+     }
+    ],
+    "id": 299762
+   }
+  ],
+  "url": "http://api.plugshare.com/view/location/155317",
+  "icon_type": "G",
+  "longitude": -85.74426,
+  "access": 1,
+  "address": "700 Phillips Ln, Louisville, KY 40209, USA",
+  "latitude": 38.190264,
+  "id": 155317,
+  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
+ },
+ {
+  "name": "Louisville Metro Housing Authority EVCS #1",
+  "stations": [
+   {
+    "network_id": 4,
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 332979,
+      "power": 0
+     }
+    ],
+    "id": 134205
+   }
+  ],
+  "url": "http://api.plugshare.com/view/location/119278",
+  "icon_type": "G",
+  "longitude": -85.747164,
+  "access": 1,
+  "address": "418 E Jacob St, Louisville, KY 40203, USA",
+  "latitude": 38.243176,
+  "id": 119278,
+  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
+ },
+ {
+  "name": "Louisville Metro Housing Authority EVCS #2",
+  "stations": [
+   {
+    "network_id": 4,
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 333095,
+      "power": 0
+     }
+    ],
+    "id": 134287
+   }
+  ],
+  "url": "http://api.plugshare.com/view/location/87275",
+  "icon_type": "G",
+  "longitude": -85.746268,
+  "access": 1,
+  "address": "433 Roselane St., Louisville, KY 40203",
+  "latitude": 38.242969,
+  "id": 87275,
+  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
+ },
+ {
+  "name": "Collins Nissan",
+  "stations": [
+   {
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 121384,
+      "power": 0
+     }
+    ],
+    "id": 30466
+   }
+  ],
+  "url": "http://api.plugshare.com/view/location/18754",
+  "icon_type": "G",
+  "longitude": -85.639876,
+  "access": 1,
+  "score": 8.3,
+  "address": "4142 Bardstown Road Louisville, KY 40218",
+  "latitude": 38.185872,
+  "id": 18754,
+  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
+ },
+ {
+  "name": "Bill Collins Ford",
+  "stations": [
+   {
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 174058,
+      "power": 0
+     }
+    ],
+    "id": 75399
+   }
+  ],
+  "url": "http://api.plugshare.com/view/location/55614",
+  "icon_type": "G",
+  "longitude": -85.639343,
+  "access": 1,
+  "score": 9,
+  "address": "4220 Bardstown Rd Louisville, KY 40218",
+  "latitude": 38.185177,
+  "id": 55614,
+  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
+ },
+ {
+  "name": "Byerly Nissan",
+  "stations": [
+   {
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 163047,
+      "power": 0
+     }
+    ],
+    "id": 2106
+   }
+  ],
+  "url": "http://api.plugshare.com/view/location/2110",
+  "icon_type": "G",
+  "longitude": -85.808846,
+  "access": 1,
+  "address": "4027 Dixie Hwy, Louisville, KY 40216",
+  "latitude": 38.190327,
+  "id": 2110,
+  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
+ },
+ {
+  "name": "Byerly Ford",
+  "stations": [
+   {
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 471706,
+      "power": 0
+     }
+    ],
+    "id": 223982
+   }
+  ],
+  "url": "http://api.plugshare.com/view/location/125408",
+  "icon_type": "G",
+  "longitude": -85.809045,
+  "access": 1,
+  "address": "4041 Dixie Hwy, Louisville, KY 40216",
+  "latitude": 38.18952,
+  "id": 125408,
+  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
+ },
+ {
+  "name": "Louisville Metro Housing Authority EVCS #7",
+  "stations": [
+   {
+    "network_id": 4,
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 336107,
+      "power": 0
+     }
+    ],
+    "id": 136399
+   }
+  ],
+  "url": "http://api.plugshare.com/view/location/87259",
+  "icon_type": "G",
+  "longitude": -85.743114,
+  "access": 1,
+  "score": 7.4,
+  "address": "746 Camp  Edwards Way, Louisville, KY 40203",
+  "latitude": 38.242612,
+  "id": 87259,
+  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
+ },
+ {
+  "name": "Louisville Metro Housing Authority EVCS #9",
+  "stations": [
+   {
+    "network_id": 4,
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 333103,
+      "power": 0
+     }
+    ],
+    "id": 134293
+   }
+  ],
+  "url": "http://api.plugshare.com/view/location/87280",
+  "icon_type": "G",
+  "longitude": -85.742352,
+  "access": 1,
+  "score": 9,
+  "address": "748 S. Clay St., Louisville, KY 40203",
+  "latitude": 38.242503,
+  "id": 87280,
+  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
+ },
+ {
+  "name": "Louisville Metro Housing Authority EVCS #8",
+  "stations": [
+   {
+    "network_id": 4,
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 336106,
+      "power": 0
+     }
+    ],
+    "id": 136398
+   }
+  ],
+  "url": "http://api.plugshare.com/view/location/87975",
+  "icon_type": "G",
+  "longitude": -85.742371,
+  "access": 1,
+  "score": 4.1,
+  "address": "756 S. Clay St., Louisville, KY 40203",
+  "latitude": 38.241831,
+  "id": 87975,
+  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
+ },
+ {
+  "name": "Omni Garage",
+  "stations": [
+   {
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 616508,
+      "power": 0
+     }
+    ],
+    "id": 333981
+   },
+   {
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 616507,
+      "power": 0
+     }
+    ],
+    "id": 333980
+   }
+  ],
+  "url": "http://api.plugshare.com/view/location/166031",
+  "icon_type": "G",
+  "longitude": -85.755017,
+  "access": 1,
+  "address": "3rd St, Louisville, KY 40202, USA",
+  "latitude": 38.252571,
+  "id": 166031,
+  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
+ },
+ {
+  "name": "Bluegrass Porshe",
+  "stations": [
+   {
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 260785,
+      "power": 0
+     }
+    ],
+    "id": 106026
+   }
+  ],
+  "url": "http://api.plugshare.com/view/location/72943",
+  "icon_type": "G",
+  "longitude": -85.628308,
+  "access": 1,
+  "address": "4720 Bowling Blvd, Louisville, KY 40207",
+  "latitude": 38.243017,
+  "id": 72943,
+  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
+ },
+ {
+  "name": "Blue Grass Audi",
+  "stations": [
+   {
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 260924,
+      "power": 0
+     },
+     {
+      "connector": 2,
+      "id": 260925,
+      "power": 0
+     }
+    ],
+    "id": 106123
+   }
+  ],
+  "url": "http://api.plugshare.com/view/location/73014",
+  "icon_type": "G",
+  "longitude": -85.628227,
+  "access": 1,
+  "score": 9,
+  "address": "4730 Bowling Blvd, Louisville, KY 40207",
+  "latitude": 38.243607,
+  "id": 73014,
+  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
+ },
+ {
+  "name": "Louisville Metro Housing Authority EVCS #4",
+  "stations": [
+   {
+    "network_id": 4,
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 333096,
+      "power": 0
+     }
+    ],
+    "id": 134288
+   }
+  ],
+  "url": "http://api.plugshare.com/view/location/87276",
+  "icon_type": "G",
+  "longitude": -85.744685,
+  "access": 1,
+  "score": 9,
+  "address": "525 Roselane St., Louisville, KY 40203",
+  "latitude": 38.242823,
+  "id": 87276,
+  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
+ },
+ {
+  "name": "Louisville Metro Housing Authority EVCS #3",
+  "stations": [
+   {
+    "network_id": 4,
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 333105,
+      "power": 0
+     }
+    ],
+    "id": 134295
+   }
+  ],
+  "url": "http://api.plugshare.com/view/location/87281",
+  "icon_type": "G",
+  "longitude": -85.74525,
+  "access": 1,
+  "address": "512 E. Jacob St., Louisville, KY 40203",
+  "latitude": 38.243002,
+  "id": 87281,
+  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
+ },
+ {
+  "name": "Hilton Garden Inn Louisville East",
+  "stations": [
+   {
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 470273,
+      "power": 0
+     }
+    ],
+    "id": 222963
+   },
+   {
+    "network_id": 35,
+    "outlets": [
+     {
+      "connector": 6,
+      "id": 519830,
+      "power": 0
+     }
+    ],
+    "id": 255599
+   },
+   {
+    "network_id": 35,
+    "outlets": [
+     {
+      "connector": 6,
+      "id": 519833,
+      "power": 0
+     }
+    ],
+    "id": 255602
+   },
+   {
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 470274,
+      "power": 0
+     }
+    ],
+    "id": 222964
+   }
+  ],
+  "url": "http://api.plugshare.com/view/location/125032",
+  "icon_type": "G",
+  "longitude": -85.53726,
+  "access": 1,
+  "score": 9,
+  "address": "1530 Alliant Ave, Louisville, KY 40299, USA",
+  "latitude": 38.221068,
+  "id": 125032,
+  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
+ },
+ {
+  "name": "Louisville Metro Housing Authority EVCS #5",
+  "stations": [
+   {
+    "network_id": 4,
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 336104,
+      "power": 0
+     }
+    ],
+    "id": 136396
+   }
+  ],
+  "url": "http://api.plugshare.com/view/location/87973",
+  "icon_type": "G",
+  "longitude": -85.745329,
+  "access": 1,
+  "address": "512 Roselane St., Louisville, KY 40203",
+  "latitude": 38.242302,
+  "id": 87973,
+  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
+ },
+ {
+  "name": "Louisville Metro Housing Authority EVCS #6",
+  "stations": [
+   {
+    "network_id": 4,
+    "outlets": [
+     {
+      "connector": 2,
+      "id": 336105,
+      "power": 0
+     }
+    ],
+    "id": 136397
+   }
+  ],
+  "url": "http://api.plugshare.com/view/location/87974",
+  "icon_type": "G",
+  "longitude": -85.744992,
+  "access": 1,
+  "address": "519 Lampton St, Louisville, KY 40203, USA",
+  "latitude": 38.242168,
+  "id": 87974,
+  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
+ }
+]

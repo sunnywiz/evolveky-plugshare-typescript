@@ -1,0 +1,393 @@
+{
+ "reverse_geocoded_address_components": {
+  "postal_code": "40241",
+  "country_code": "US",
+  "street_number": "5020",
+  "locality": "Louisville",
+  "sublocality_1": null,
+  "route": "Norton Healthcare Blvd",
+  "sublocality_2": null,
+  "administrative_area_2": "Jefferson County",
+  "administrative_area_3": null,
+  "sublocality_3": null,
+  "administrative_area_1": "KY"
+ },
+ "opening_date": "None",
+ "nissan_nctc": false,
+ "payment_enabled": null,
+ "reverse_geocoded_address": "5020 Norton Healthcare Blvd, Louisville, KY 40241, USA",
+ "amenities": [
+  {
+   "location_id": 179466,
+   "type": 3
+  },
+  {
+   "location_id": 179466,
+   "type": 9
+  },
+  {
+   "location_id": 179466,
+   "type": 8
+  },
+  {
+   "location_id": 179466,
+   "type": 6
+  },
+  {
+   "location_id": 179466,
+   "type": 4
+  }
+ ],
+ "latitude": 38.31676,
+ "open247": true,
+ "valid_outlets": [
+  {
+   "connector": 1,
+   "power": 0
+  },
+  {
+   "connector": 2,
+   "power": 0
+  },
+  {
+   "connector": 3,
+   "power": 0
+  },
+  {
+   "connector": 13,
+   "power": 0
+  },
+  {
+   "connector": 4,
+   "power": 0
+  },
+  {
+   "connector": 6,
+   "power": 0
+  },
+  {
+   "connector": 5,
+   "power": 0
+  }
+ ],
+ "phone": "",
+ "e164_phone_number": "",
+ "locked": false,
+ "title_description": "Norton Brownsboro Hospital - Free Electric Car Charging - 3 Check-ins 4 Photos - 4960 Norton Healthcare Blvd, Louisville, KY 40241 - US - Hospital - PlugShare",
+ "name": "Norton Brownsboro Hospital",
+ "icon_type": "G",
+ "stations": [
+  {
+   "volts": null,
+   "network_ext_id": null,
+   "qr_enabled": null,
+   "cost": 0,
+   "pwps_version": null,
+   "location_id": 179466,
+   "id": 369813,
+   "cost_description": "Unknown",
+   "pre_charge_instructions": null,
+   "nissan_nctc": false,
+   "payment_enabled": null,
+   "available": 0,
+   "outlets": [
+    {
+     "available": 0,
+     "description": null,
+     "power": 0,
+     "volts": null,
+     "id": 662393,
+     "watts": null,
+     "connector": 2,
+     "connector_type": 2,
+     "amps": null,
+     "available_changed_at": null,
+     "outlet_index": null
+    },
+    {
+     "available": 0,
+     "description": null,
+     "power": 0,
+     "volts": null,
+     "id": 662392,
+     "watts": null,
+     "connector": 2,
+     "connector_type": 2,
+     "amps": null,
+     "available_changed_at": null,
+     "outlet_index": null
+    }
+   ],
+   "hours": "",
+   "promos": [],
+   "ocpp_version": null,
+   "kilowatts": null,
+   "requiresAccessCard": false,
+   "manufacturer": "",
+   "name": null,
+   "network_id": null,
+   "created_at": "2019-01-31T16:07:40Z",
+   "amps": null,
+   "model": "",
+   "available_changed_at": null
+  },
+  {
+   "volts": null,
+   "network_ext_id": null,
+   "qr_enabled": null,
+   "cost": 0,
+   "pwps_version": null,
+   "location_id": 179466,
+   "id": 369812,
+   "cost_description": "Unknown",
+   "pre_charge_instructions": null,
+   "nissan_nctc": false,
+   "payment_enabled": null,
+   "available": 0,
+   "outlets": [
+    {
+     "available": 0,
+     "description": null,
+     "power": 0,
+     "volts": null,
+     "id": 662391,
+     "watts": null,
+     "connector": 2,
+     "connector_type": 2,
+     "amps": null,
+     "available_changed_at": null,
+     "outlet_index": null
+    },
+    {
+     "available": 0,
+     "description": null,
+     "power": 0,
+     "volts": null,
+     "id": 662390,
+     "watts": null,
+     "connector": 2,
+     "connector_type": 2,
+     "amps": null,
+     "available_changed_at": null,
+     "outlet_index": null
+    }
+   ],
+   "hours": "",
+   "promos": [],
+   "ocpp_version": null,
+   "kilowatts": null,
+   "requiresAccessCard": false,
+   "manufacturer": "",
+   "name": null,
+   "network_id": null,
+   "created_at": "2019-01-31T16:07:40Z",
+   "amps": null,
+   "model": "",
+   "available_changed_at": null
+  }
+ ],
+ "enabled": true,
+ "longitude": -85.574799,
+ "reviews": [
+  {
+   "comment": "",
+   "rating": 1,
+   "connector_type": 2,
+   "volts": null,
+   "created_at": "2019-02-20T11:18:32Z",
+   "finished": "2019-02-20T13:10:25Z",
+   "waiting": false,
+   "user": {
+    "last_name": "",
+    "hide_address": false,
+    "charger_type": 0,
+    "country_code": "US",
+    "language_code": null,
+    "allow_promo_email": false,
+    "id": 153312,
+    "notify_nearby": 0,
+    "first_name": "Brad",
+    "vehicle_color": 2,
+    "last_login": "2019-02-21T10:00:02Z",
+    "allow_notifications": null,
+    "vehicle_description": "",
+    "phone": "",
+    "e164_phone_number": "",
+    "hide_phone": false,
+    "vehicle_type": 2,
+    "about": "",
+    "notify_nearby_radius": 0,
+    "receive_grid_alerts": 0,
+    "created_at": "2016-03-24T18:17:14Z",
+    "photos": [],
+    "formatted_phone_number": "",
+    "vehicle_subtype": 0
+   },
+   "amps": null,
+   "vehicle_type": 2,
+   "id": 1554641
+  },
+  {
+   "comment": "",
+   "rating": 1,
+   "connector_type": 2,
+   "volts": null,
+   "created_at": "2019-02-20T11:18:19Z",
+   "finished": "2019-02-20T11:18:21Z",
+   "waiting": false,
+   "user": {
+    "last_name": "",
+    "hide_address": false,
+    "charger_type": 0,
+    "country_code": "US",
+    "language_code": null,
+    "allow_promo_email": false,
+    "id": 153312,
+    "notify_nearby": 0,
+    "first_name": "Brad",
+    "vehicle_color": 2,
+    "last_login": "2019-02-21T10:00:02Z",
+    "allow_notifications": null,
+    "vehicle_description": "",
+    "phone": "",
+    "e164_phone_number": "",
+    "hide_phone": false,
+    "vehicle_type": 2,
+    "about": "",
+    "notify_nearby_radius": 0,
+    "receive_grid_alerts": 0,
+    "created_at": "2016-03-24T18:17:14Z",
+    "photos": [],
+    "formatted_phone_number": "",
+    "vehicle_subtype": 0
+   },
+   "amps": null,
+   "vehicle_type": 2,
+   "id": 1554640
+  },
+  {
+   "comment": "",
+   "rating": 1,
+   "connector_type": 2,
+   "volts": null,
+   "created_at": "2019-01-31T20:39:54Z",
+   "finished": "2019-01-31T20:47:50Z",
+   "waiting": false,
+   "user": {
+    "last_name": "",
+    "hide_address": true,
+    "charger_type": 0,
+    "country_code": "US",
+    "language_code": null,
+    "allow_promo_email": false,
+    "id": 14864,
+    "notify_nearby": 1,
+    "first_name": "Austin",
+    "vehicle_color": 3,
+    "last_login": "2019-02-21T22:14:21Z",
+    "allow_notifications": null,
+    "vehicle_description": "Awesome gateway electric car! ;-)",
+    "phone": "",
+    "e164_phone_number": "",
+    "hide_phone": true,
+    "vehicle_type": 23,
+    "about": "Ready for the Model 3!",
+    "notify_nearby_radius": 16000,
+    "receive_grid_alerts": 0,
+    "created_at": "2013-04-15T15:33:57Z",
+    "photos": [
+     {
+      "user_id": 14864,
+      "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/281261.jpg",
+      "created_at": "2018-04-03T21:51:12Z",
+      "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/281261.png",
+      "caption": "",
+      "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/281261.png",
+      "order": 0,
+      "id": 281261
+     },
+     {
+      "user_id": 14864,
+      "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/9823.jpg",
+      "created_at": "2013-05-14T12:16:23Z",
+      "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/9823.png",
+      "caption": "",
+      "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/9823.png",
+      "order": 0,
+      "id": 9823
+     }
+    ],
+    "formatted_phone_number": "",
+    "vehicle_subtype": 0
+   },
+   "amps": null,
+   "vehicle_type": 23,
+   "id": 1523781
+  }
+ ],
+ "under_repair": false,
+ "poi_name": "Hospital",
+ "locale": "US",
+ "updated_at": "2019-02-20T11:18:32Z",
+ "cost": false,
+ "pwps_version": null,
+ "id": 179466,
+ "datasources": [],
+ "cost_description": "",
+ "access": 1,
+ "description": "EVolve KY's 18th location! First floor of 2 story parking garage, facing the hospital, close to Costco gas stations.",
+ "custom_ports": "",
+ "confidence": 2,
+ "hours": "",
+ "all_promos": [],
+ "address": "4960 Norton Healthcare Blvd, Louisville, KY 40241",
+ "parking_type_name": "Free",
+ "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png",
+ "photos": [
+  {
+   "user_id": 14864,
+   "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/383757.jpg",
+   "created_at": "2019-01-31T20:40:32Z",
+   "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/383757.png",
+   "caption": "",
+   "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/383757.png",
+   "order": 0,
+   "id": 383757
+  },
+  {
+   "user_id": 14864,
+   "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/383700.jpg",
+   "created_at": "2019-01-31T16:10:28Z",
+   "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/383700.png",
+   "caption": "",
+   "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/383700.png",
+   "order": 0,
+   "id": 383700
+  },
+  {
+   "user_id": 14864,
+   "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/383699.jpg",
+   "created_at": "2019-01-31T16:10:14Z",
+   "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/383699.png",
+   "caption": "",
+   "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/383699.png",
+   "order": 0,
+   "id": 383699
+  },
+  {
+   "user_id": 14864,
+   "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/383698.jpg",
+   "created_at": "2019-01-31T16:09:54Z",
+   "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/383698.png",
+   "caption": "EVolve KY signage coming soon",
+   "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/383698.png",
+   "order": 0,
+   "id": 383698
+  }
+ ],
+ "url": "http://api.plugshare.com/view/location/179466",
+ "created_at": "2019-01-31T16:07:40Z",
+ "promos": [],
+ "formatted_phone_number": "",
+ "coming_soon": false
+}

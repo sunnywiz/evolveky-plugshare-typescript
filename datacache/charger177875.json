@@ -1,0 +1,284 @@
+{
+ "reverse_geocoded_address_components": {
+  "postal_code": "40204",
+  "country_code": "US",
+  "street_number": "1132",
+  "locality": "Louisville",
+  "sublocality_1": null,
+  "route": "E St Catherine St",
+  "sublocality_2": null,
+  "administrative_area_2": "Jefferson County",
+  "administrative_area_3": null,
+  "sublocality_3": null,
+  "administrative_area_1": "KY"
+ },
+ "opening_date": "None",
+ "nissan_nctc": false,
+ "payment_enabled": null,
+ "reverse_geocoded_address": "1132 E St Catherine St, Louisville, KY 40204, USA",
+ "amenities": [
+  {
+   "location_id": 177875,
+   "type": 8
+  },
+  {
+   "location_id": 177875,
+   "type": 3
+  },
+  {
+   "location_id": 177875,
+   "type": 9
+  },
+  {
+   "location_id": 177875,
+   "type": 4
+  },
+  {
+   "location_id": 177875,
+   "type": 2
+  }
+ ],
+ "latitude": 38.234292,
+ "open247": false,
+ "valid_outlets": [
+  {
+   "connector": 1,
+   "power": 0
+  },
+  {
+   "connector": 2,
+   "power": 0
+  },
+  {
+   "connector": 3,
+   "power": 0
+  },
+  {
+   "connector": 13,
+   "power": 0
+  },
+  {
+   "connector": 4,
+   "power": 0
+  },
+  {
+   "connector": 6,
+   "power": 0
+  },
+  {
+   "connector": 5,
+   "power": 0
+  }
+ ],
+ "phone": "",
+ "e164_phone_number": "",
+ "locked": false,
+ "title_description": "Full Stop Station - Free Electric Car Charging - 2 Check-ins 2 Photos - 1132 E St Catherine St, Louisville, KY 40204 - US - Store - PlugShare",
+ "name": "Full Stop Station",
+ "icon_type": "G",
+ "stations": [
+  {
+   "volts": null,
+   "network_ext_id": null,
+   "qr_enabled": null,
+   "cost": 0,
+   "pwps_version": null,
+   "location_id": 177875,
+   "id": 365499,
+   "cost_description": "Unknown",
+   "pre_charge_instructions": null,
+   "nissan_nctc": false,
+   "payment_enabled": null,
+   "available": 0,
+   "outlets": [
+    {
+     "available": 0,
+     "description": null,
+     "power": 0,
+     "volts": null,
+     "id": 656778,
+     "watts": null,
+     "connector": 2,
+     "connector_type": 2,
+     "amps": null,
+     "available_changed_at": null,
+     "outlet_index": null
+    },
+    {
+     "available": 0,
+     "description": null,
+     "power": 0,
+     "volts": null,
+     "id": 656777,
+     "watts": null,
+     "connector": 2,
+     "connector_type": 2,
+     "amps": null,
+     "available_changed_at": null,
+     "outlet_index": null
+    }
+   ],
+   "hours": "",
+   "promos": [],
+   "ocpp_version": null,
+   "kilowatts": null,
+   "requiresAccessCard": false,
+   "manufacturer": "",
+   "name": null,
+   "network_id": null,
+   "created_at": "2019-01-16T15:18:51Z",
+   "amps": null,
+   "model": "",
+   "available_changed_at": null
+  }
+ ],
+ "enabled": true,
+ "longitude": -85.732244,
+ "reviews": [
+  {
+   "comment": "Station is covered in plastic even though it is listed as available for check in.",
+   "rating": -1,
+   "volts": null,
+   "created_at": "2019-02-10T16:03:17Z",
+   "connector_type": 2,
+   "station_id": 365499,
+   "waiting": false,
+   "user": {
+    "last_name": "",
+    "hide_address": false,
+    "charger_type": 0,
+    "country_code": "US",
+    "language_code": "en-US",
+    "allow_promo_email": false,
+    "id": 293204,
+    "notify_nearby": 0,
+    "first_name": "Greg",
+    "vehicle_color": 8,
+    "last_login": "2019-02-21T21:02:40Z",
+    "allow_notifications": null,
+    "vehicle_description": "",
+    "phone": "",
+    "e164_phone_number": "",
+    "hide_phone": false,
+    "vehicle_type": 12,
+    "about": "",
+    "notify_nearby_radius": 0,
+    "receive_grid_alerts": 0,
+    "created_at": "2017-11-27T13:11:15Z",
+    "photos": [],
+    "formatted_phone_number": "",
+    "vehicle_subtype": 0
+   },
+   "amps": null,
+   "problem": 4,
+   "vehicle_type": 12,
+   "id": 1539232,
+   "problem_description": "Could not activate"
+  },
+  {
+   "comment": "",
+   "rating": 1,
+   "connector_type": 2,
+   "volts": null,
+   "created_at": "2019-01-21T17:55:11Z",
+   "finished": "2019-01-21T18:55:11Z",
+   "station_id": 365499,
+   "waiting": false,
+   "user": {
+    "last_name": "",
+    "hide_address": false,
+    "charger_type": 0,
+    "country_code": "US",
+    "language_code": "en-US",
+    "allow_promo_email": true,
+    "id": 252110,
+    "notify_nearby": 3,
+    "first_name": "Eric",
+    "vehicle_color": 7,
+    "last_login": "2019-02-17T18:58:37Z",
+    "allow_notifications": null,
+    "vehicle_description": "",
+    "phone": "",
+    "e164_phone_number": "",
+    "hide_phone": false,
+    "vehicle_type": 2,
+    "about": "",
+    "notify_nearby_radius": 10000,
+    "receive_grid_alerts": 0,
+    "created_at": "2017-07-03T18:08:11Z",
+    "photos": [
+     {
+      "user_id": 252110,
+      "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/354423.jpg",
+      "created_at": "2018-10-29T12:44:01Z",
+      "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/354423.png",
+      "caption": "",
+      "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/354423.png",
+      "order": 0,
+      "id": 354423
+     },
+     {
+      "user_id": 252110,
+      "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/211829.jpg",
+      "created_at": "2017-07-09T17:50:40Z",
+      "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/211829.png",
+      "caption": "",
+      "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/211829.png",
+      "order": 0,
+      "id": 211829
+     }
+    ],
+    "formatted_phone_number": "",
+    "vehicle_subtype": 0
+   },
+   "amps": null,
+   "vehicle_type": 2,
+   "id": 1507950
+  }
+ ],
+ "under_repair": false,
+ "poi_name": "Store",
+ "locale": "US",
+ "updated_at": "2019-02-10T16:03:17Z",
+ "cost": false,
+ "pwps_version": null,
+ "id": 177875,
+ "datasources": [],
+ "cost_description": "",
+ "access": 1,
+ "description": "Locally owned convenience store",
+ "custom_ports": "",
+ "confidence": 2,
+ "hours": "",
+ "all_promos": [],
+ "address": "1132 E St Catherine St, Louisville, KY 40204",
+ "parking_type_name": "Free",
+ "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png",
+ "photos": [
+  {
+   "user_id": 252110,
+   "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/380993.jpg",
+   "created_at": "2019-01-21T17:58:57Z",
+   "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/380993.png",
+   "caption": "Thanks for the charge!",
+   "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/380993.png",
+   "order": 0,
+   "id": 380993
+  },
+  {
+   "user_id": 252110,
+   "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/380986.jpg",
+   "created_at": "2019-01-21T17:55:47Z",
+   "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/380986.png",
+   "caption": "",
+   "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/380986.png",
+   "order": 0,
+   "id": 380986
+  }
+ ],
+ "url": "http://api.plugshare.com/view/location/177875",
+ "created_at": "2019-01-16T15:18:51Z",
+ "promos": [],
+ "formatted_phone_number": "",
+ "coming_soon": false
+}

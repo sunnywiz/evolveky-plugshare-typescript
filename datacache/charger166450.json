@@ -1,0 +1,376 @@
+{
+ "reverse_geocoded_address_components": {
+  "postal_code": "40202",
+  "country_code": "US",
+  "street_number": "101",
+  "locality": "Louisville",
+  "sublocality_1": null,
+  "route": "Witherspoon St",
+  "sublocality_2": null,
+  "administrative_area_2": "Jefferson County",
+  "administrative_area_3": null,
+  "sublocality_3": null,
+  "administrative_area_1": "KY"
+ },
+ "opening_date": "None",
+ "nissan_nctc": false,
+ "payment_enabled": null,
+ "reverse_geocoded_address": "101 Witherspoon St, Louisville, KY 40202, USA",
+ "amenities": [
+  {
+   "location_id": 166450,
+   "type": 6
+  },
+  {
+   "location_id": 166450,
+   "type": 8
+  },
+  {
+   "location_id": 166450,
+   "type": 2
+  },
+  {
+   "location_id": 166450,
+   "type": 3
+  },
+  {
+   "location_id": 166450,
+   "type": 4
+  }
+ ],
+ "latitude": 38.258228,
+ "open247": false,
+ "valid_outlets": [
+  {
+   "connector": 1,
+   "power": 0
+  },
+  {
+   "connector": 2,
+   "power": 0
+  },
+  {
+   "connector": 3,
+   "power": 0
+  },
+  {
+   "connector": 13,
+   "power": 0
+  },
+  {
+   "connector": 4,
+   "power": 0
+  },
+  {
+   "connector": 6,
+   "power": 0
+  },
+  {
+   "connector": 5,
+   "power": 0
+  }
+ ],
+ "phone": "",
+ "e164_phone_number": "",
+ "locked": false,
+ "title_description": "Witherspoon Garage - Electric Car Charging - 4 Check-ins 2 Photos - 101 Witherspoon St, Louisville, KY 40202, USA - US - Parking Garage/Lot - PlugShare",
+ "name": "Witherspoon Garage",
+ "icon_type": "G",
+ "enabled": true,
+ "longitude": -85.751253,
+ "reviews": [
+  {
+   "comment": "",
+   "rating": 1,
+   "connector_type": 2,
+   "volts": null,
+   "created_at": "2019-02-11T19:54:07Z",
+   "finished": "2019-02-11T20:54:07Z",
+   "waiting": false,
+   "user": {
+    "last_name": "",
+    "hide_address": false,
+    "charger_type": 0,
+    "country_code": "US",
+    "language_code": "en-US",
+    "allow_promo_email": false,
+    "id": 465688,
+    "notify_nearby": 0,
+    "first_name": "Lectric Specifica",
+    "vehicle_color": 10,
+    "last_login": "2019-02-17T23:22:20Z",
+    "allow_notifications": null,
+    "vehicle_description": "",
+    "phone": "",
+    "e164_phone_number": "",
+    "hide_phone": false,
+    "vehicle_type": 66,
+    "about": "",
+    "notify_nearby_radius": 0,
+    "receive_grid_alerts": 0,
+    "created_at": "2019-02-03T16:06:49Z",
+    "photos": [],
+    "formatted_phone_number": "",
+    "vehicle_subtype": 0
+   },
+   "amps": null,
+   "vehicle_type": 66,
+   "id": 1541171
+  },
+  {
+   "comment": "At old spaghetti fact",
+   "rating": 1,
+   "connector_type": 2,
+   "volts": null,
+   "created_at": "2018-12-29T21:35:11Z",
+   "finished": "2018-12-29T23:35:11Z",
+   "waiting": false,
+   "user": {
+    "last_name": "",
+    "hide_address": false,
+    "charger_type": 0,
+    "country_code": "US",
+    "language_code": "en-US",
+    "allow_promo_email": false,
+    "id": 384714,
+    "notify_nearby": 0,
+    "first_name": "Terry",
+    "vehicle_color": 7,
+    "last_login": "2018-12-31T15:22:36Z",
+    "allow_notifications": null,
+    "vehicle_description": "",
+    "phone": "",
+    "e164_phone_number": "",
+    "hide_phone": false,
+    "vehicle_type": 63,
+    "about": "Just another EV driver added to the ranks",
+    "notify_nearby_radius": 0,
+    "receive_grid_alerts": 0,
+    "created_at": "2018-08-12T18:59:42Z",
+    "photos": [],
+    "formatted_phone_number": "",
+    "vehicle_subtype": 0
+   },
+   "amps": null,
+   "vehicle_type": 63,
+   "id": 1471246
+  },
+  {
+   "comment": "Here for uk/ul game",
+   "rating": 1,
+   "connector_type": 2,
+   "volts": null,
+   "created_at": "2018-12-29T17:58:21Z",
+   "finished": "2018-12-29T21:34:55Z",
+   "waiting": false,
+   "user": {
+    "last_name": "",
+    "hide_address": false,
+    "charger_type": 0,
+    "country_code": "US",
+    "language_code": "en-US",
+    "allow_promo_email": false,
+    "id": 384714,
+    "notify_nearby": 0,
+    "first_name": "Terry",
+    "vehicle_color": 7,
+    "last_login": "2018-12-31T15:22:36Z",
+    "allow_notifications": null,
+    "vehicle_description": "",
+    "phone": "",
+    "e164_phone_number": "",
+    "hide_phone": false,
+    "vehicle_type": 63,
+    "about": "Just another EV driver added to the ranks",
+    "notify_nearby_radius": 0,
+    "receive_grid_alerts": 0,
+    "created_at": "2018-08-12T18:59:42Z",
+    "photos": [],
+    "formatted_phone_number": "",
+    "vehicle_subtype": 0
+   },
+   "amps": null,
+   "vehicle_type": 63,
+   "id": 1470763
+  },
+  {
+   "comment": "",
+   "rating": 1,
+   "connector_type": 2,
+   "volts": 220,
+   "created_at": "2018-12-26T02:22:40Z",
+   "finished": "2018-12-26T10:22:39Z",
+   "waiting": false,
+   "user": {
+    "last_name": "",
+    "hide_address": false,
+    "charger_type": 5,
+    "country_code": "US",
+    "language_code": "en",
+    "allow_promo_email": false,
+    "id": 359910,
+    "notify_nearby": 0,
+    "first_name": "StopIce",
+    "vehicle_color": 2,
+    "last_login": "2019-02-17T15:45:01Z",
+    "allow_notifications": null,
+    "vehicle_description": "",
+    "phone": "",
+    "e164_phone_number": "",
+    "hide_phone": false,
+    "vehicle_type": 75,
+    "about": "",
+    "notify_nearby_radius": 0,
+    "receive_grid_alerts": 0,
+    "created_at": "2018-06-15T23:42:51Z",
+    "photos": [
+     {
+      "user_id": 359910,
+      "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/304908.jpg",
+      "created_at": "2018-06-15T23:44:58Z",
+      "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/304908.png",
+      "caption": "",
+      "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/304908.png",
+      "order": 0,
+      "id": 304908
+     }
+    ],
+    "formatted_phone_number": "",
+    "vehicle_subtype": 4
+   },
+   "amps": 30,
+   "vehicle_type": 75,
+   "id": 1464280
+  }
+ ],
+ "under_repair": false,
+ "poi_name": "Parking Garage/Lot",
+ "locale": "US",
+ "updated_at": "2019-02-11T19:54:07Z",
+ "cost": true,
+ "pwps_version": null,
+ "id": 166450,
+ "datasources": [],
+ "cost_description": "",
+ "access": 1,
+ "score": 9,
+ "description": "On the north wall of the first floor. Charging is free but pay to park. ",
+ "custom_ports": "",
+ "confidence": 2,
+ "hours": "",
+ "all_promos": [],
+ "address": "101 Witherspoon St, Louisville, KY 40202, USA",
+ "parking_type_name": "Pay",
+ "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png",
+ "stations": [
+  {
+   "volts": null,
+   "network_ext_id": null,
+   "qr_enabled": null,
+   "cost": 0,
+   "pwps_version": null,
+   "location_id": 166450,
+   "id": 334845,
+   "cost_description": "Unknown",
+   "pre_charge_instructions": null,
+   "nissan_nctc": false,
+   "payment_enabled": null,
+   "available": 0,
+   "outlets": [
+    {
+     "available": 0,
+     "description": null,
+     "power": 0,
+     "volts": null,
+     "id": 617545,
+     "watts": null,
+     "connector": 2,
+     "connector_type": 2,
+     "amps": null,
+     "available_changed_at": null,
+     "outlet_index": null
+    }
+   ],
+   "hours": "",
+   "promos": [],
+   "ocpp_version": null,
+   "kilowatts": null,
+   "requiresAccessCard": false,
+   "manufacturer": "",
+   "name": null,
+   "network_id": null,
+   "created_at": "2018-09-19T21:57:21Z",
+   "amps": null,
+   "model": "",
+   "available_changed_at": null
+  },
+  {
+   "volts": null,
+   "network_ext_id": null,
+   "qr_enabled": null,
+   "cost": 0,
+   "pwps_version": null,
+   "location_id": 166450,
+   "id": 334844,
+   "cost_description": "Unknown",
+   "pre_charge_instructions": null,
+   "nissan_nctc": false,
+   "payment_enabled": null,
+   "available": 0,
+   "outlets": [
+    {
+     "available": 0,
+     "description": null,
+     "power": 0,
+     "volts": null,
+     "id": 617544,
+     "watts": null,
+     "connector": 2,
+     "connector_type": 2,
+     "amps": null,
+     "available_changed_at": null,
+     "outlet_index": null
+    }
+   ],
+   "hours": "",
+   "promos": [],
+   "ocpp_version": null,
+   "kilowatts": null,
+   "requiresAccessCard": false,
+   "manufacturer": "",
+   "name": null,
+   "network_id": null,
+   "created_at": "2018-09-19T21:57:21Z",
+   "amps": null,
+   "model": "",
+   "available_changed_at": null
+  }
+ ],
+ "url": "http://api.plugshare.com/view/location/166450",
+ "created_at": "2018-09-19T21:57:21Z",
+ "promos": [],
+ "photos": [
+  {
+   "user_id": 273278,
+   "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/341265.jpg",
+   "created_at": "2018-09-19T21:57:54Z",
+   "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/341265.png",
+   "caption": "",
+   "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/341265.png",
+   "order": 0,
+   "id": 341265
+  },
+  {
+   "user_id": 273278,
+   "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/341264.jpg",
+   "created_at": "2018-09-19T21:57:44Z",
+   "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/341264.png",
+   "caption": "",
+   "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/341264.png",
+   "order": 0,
+   "id": 341264
+  }
+ ],
+ "formatted_phone_number": "",
+ "coming_soon": false
+}
