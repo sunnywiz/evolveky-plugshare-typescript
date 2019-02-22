@@ -74,15 +74,13 @@ async function asyncmain() {
     chargers = chargers.sort((a,b)=>(a.id - b.id));  // sort by id
 
     for(let charger of chargers) { 
+        let openingDate = new Date(); 
+        if (charger.reviews.length>0) openingDate = charger.reviews[charger.reviews.length-1].created_at; 
         if (charger.description.search(/evolveky/i) >= 0) { 
             console.log("EVOLVEKY - "+charger.name + " " + charger.description);
+            console.log("     "+openingDate);
         }
     }
-    // for(let charger of chargers) { 
-    //     if (charger.cost) { 
-    //         console.log("PAID - "+charger.name+" "+charger.cost_description);
-    //     }
-    // }
 }
 
 asyncmain()
