@@ -71,11 +71,11 @@ async function asyncmain() {
         chargers[index] = chargerDetail; 
     }
 
+    chargers = chargers.sort((a,b)=>(a.id - b.id));  // sort by id
+
     for(let charger of chargers) { 
         if (charger.description.search(/evolveky/i) >= 0) { 
-            console.log("EVOLVEKY - "+charger.name);
-            console.log(charger.description);
-            console.log("Reviews: "+charger.reviews.length);
+            console.log("EVOLVEKY - "+charger.name + " " + charger.description);
         }
     }
     // for(let charger of chargers) { 
