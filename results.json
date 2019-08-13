@@ -1,0 +1,686 @@
+[
+ {
+  "latitude": 38.251625,
+  "longitude": -85.643013,
+  "isEvolve": 0,
+  "radius": 10,
+  "openingDate": "2016-10-02T13:01:42Z",
+  "name": "Jeff Wyler Nissan",
+  "description": "The charger on is located on the west side of the showroom. 2nd charger on small bldg south of 1st.\nThere is also a 3rd charger inside the service bay.\n\nSometimes the circuit is off. Just throw the switch on the wall behind the unit, and it will turn on."
+ },
+ {
+  "latitude": 38.190327,
+  "longitude": -85.808846,
+  "isEvolve": 0,
+  "radius": 10,
+  "openingDate": "2013-05-06T13:06:58Z",
+  "name": "Byerly Nissan",
+  "description": "Nissan brand cars only. Plugs are inside only and they are planning to charge for their usage."
+ },
+ {
+  "latitude": 38.185872,
+  "longitude": -85.639876,
+  "isEvolve": 0,
+  "radius": 10,
+  "openingDate": "2013-12-30T03:14:21Z",
+  "name": "Collins Nissan",
+  "description": "All EV car brands welcome."
+ },
+ {
+  "latitude": 38.187408,
+  "longitude": -85.644287,
+  "isEvolve": 0,
+  "radius": 10,
+  "openingDate": "2013-12-29T20:45:48Z",
+  "name": "Bob Hook Chevrolet",
+  "description": "Slow charge rate, only 15 amps at L2.  phone ahead if you want to use it."
+ },
+ {
+  "latitude": 38.37949,
+  "longitude": -85.431152,
+  "isEvolve": 0,
+  "radius": 10,
+  "openingDate": "2014-01-04T14:22:50Z",
+  "name": "Tri-County Ford",
+  "description": "One station outside and one just inside the service drop-off.  Very EV friendly staff!"
+ },
+ {
+  "latitude": 38.159443,
+  "longitude": -85.658501,
+  "isEvolve": 0,
+  "radius": 10,
+  "openingDate": "2014-03-13T03:55:31Z",
+  "name": "DMB Transport",
+  "description": "50 amp Charger located inside gated lot. Normal hours are 8 am until 6. If you need to charge, stop by, we welcome electric vehicles. If you need to get in after hours, call ahead.  "
+ },
+ {
+  "latitude": 38.216698,
+  "longitude": -85.579857,
+  "isEvolve": 0,
+  "radius": 10,
+  "openingDate": "2014-06-09T21:07:32Z",
+  "name": "Sam Swope BMW",
+  "description": "Two ChargePoint chargers. Both working as of 3/6/19. The one charger appears to be dedicated for dealer car"
+ },
+ {
+  "latitude": 38.185844,
+  "longitude": -85.741646,
+  "isEvolve": 0,
+  "radius": 10,
+  "openingDate": "2014-07-17T00:52:51Z",
+  "name": "Louisville International Airport",
+  "description": "Charging station accessible by using valet parking at Louisville International Airport."
+ },
+ {
+  "latitude": 38.185177,
+  "longitude": -85.639343,
+  "isEvolve": 0,
+  "radius": 10,
+  "openingDate": "2014-11-23T19:16:01Z",
+  "name": "Bill Collins Ford",
+  "description": ""
+ },
+ {
+  "latitude": 38.061409,
+  "longitude": -85.696388,
+  "isEvolve": 0,
+  "radius": 10,
+  "openingDate": "2015-05-31T01:22:47Z",
+  "name": "Kentucky One Medical Center Jewish South",
+  "description": "I-65 exit 121. Two stands, each with one J1772. In front parking lot, left side."
+ },
+ {
+  "latitude": 38.253147,
+  "longitude": -85.738831,
+  "isEvolve": 1,
+  "radius": 20,
+  "openingDate": "2019-07-05T02:53:55Z",
+  "name": "The Green Building",
+  "description": "Evolve KY -- Adopt a Charger location 1\nwww.evolveky.org"
+ },
+ {
+  "latitude": 38.243017,
+  "longitude": -85.628308,
+  "isEvolve": 0,
+  "radius": 10,
+  "openingDate": "2015-12-14T23:37:21Z",
+  "name": "Bluegrass Porshe",
+  "description": "The charger is located near the front door of the show room. Ask sales staff for permission-seemed friendly."
+ },
+ {
+  "latitude": 38.243607,
+  "longitude": -85.628227,
+  "isEvolve": 0,
+  "radius": 10,
+  "openingDate": "2015-12-03T21:03:35Z",
+  "name": "Blue Grass Audi",
+  "description": "Welcome to all Cars confirmed NOT. ... I was told by management that only Audi cars are allowed"
+ },
+ {
+  "latitude": 38.229301,
+  "longitude": -85.642361,
+  "isEvolve": 0,
+  "radius": 10,
+  "openingDate": "2015-12-03T13:39:20Z",
+  "name": "Springs Medical Center",
+  "description": "Map marker location is precise.  Dual port 6.6 kW/port ChargePoint station."
+ },
+ {
+  "latitude": 38.235338,
+  "longitude": -85.643653,
+  "isEvolve": 0,
+  "radius": 10,
+  "openingDate": "2016-11-28T12:52:37Z",
+  "name": "Springs Business Center",
+  "description": ""
+ },
+ {
+  "latitude": 38.197298,
+  "longitude": -85.561222,
+  "isEvolve": 0,
+  "radius": 10,
+  "openingDate": "2017-04-05T15:34:42Z",
+  "name": "Jeffersontown Library",
+  "description": "Level 2 charger, two-hour time limit.  Free to use, no charge for parking. In front of the building."
+ },
+ {
+  "latitude": 38.271257,
+  "longitude": -85.789136,
+  "isEvolve": 1,
+  "radius": 20,
+  "openingDate": "2016-04-21T17:26:49Z",
+  "name": "The Anchor Building",
+  "description": "Evolve KY -- Adopt A Charger Location 2 www.evolveky.org\nChargers are located off alley in back of building in gated area. "
+ },
+ {
+  "latitude": 38.233318,
+  "longitude": -85.711302,
+  "isEvolve": 1,
+  "radius": 20,
+  "openingDate": "2019-06-26T17:44:18Z",
+  "name": "Highland Green Building",
+  "description": "Evolve KY -- Adopt a Charger Location 3 www.evolveky.org"
+ },
+ {
+  "latitude": 38.242612,
+  "longitude": -85.743114,
+  "isEvolve": 0,
+  "radius": 10,
+  "openingDate": "2017-02-03T13:42:25Z",
+  "name": "Louisville Metro Housing Authority EVCS #7",
+  "description": ""
+ },
+ {
+  "latitude": 38.242969,
+  "longitude": -85.746268,
+  "isEvolve": 0,
+  "radius": 10,
+  "openingDate": "2017-06-13T17:46:39Z",
+  "name": "Louisville Metro Housing Authority EVCS #2",
+  "description": ""
+ },
+ {
+  "latitude": 38.242823,
+  "longitude": -85.744685,
+  "isEvolve": 0,
+  "radius": 10,
+  "openingDate": "2017-03-13T15:27:32Z",
+  "name": "Louisville Metro Housing Authority EVCS #4",
+  "description": ""
+ },
+ {
+  "latitude": 38.242503,
+  "longitude": -85.742352,
+  "isEvolve": 0,
+  "radius": 10,
+  "openingDate": "2017-06-13T18:16:20Z",
+  "name": "Louisville Metro Housing Authority EVCS #9",
+  "description": ""
+ },
+ {
+  "latitude": 38.243002,
+  "longitude": -85.74525,
+  "isEvolve": 0,
+  "radius": 10,
+  "openingDate": "2017-06-13T17:57:11Z",
+  "name": "Louisville Metro Housing Authority EVCS #3",
+  "description": ""
+ },
+ {
+  "latitude": 38.242302,
+  "longitude": -85.745329,
+  "isEvolve": 0,
+  "radius": 10,
+  "openingDate": "2016-05-20T01:01:13Z",
+  "name": "Louisville Metro Housing Authority EVCS #5",
+  "description": "Requires a fee\n"
+ },
+ {
+  "latitude": 38.242168,
+  "longitude": -85.744992,
+  "isEvolve": 0,
+  "radius": 10,
+  "openingDate": "2016-05-20T00:58:11Z",
+  "name": "Louisville Metro Housing Authority EVCS #6",
+  "description": "Requires a fee\n"
+ },
+ {
+  "latitude": 38.241831,
+  "longitude": -85.742371,
+  "isEvolve": 0,
+  "radius": 10,
+  "openingDate": "2017-04-24T00:33:02Z",
+  "name": "Louisville Metro Housing Authority EVCS #8",
+  "description": ""
+ },
+ {
+  "latitude": 38.248463,
+  "longitude": -85.757889,
+  "isEvolve": 0,
+  "radius": 10,
+  "openingDate": "2017-08-02T13:22:57Z",
+  "name": "Clay Commons",
+  "description": "Two Level 2 chargers on third level of garage.  Move cones to park, then move them back. Behind the hilton"
+ },
+ {
+  "latitude": 38.255754,
+  "longitude": -85.7513,
+  "isEvolve": 0,
+  "radius": 10,
+  "openingDate": "2017-04-26T22:33:11Z",
+  "name": "1st and Main PARC Garage",
+  "description": "On first floor immediately to left from 1st street entrance. Veer right from main st entrance, then on left. Chargers are very slow, 220V with only 16A, this results in about 12mi/hr for a Tesla Model 3."
+ },
+ {
+  "latitude": 38.256298,
+  "longitude": -85.73009,
+  "isEvolve": 0,
+  "radius": 10,
+  "openingDate": "2016-11-17T21:33:42Z",
+  "name": "LG&E E. Washington Street",
+  "description": "This is an LG&E-owned dual port Level 2 charging station open to the public. EV parking while charging only."
+ },
+ {
+  "latitude": 38.233464,
+  "longitude": -85.766289,
+  "isEvolve": 0,
+  "radius": 10,
+  "openingDate": "2019-07-12T19:03:23Z",
+  "name": "Air Pollution Control District",
+  "description": "Single charger on the right as you pull in. It's hard to miss. Air pollution control district has a Ford Focus Electric plugged in occasionally, but always parked in one of the two EV spots, but I was told by an employee that it's ok to unplug it if it's finished charging.\n\nConfirmed on July 12, 2019 by an employee that it’s acceptable to unplug the city owned Focus.  Charging is about 24A , 197v.  Model X / S Tesla will charge at about 14mi/hr.  "
+ },
+ {
+  "latitude": 38.256312,
+  "longitude": -85.764133,
+  "isEvolve": 0,
+  "radius": 10,
+  "openingDate": "2016-12-30T18:02:32Z",
+  "name": "Glassworks Garage",
+  "description": "Across the street from Glassworks on Market Street.\nMove green EV cones to park, then replace when leaving. Two single pedestal chargers on 3A."
+ },
+ {
+  "latitude": 38.239097,
+  "longitude": -85.72363,
+  "isEvolve": 0,
+  "radius": 10,
+  "openingDate": "2017-01-04T20:46:55Z",
+  "name": "LG&E Hepburn Avenue",
+  "description": "Dual plug station on westbound Hepburn, the first parking space west of Baxter."
+ },
+ {
+  "latitude": 38.28717,
+  "longitude": -85.812532,
+  "isEvolve": 0,
+  "radius": 10,
+  "openingDate": "2018-01-22T04:19:28Z",
+  "name": "The Pepin Mansion B&B",
+  "description": "Stay at our B&B and charge for free. www.thepepinmansion.com"
+ },
+ {
+  "latitude": 38.32872,
+  "longitude": -85.562939,
+  "isEvolve": 1,
+  "radius": 20,
+  "openingDate": "2019-07-19T20:37:49Z",
+  "name": "YMCA at Norton Commons",
+  "description": "Only available to members while using the Y.  Evolve KY -- Adopt a Charger Location www.evolveky.org."
+ },
+ {
+  "latitude": 38.255707,
+  "longitude": -85.747053,
+  "isEvolve": 0,
+  "radius": 10,
+  "openingDate": "2018-07-21T13:30:18Z",
+  "name": "E. Main St. Parking/Charging",
+  "description": "Single port EV charging station located curbside on westbound Main St., in front of the Louisville Ballet, only one block from Slugger Field. Map marker location is precise."
+ },
+ {
+  "latitude": 38.263781,
+  "longitude": -85.776055,
+  "isEvolve": 1,
+  "radius": 20,
+  "openingDate": "2017-03-23T15:29:14Z",
+  "name": "Healthy House",
+  "description": "Evolve KY -- Adopt a Charger \nLocation 5 www.evolveky.org\nCharger located in driveway off alley in back of the building. "
+ },
+ {
+  "latitude": 38.253659,
+  "longitude": -85.70216,
+  "isEvolve": 1,
+  "radius": 20,
+  "openingDate": "2019-04-30T15:56:58Z",
+  "name": "The Irish Rover",
+  "description": "Dual pedestal with one spot reserved for EV charging (except between 5 - 10 pm Thursday - Saturday). www.evolveky.org. Evolve KY location #6"
+ },
+ {
+  "latitude": 38.318607,
+  "longitude": -85.763286,
+  "isEvolve": 0,
+  "radius": 10,
+  "openingDate": "2017-06-13T00:06:53Z",
+  "name": "Mitsubishi Store Clarksville",
+  "description": "The free charger is located north of the service bay, available 24/7."
+ },
+ {
+  "latitude": 38.243176,
+  "longitude": -85.747164,
+  "isEvolve": 0,
+  "radius": 10,
+  "openingDate": "2017-06-13T17:35:50Z",
+  "name": "Louisville Metro Housing Authority EVCS #1",
+  "description": ""
+ },
+ {
+  "latitude": 38.257824,
+  "longitude": -85.765831,
+  "isEvolve": 0,
+  "radius": 10,
+  "openingDate": "2018-02-21T16:30:25Z",
+  "name": "LG&E Main & 9th",
+  "description": "This is an LG&E-owned dual port Level 2 charging station open to the public. EV parking while charging only."
+ },
+ {
+  "latitude": 38.21398,
+  "longitude": -85.54002,
+  "isEvolve": 0,
+  "radius": 10,
+  "openingDate": "2017-09-20T21:01:43Z",
+  "name": "Hawthorn Suites by Wyndham Louisville",
+  "description": "Two Tesla charging station and two Clipper Creek charging stations for guests only see front desk"
+ },
+ {
+  "latitude": 38.221068,
+  "longitude": -85.53726,
+  "isEvolve": 0,
+  "radius": 10,
+  "openingDate": "2017-09-01T15:56:25Z",
+  "name": "Hilton Garden Inn Louisville East",
+  "description": "Two Tesla charging stations and two Clipper Creek charging stations. Chargers are located on the right side of the building, immediately past the dumpsters."
+ },
+ {
+  "latitude": 38.25766,
+  "longitude": -85.762665,
+  "isEvolve": 0,
+  "radius": 10,
+  "openingDate": "2017-08-12T16:38:19Z",
+  "name": "Kentucky Science Center",
+  "description": "Two Tesla charging stations and two Clipper Creek. Pay for parking. "
+ },
+ {
+  "latitude": 38.18952,
+  "longitude": -85.809045,
+  "isEvolve": 0,
+  "radius": 10,
+  "openingDate": "2017-09-28T18:27:58Z",
+  "name": "Byerly Ford",
+  "description": ""
+ },
+ {
+  "latitude": 38.247232,
+  "longitude": -85.627586,
+  "isEvolve": 0,
+  "radius": 10,
+  "openingDate": "2019-06-06T02:56:32Z",
+  "name": "Hilton Garden Inn",
+  "description": "Restricted to hotel guests only, at the moment."
+ },
+ {
+  "latitude": 38.254686,
+  "longitude": -85.691806,
+  "isEvolve": 0,
+  "radius": 10,
+  "openingDate": "2017-09-26T03:00:56Z",
+  "name": "LG&E Crescent Hill Library",
+  "description": "This is an LG&E-owned dual port Level 2 charging station open to the public. EV parking while charging only."
+ },
+ {
+  "latitude": 38.220194,
+  "longitude": -85.534761,
+  "isEvolve": 0,
+  "radius": 10,
+  "openingDate": "2018-02-18T03:47:06Z",
+  "name": "Wingate by Wyndham Louisville East",
+  "description": "Two Tesla and two J1772 Clipper Creeks."
+ },
+ {
+  "latitude": 38.280904,
+  "longitude": -85.628436,
+  "isEvolve": 1,
+  "radius": 20,
+  "openingDate": "2019-06-09T14:51:57Z",
+  "name": "Thomas Jefferson Unitarian Church",
+  "description": "Evolve KY Adopt a Charger location 10!  Chargers are located on the side of the old farmhouse behind the main church. www.evolveky.org"
+ },
+ {
+  "latitude": 38.388986,
+  "longitude": -85.681633,
+  "isEvolve": 0,
+  "radius": 10,
+  "openingDate": "2019-05-18T00:04:09Z",
+  "name": "First Harrison Bank",
+  "description": ""
+ },
+ {
+  "latitude": 38.215174,
+  "longitude": -85.756242,
+  "isEvolve": 0,
+  "radius": 10,
+  "openingDate": "2018-08-07T12:26:10Z",
+  "name": "University of Louisville",
+  "description": "Two University of Louisville Level 2 GE charge stations. Employee stated they could be used if no University Vehicles were plugged in. Typically there are two White Chevy Volts parked here. Use any RFID card to activate."
+ },
+ {
+  "latitude": 38.220117,
+  "longitude": -85.626289,
+  "isEvolve": 1,
+  "radius": 20,
+  "openingDate": "2019-04-05T21:48:28Z",
+  "name": "Heine Bros. Coffee - Hikes Point",
+  "description": "Evolve KY - Adopt a Charger location 11\nwww.evolveky.org"
+ },
+ {
+  "latitude": 38.219834,
+  "longitude": -85.759671,
+  "isEvolve": 0,
+  "radius": 10,
+  "openingDate": "2018-04-05T15:07:40Z",
+  "name": "Speed Art Museum",
+  "description": ""
+ },
+ {
+  "latitude": 38.137596,
+  "longitude": -85.68673,
+  "isEvolve": 0,
+  "radius": 10,
+  "openingDate": "2018-05-22T17:55:28Z",
+  "name": "Tattoo Charlie’s",
+  "description": ""
+ },
+ {
+  "latitude": 38.230009,
+  "longitude": -85.703197,
+  "isEvolve": 1,
+  "radius": 20,
+  "openingDate": "2019-05-19T17:56:18Z",
+  "name": "Safai Coffee",
+  "description": "Evolve KY Adopt a Charger location 12!\nwww.evolveky.org"
+ },
+ {
+  "latitude": 38.330547,
+  "longitude": -85.74333,
+  "isEvolve": 0,
+  "radius": 10,
+  "openingDate": "2018-05-11T23:41:28Z",
+  "name": "Taxspeaker",
+  "description": "Dual port 6.6 kW/port ChargePoint station, free charging"
+ },
+ {
+  "latitude": 38.190264,
+  "longitude": -85.74426,
+  "isEvolve": 0,
+  "radius": 10,
+  "openingDate": "2018-07-04T02:27:35Z",
+  "name": "Residence Inn",
+  "description": ""
+ },
+ {
+  "latitude": 38.190859,
+  "longitude": -85.743196,
+  "isEvolve": 0,
+  "radius": 10,
+  "openingDate": "2018-10-08T10:59:38Z",
+  "name": "Hampton Inn Louisville - Airport",
+  "description": ""
+ },
+ {
+  "latitude": 38.252571,
+  "longitude": -85.755017,
+  "isEvolve": 0,
+  "radius": 10,
+  "openingDate": "2018-09-15T17:43:50Z",
+  "name": "Omni Garage",
+  "description": "Entrance from 3rd Street. Straight ahead.  Inside pay garage."
+ },
+ {
+  "latitude": 38.258228,
+  "longitude": -85.751253,
+  "isEvolve": 0,
+  "radius": 10,
+  "openingDate": "2018-12-26T02:22:40Z",
+  "name": "Witherspoon Garage",
+  "description": "On the north wall of the first floor. Charging is free but pay to park. 2 hour limit."
+ },
+ {
+  "latitude": 38.242103,
+  "longitude": -85.671174,
+  "isEvolve": 0,
+  "radius": 10,
+  "openingDate": "2018-12-12T19:55:48Z",
+  "name": "LG&E Seneca Park",
+  "description": "This is an LG&E-owned dual port Level 2 charging station open to the public. EV parking while charging only."
+ },
+ {
+  "latitude": 38.264235,
+  "longitude": -85.580355,
+  "isEvolve": 0,
+  "radius": 10,
+  "openingDate": "2018-11-03T18:38:53Z",
+  "name": "LG&E AB Sawyer Park",
+  "description": "This is an LG&E-owned dual port Level 2 charging station open to the public. EV parking while charging only."
+ },
+ {
+  "latitude": 38.340479,
+  "longitude": -85.618992,
+  "isEvolve": 1,
+  "radius": 20,
+  "openingDate": "2018-11-07T18:34:44Z",
+  "name": "Prospect Plaza",
+  "description": "Evolve KY’s 15th location!  Near the road at Highland Cleaners. "
+ },
+ {
+  "latitude": 38.336927,
+  "longitude": -85.463569,
+  "isEvolve": 1,
+  "radius": 20,
+  "openingDate": "2019-01-11T19:04:46Z",
+  "name": "Yew Dell Botanical Gardens",
+  "description": "Evolve KY Adopt a Charger location 16!  www.evolveky.org"
+ },
+ {
+  "latitude": 38.234292,
+  "longitude": -85.732244,
+  "isEvolve": 0,
+  "radius": 10,
+  "openingDate": "2019-01-21T17:55:11Z",
+  "name": "Full Stop Station",
+  "description": "Locally owned convenience store"
+ },
+ {
+  "latitude": 38.31676,
+  "longitude": -85.574799,
+  "isEvolve": 1,
+  "radius": 20,
+  "openingDate": "2019-05-17T12:54:01Z",
+  "name": "Norton Brownsboro Hospital",
+  "description": "EVolve KY's 18th location! First floor of 2 story parking garage, facing the hospital, close to Costco gas stations.  www.evolveky.org "
+ },
+ {
+  "latitude": 38.19353,
+  "longitude": -85.565509,
+  "isEvolve": 1,
+  "radius": 20,
+  "openingDate": "2019-02-19T18:35:34Z",
+  "name": "Jefferson County Clerk",
+  "description": "Evolve KY Adopt a Charger location 17!  Not accessible during the Farmers Market hours as lot is inaccessible to cars. "
+ },
+ {
+  "latitude": 38.162138,
+  "longitude": -85.779754,
+  "isEvolve": 0,
+  "radius": 10,
+  "openingDate": "2019-08-13T02:58:28.662Z",
+  "name": "LG&E Iroquois Park",
+  "description": "This is an LG&E-owned dual port Level 2 charging station open to the public. EV parking while charging only."
+ },
+ {
+  "latitude": 38.170592,
+  "longitude": -85.562223,
+  "isEvolve": 0,
+  "radius": 10,
+  "openingDate": "2019-05-11T14:55:10Z",
+  "name": "LG&E Charlie Vettiner Park",
+  "description": "This is an LG&E-owned dual port Level 2 charging station open to the public. EV parking while charging only."
+ },
+ {
+  "latitude": 38.256273,
+  "longitude": -85.754399,
+  "isEvolve": 0,
+  "radius": 10,
+  "openingDate": "2019-04-11T20:49:39Z",
+  "name": "LG&E Center",
+  "description": "This is an LG&E-owned dual port Level 2 charging station open to the public across from the Yum! Center. EV parking while charging only."
+ },
+ {
+  "latitude": 38.066157,
+  "longitude": -85.695168,
+  "isEvolve": 0,
+  "radius": 10,
+  "openingDate": "2019-05-31T15:48:13Z",
+  "name": "Tru Hilton Hotel",
+  "description": "Hotel Parking "
+ },
+ {
+  "latitude": 38.235672,
+  "longitude": -85.739157,
+  "isEvolve": 1,
+  "radius": 20,
+  "openingDate": "2019-05-02T19:38:19Z",
+  "name": "Logan Street Market",
+  "description": "Evolve KY dual station for Logan Street Market and other community businesses. www.evolveky.org"
+ },
+ {
+  "latitude": 38.191035,
+  "longitude": -85.741701,
+  "isEvolve": 0,
+  "radius": 10,
+  "openingDate": "2019-05-11T00:59:58Z",
+  "name": "Springhill Suites",
+  "description": ""
+ },
+ {
+  "latitude": 38.285142,
+  "longitude": -85.820873,
+  "isEvolve": 1,
+  "radius": 20,
+  "openingDate": "2019-05-16T17:49:11Z",
+  "name": "New Albany Farmers Market",
+  "description": "Evolve KY location 20!  Open except for the hours of the farmers market when lot will be blocked off. www.evolveky.org "
+ },
+ {
+  "latitude": 38.203323,
+  "longitude": -85.556978,
+  "isEvolve": 0,
+  "radius": 10,
+  "openingDate": "2019-08-13T02:58:28.662Z",
+  "name": "Hawthorn Suites Louisville/Jeffersontown",
+  "description": ""
+ },
+ {
+  "latitude": 38.268589,
+  "longitude": -85.576557,
+  "isEvolve": 1,
+  "radius": 20,
+  "openingDate": "2019-06-26T23:50:01Z",
+  "name": "Northeast Regional Library",
+  "description": "One ClipperCreek Charger.   Evolve KY consulted with them to help get this one!"
+ },
+ {
+  "latitude": 38.225301,
+  "longitude": -85.49723,
+  "isEvolve": 0,
+  "radius": 10,
+  "openingDate": "2019-08-13T02:58:28.662Z",
+  "name": "the Lodges",
+  "description": ""
+ }
+]

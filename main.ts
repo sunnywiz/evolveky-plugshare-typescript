@@ -55,8 +55,8 @@ function delay(ms: number)
 
 async function asyncmain() { 
     // don't want to overstay my welcome with plugshare. 
-    var data = await plugshareRegionSearch();
-    await saveChargerDataToFile(data);
+    // var data = await plugshareRegionSearch();
+    // await saveChargerDataToFile(data);
 
     var chargers = await readChargerDataFromFile();
     console.log(chargers.length);
@@ -64,23 +64,34 @@ async function asyncmain() {
     for(let index in chargers) { 
         let charger = chargers[index];
         console.log("getting more details about "+charger.name);
-        let chargerDetail = await plugShareGetLocation(charger.id);
-        await saveChargerDetail(chargerDetail);
-        await delay(1000);  // be nice. 
-        chargerDetail = await readChargerDetail(charger.id);
+        //let chargerDetail = await plugShareGetLocation(charger.id);
+        //await saveChargerDetail(chargerDetail);
+        // await delay(1000);  // be nice. 
+        let chargerDetail = await readChargerDetail(charger.id);
         chargers[index] = chargerDetail; 
     }
 
     chargers = chargers.sort((a,b)=>(a.id - b.id));  // sort by id
 
+    var results = [];
     for(let charger of chargers) { 
         let openingDate = new Date(); 
         if (charger.reviews.length>0) openingDate = charger.reviews[charger.reviews.length-1].created_at; 
-        if (charger.description.search(/evolveky/i) >= 0) { 
-            console.log("EVOLVEKY - "+charger.name + " " + charger.description);
-            console.log("     "+openingDate);
-        }
+        var isEvolve = (charger.description.search(/evolveky/i) >= 0) || 
+                       (charger.description.search(/evolve ky/i) >= 0); 
+        results.push({
+            latitude: charger.latitude, 
+            longitude: charger.longitude, 
+            isEvolve: isEvolve?1:0,
+            radius: isEvolve?20:10, 
+            openingDate: openingDate, 
+            name: charger.name, 
+            description: charger.description
+        });
     }
+    fs.writeFileSync("results.json", JSON.stringify(results,undefined,1),
+    'utf8');
+    console.log(results); 
 }
 
 asyncmain()
