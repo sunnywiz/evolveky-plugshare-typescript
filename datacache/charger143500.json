@@ -42,11 +42,7 @@
  "open247": true,
  "valid_outlets": [
   {
-   "connector": 1,
-   "power": 0
-  },
-  {
-   "connector": 2,
+   "connector": 13,
    "power": 0
   },
   {
@@ -54,11 +50,7 @@
    "power": 0
   },
   {
-   "connector": 13,
-   "power": 0
-  },
-  {
-   "connector": 4,
+   "connector": 2,
    "power": 0
   },
   {
@@ -66,27 +58,199 @@
    "power": 0
   },
   {
+   "connector": 4,
+   "power": 0
+  },
+  {
    "connector": 5,
+   "power": 0
+  },
+  {
+   "connector": 1,
    "power": 0
   }
  ],
  "phone": "",
  "e164_phone_number": "",
+ "total_photos": 3,
  "locked": false,
- "title_description": "University of Louisville - Free Electric Car Charging - 5 Check-ins 3 Photos - 2215 S Brook St, Louisville, KY 40208, USA - US - School/University - PlugShare",
+ "title_description": "University of Louisville - Free Electric Car Charging - 9 Check-ins 3 Photos - 2215 S Brook St, Louisville, KY 40208, USA - US - School/University - PlugShare",
  "name": "University of Louisville",
  "icon_type": "G",
  "enabled": true,
  "longitude": -85.756242,
  "reviews": [
   {
+   "comment": "These two chargers have been moved to the southeast corner of the Houchens Building next door. There are also 6 chargers on the first floor of the Floyd St Parking garage but you need a UofL parking pass to enter.",
+   "rating": 0,
+   "volts": null,
+   "user": {
+    "last_name": "",
+    "hide_address": false,
+    "charger_type": 1,
+    "country_code": "US",
+    "language_code": "en-US",
+    "allow_promo_email": true,
+    "id": 350353,
+    "notify_nearby": 1,
+    "first_name": "Kevin Batman",
+    "last_login": "2019-08-12T21:00:06Z",
+    "allow_notifications": null,
+    "vehicle_description": "",
+    "phone": "8129460101",
+    "e164_phone_number": "",
+    "hide_phone": false,
+    "vehicle_type": 75,
+    "about": "Works as Systems Analyst at UofL",
+    "notify_nearby_radius": 10000,
+    "receive_grid_alerts": 0,
+    "created_at": "2018-05-21T18:10:32Z",
+    "photos": [
+     {
+      "user_id": 350353,
+      "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/297240.jpg",
+      "created_at": "2018-05-24T18:36:18Z",
+      "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/297240.png",
+      "caption": "",
+      "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/297240.png",
+      "order": 0,
+      "id": 297240
+     }
+    ],
+    "formatted_phone_number": "+1 812-946-0101"
+   },
+   "vehicle_name": "Tesla Model 3",
+   "vehicle_type": 75,
+   "id": 1890213,
+   "kilowatts": null,
+   "created_at": "2019-08-07T19:30:30Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/12659_cc0640_032_PPSW.png"
+  },
+  {
+   "comment": "Middle station broken",
+   "rating": 1,
+   "volts": 0,
+   "finished": "2019-03-18T18:28:44Z",
+   "user": {
+    "last_name": "",
+    "hide_address": false,
+    "charger_type": 0,
+    "country_code": "US",
+    "language_code": "en",
+    "allow_promo_email": false,
+    "id": 302205,
+    "notify_nearby": 0,
+    "first_name": "Kerry C",
+    "last_login": "2019-07-16T22:14:16Z",
+    "allow_notifications": null,
+    "vehicle_description": "",
+    "phone": "",
+    "e164_phone_number": "",
+    "hide_phone": false,
+    "vehicle_type": 23,
+    "about": "",
+    "notify_nearby_radius": 16000,
+    "receive_grid_alerts": 0,
+    "created_at": "2017-12-27T15:17:38Z",
+    "photos": [],
+    "formatted_phone_number": ""
+   },
+   "vehicle_name": "e-Golf",
+   "vehicle_type": 23,
+   "id": 1597329,
+   "kilowatts": null,
+   "created_at": "2019-03-18T15:28:45Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": 0,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/10032_cc0640_032_0Q0Q.png"
+  },
+  {
+   "comment": "Pls call us we are at baseball game!",
+   "rating": 1,
+   "volts": null,
+   "finished": "2019-03-13T15:21:28Z",
+   "user": {
+    "last_name": "",
+    "hide_address": false,
+    "charger_type": 0,
+    "country_code": "US",
+    "language_code": "en-US",
+    "allow_promo_email": false,
+    "id": 479039,
+    "notify_nearby": 0,
+    "first_name": "Will G",
+    "last_login": "2019-06-21T13:47:47Z",
+    "allow_notifications": null,
+    "vehicle_description": "",
+    "phone": "",
+    "e164_phone_number": "",
+    "hide_phone": false,
+    "vehicle_type": 66,
+    "about": "",
+    "notify_nearby_radius": 0,
+    "receive_grid_alerts": 0,
+    "created_at": "2019-03-03T17:24:36Z",
+    "photos": [],
+    "formatted_phone_number": ""
+   },
+   "vehicle_name": "Chrysler Pacifica Hybrid",
+   "vehicle_type": 66,
+   "id": 1588545,
+   "kilowatts": null,
+   "created_at": "2019-03-13T15:08:54Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/12019_cc0640_032_PAU.png"
+  },
+  {
    "comment": "",
    "rating": 1,
-   "connector_type": 2,
    "volts": null,
-   "created_at": "2018-11-06T13:51:05Z",
+   "finished": "2019-03-04T00:25:27Z",
+   "user": {
+    "last_name": "",
+    "hide_address": false,
+    "charger_type": 0,
+    "country_code": "US",
+    "language_code": "en-US",
+    "allow_promo_email": false,
+    "id": 453790,
+    "notify_nearby": 0,
+    "first_name": "dkoch327",
+    "last_login": "2019-05-13T03:43:38Z",
+    "allow_notifications": null,
+    "vehicle_description": "",
+    "phone": "",
+    "e164_phone_number": "",
+    "hide_phone": false,
+    "vehicle_type": 74,
+    "about": "",
+    "notify_nearby_radius": 0,
+    "receive_grid_alerts": 0,
+    "created_at": "2019-01-08T04:47:41Z",
+    "photos": [],
+    "formatted_phone_number": ""
+   },
+   "vehicle_name": "Honda Clarity Plug-In Hybrid",
+   "vehicle_type": 74,
+   "id": 1573359,
+   "kilowatts": null,
+   "created_at": "2019-03-03T21:55:27Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/12454_cc0640_032_EVOX01.png"
+  },
+  {
+   "comment": "",
+   "rating": 1,
+   "volts": null,
    "finished": "2018-11-06T13:51:20Z",
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -97,14 +261,13 @@
     "id": 350353,
     "notify_nearby": 1,
     "first_name": "Kevin Batman",
-    "vehicle_color": 3,
-    "last_login": "2019-02-20T17:08:13Z",
+    "last_login": "2019-08-12T21:00:06Z",
     "allow_notifications": null,
     "vehicle_description": "",
     "phone": "8129460101",
     "e164_phone_number": "",
     "hide_phone": false,
-    "vehicle_type": 18,
+    "vehicle_type": 75,
     "about": "Works as Systems Analyst at UofL",
     "notify_nearby_radius": 10000,
     "receive_grid_alerts": 0,
@@ -121,21 +284,23 @@
       "id": 297240
      }
     ],
-    "formatted_phone_number": "+1 812-946-0101",
-    "vehicle_subtype": 2
+    "formatted_phone_number": "+1 812-946-0101"
    },
-   "amps": null,
+   "vehicle_name": "BMW i3",
    "vehicle_type": 18,
-   "id": 1389240
+   "id": 1389240,
+   "kilowatts": null,
+   "created_at": "2018-11-06T13:51:05Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/9689_cc0640_032_B81.png"
   },
   {
    "comment": "",
    "rating": 1,
-   "connector_type": 2,
    "volts": null,
-   "created_at": "2018-09-21T17:36:11Z",
    "finished": "2018-09-21T18:36:11Z",
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -146,14 +311,13 @@
     "id": 350353,
     "notify_nearby": 1,
     "first_name": "Kevin Batman",
-    "vehicle_color": 3,
-    "last_login": "2019-02-20T17:08:13Z",
+    "last_login": "2019-08-12T21:00:06Z",
     "allow_notifications": null,
     "vehicle_description": "",
     "phone": "8129460101",
     "e164_phone_number": "",
     "hide_phone": false,
-    "vehicle_type": 18,
+    "vehicle_type": 75,
     "about": "Works as Systems Analyst at UofL",
     "notify_nearby_radius": 10000,
     "receive_grid_alerts": 0,
@@ -170,21 +334,23 @@
       "id": 297240
      }
     ],
-    "formatted_phone_number": "+1 812-946-0101",
-    "vehicle_subtype": 2
+    "formatted_phone_number": "+1 812-946-0101"
    },
-   "amps": null,
+   "vehicle_name": "BMW i3",
    "vehicle_type": 18,
-   "id": 1320008
+   "id": 1320008,
+   "kilowatts": null,
+   "created_at": "2018-09-21T17:36:11Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/9689_cc0640_032_B81.png"
   },
   {
    "comment": "",
    "rating": 1,
-   "connector_type": 2,
    "volts": null,
-   "created_at": "2018-09-15T22:45:25Z",
    "finished": "2018-09-15T22:45:56Z",
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -195,8 +361,7 @@
     "id": 195050,
     "notify_nearby": 1,
     "first_name": "Chickenwarrior",
-    "vehicle_color": 3,
-    "last_login": "2019-02-21T12:27:29Z",
+    "last_login": "2019-08-05T15:12:23Z",
     "allow_notifications": null,
     "vehicle_description": "",
     "phone": "",
@@ -208,21 +373,23 @@
     "receive_grid_alerts": 0,
     "created_at": "2016-10-22T04:51:04Z",
     "photos": [],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 2
+    "formatted_phone_number": ""
    },
-   "amps": null,
+   "vehicle_name": "Nissan LEAF",
    "vehicle_type": 1,
-   "id": 1312257
+   "id": 1312257,
+   "kilowatts": null,
+   "created_at": "2018-09-15T22:45:25Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/7399_cc0640_032_QX1.png"
   },
   {
    "comment": "",
    "rating": 1,
-   "connector_type": 2,
    "volts": null,
-   "created_at": "2018-08-08T17:43:09Z",
    "finished": "2018-08-08T20:34:11Z",
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -233,14 +400,13 @@
     "id": 350353,
     "notify_nearby": 1,
     "first_name": "Kevin Batman",
-    "vehicle_color": 3,
-    "last_login": "2019-02-20T17:08:13Z",
+    "last_login": "2019-08-12T21:00:06Z",
     "allow_notifications": null,
     "vehicle_description": "",
     "phone": "8129460101",
     "e164_phone_number": "",
     "hide_phone": false,
-    "vehicle_type": 18,
+    "vehicle_type": 75,
     "about": "Works as Systems Analyst at UofL",
     "notify_nearby_radius": 10000,
     "receive_grid_alerts": 0,
@@ -257,21 +423,23 @@
       "id": 297240
      }
     ],
-    "formatted_phone_number": "+1 812-946-0101",
-    "vehicle_subtype": 2
+    "formatted_phone_number": "+1 812-946-0101"
    },
-   "amps": null,
+   "vehicle_name": "BMW i3",
    "vehicle_type": 18,
-   "id": 1252964
+   "id": 1252964,
+   "kilowatts": null,
+   "created_at": "2018-08-08T17:43:09Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/9689_cc0640_032_B81.png"
   },
   {
    "comment": "",
    "rating": 1,
-   "connector_type": 2,
    "volts": null,
-   "created_at": "2018-08-07T12:26:10Z",
    "finished": "2018-08-07T14:18:36Z",
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -282,14 +450,13 @@
     "id": 350353,
     "notify_nearby": 1,
     "first_name": "Kevin Batman",
-    "vehicle_color": 3,
-    "last_login": "2019-02-20T17:08:13Z",
+    "last_login": "2019-08-12T21:00:06Z",
     "allow_notifications": null,
     "vehicle_description": "",
     "phone": "8129460101",
     "e164_phone_number": "",
     "hide_phone": false,
-    "vehicle_type": 18,
+    "vehicle_type": 75,
     "about": "Works as Systems Analyst at UofL",
     "notify_nearby_radius": 10000,
     "receive_grid_alerts": 0,
@@ -306,18 +473,23 @@
       "id": 297240
      }
     ],
-    "formatted_phone_number": "+1 812-946-0101",
-    "vehicle_subtype": 2
+    "formatted_phone_number": "+1 812-946-0101"
    },
-   "amps": null,
+   "vehicle_name": "BMW i3",
    "vehicle_type": 18,
-   "id": 1251074
+   "id": 1251074,
+   "kilowatts": null,
+   "created_at": "2018-08-07T12:26:10Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/9689_cc0640_032_B81.png"
   }
  ],
  "under_repair": false,
  "poi_name": "School/University",
  "locale": "US",
- "updated_at": "2018-11-06T13:51:05Z",
+ "updated_at": "2019-08-07T19:30:30Z",
  "cost": false,
  "pwps_version": null,
  "id": 143500,
@@ -417,7 +589,7 @@
    "available_changed_at": null
   }
  ],
- "url": "http://api.plugshare.com/view/location/143500",
+ "url": "https://www.plugshare.com/location/143500",
  "created_at": "2018-02-19T23:52:11Z",
  "promos": [],
  "photos": [
@@ -453,5 +625,6 @@
   }
  ],
  "formatted_phone_number": "",
- "coming_soon": null
+ "coming_soon": null,
+ "total_reviews": 9
 }

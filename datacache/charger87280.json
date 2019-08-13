@@ -26,11 +26,7 @@
  "open247": false,
  "valid_outlets": [
   {
-   "connector": 1,
-   "power": 0
-  },
-  {
-   "connector": 2,
+   "connector": 13,
    "power": 0
   },
   {
@@ -38,11 +34,7 @@
    "power": 0
   },
   {
-   "connector": 13,
-   "power": 0
-  },
-  {
-   "connector": 4,
+   "connector": 2,
    "power": 0
   },
   {
@@ -50,12 +42,21 @@
    "power": 0
   },
   {
+   "connector": 4,
+   "power": 0
+  },
+  {
    "connector": 5,
+   "power": 0
+  },
+  {
+   "connector": 1,
    "power": 0
   }
  ],
  "phone": "",
  "e164_phone_number": "",
+ "total_photos": 2,
  "locked": false,
  "title_description": "Louisville Metro Housing Authority EVCS #9 - Electric Car Charging - 5 Check-ins 2 Photos - 748 S. Clay St., Louisville, KY 40203 - US - Residential - PlugShare",
  "name": "Louisville Metro Housing Authority EVCS #9",
@@ -66,12 +67,9 @@
   {
    "comment": "",
    "rating": 1,
-   "connector_type": 2,
    "volts": null,
-   "created_at": "2018-12-24T15:33:45Z",
-   "finished": "2018-12-24T15:34:13Z",
    "station_id": 134293,
-   "waiting": false,
+   "finished": "2018-12-24T15:34:13Z",
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -82,8 +80,7 @@
     "id": 445507,
     "notify_nearby": 0,
     "first_name": "kitty",
-    "vehicle_color": 1,
-    "last_login": "2019-02-10T21:19:09Z",
+    "last_login": "2019-04-23T17:31:33Z",
     "allow_notifications": null,
     "vehicle_description": "",
     "phone": "",
@@ -95,23 +92,25 @@
     "receive_grid_alerts": 0,
     "created_at": "2018-12-24T15:26:00Z",
     "photos": [],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 0
+    "formatted_phone_number": ""
    },
-   "amps": null,
+   "vehicle_name": "Chevrolet Bolt EV",
    "vehicle_type": 63,
+   "id": 1462363,
+   "kilowatts": null,
+   "created_at": "2018-12-24T15:33:45Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
    "outlet_id": 333103,
-   "id": 1462363
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/13022_cc0640_032_G7Q.png"
   },
   {
    "comment": "",
    "rating": 1,
-   "connector_type": 2,
    "volts": 0,
-   "created_at": "2017-09-10T13:44:03Z",
+   "station_id": 134293,
    "finished": "2017-09-10T14:14:02Z",
-   "station_id": 134293,
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": true,
@@ -122,8 +121,7 @@
     "id": 134123,
     "notify_nearby": 0,
     "first_name": "Scott B.",
-    "vehicle_color": 1,
-    "last_login": "2019-02-15T18:40:10Z",
+    "last_login": "2019-07-24T16:20:38Z",
     "allow_notifications": null,
     "vehicle_description": "2013 SV",
     "phone": "",
@@ -135,23 +133,25 @@
     "receive_grid_alerts": 0,
     "created_at": "2015-11-05T22:49:48Z",
     "photos": [],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 1
+    "formatted_phone_number": ""
    },
-   "amps": 0,
+   "vehicle_name": "Nissan LEAF",
    "vehicle_type": 1,
+   "id": 854721,
+   "kilowatts": null,
+   "created_at": "2017-09-10T13:44:03Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": 0,
    "outlet_id": 333103,
-   "id": 854721
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/7399_cc0640_032_QX1.png"
   },
   {
    "comment": "",
    "rating": 1,
-   "connector_type": 2,
    "volts": 0,
-   "created_at": "2017-09-09T21:28:22Z",
+   "station_id": 134293,
    "finished": "2017-09-09T22:07:58Z",
-   "station_id": 134293,
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": true,
@@ -162,8 +162,7 @@
     "id": 134123,
     "notify_nearby": 0,
     "first_name": "Scott B.",
-    "vehicle_color": 1,
-    "last_login": "2019-02-15T18:40:10Z",
+    "last_login": "2019-07-24T16:20:38Z",
     "allow_notifications": null,
     "vehicle_description": "2013 SV",
     "phone": "",
@@ -175,23 +174,25 @@
     "receive_grid_alerts": 0,
     "created_at": "2015-11-05T22:49:48Z",
     "photos": [],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 1
+    "formatted_phone_number": ""
    },
-   "amps": 0,
+   "vehicle_name": "Nissan LEAF",
    "vehicle_type": 1,
+   "id": 854037,
+   "kilowatts": null,
+   "created_at": "2017-09-09T21:28:22Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": 0,
    "outlet_id": 333103,
-   "id": 854037
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/7399_cc0640_032_QX1.png"
   },
   {
    "comment": "",
    "rating": 1,
-   "connector_type": 2,
    "volts": 0,
-   "created_at": "2017-09-09T20:59:32Z",
-   "finished": "2017-09-09T21:04:15Z",
    "station_id": 134293,
-   "waiting": false,
+   "finished": "2017-09-09T21:04:15Z",
    "user": {
     "last_name": "",
     "hide_address": true,
@@ -202,8 +203,7 @@
     "id": 134123,
     "notify_nearby": 0,
     "first_name": "Scott B.",
-    "vehicle_color": 1,
-    "last_login": "2019-02-15T18:40:10Z",
+    "last_login": "2019-07-24T16:20:38Z",
     "allow_notifications": null,
     "vehicle_description": "2013 SV",
     "phone": "",
@@ -215,23 +215,25 @@
     "receive_grid_alerts": 0,
     "created_at": "2015-11-05T22:49:48Z",
     "photos": [],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 1
+    "formatted_phone_number": ""
    },
-   "amps": 0,
+   "vehicle_name": "Nissan LEAF",
    "vehicle_type": 1,
+   "id": 853998,
+   "kilowatts": null,
+   "created_at": "2017-09-09T20:59:32Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": 0,
    "outlet_id": 333103,
-   "id": 853998
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/7399_cc0640_032_QX1.png"
   },
   {
    "comment": "",
    "rating": 1,
-   "connector_type": 2,
    "volts": null,
-   "created_at": "2017-06-13T18:16:20Z",
-   "finished": "2017-06-13T18:31:20Z",
    "station_id": 134293,
-   "waiting": false,
+   "finished": "2017-06-13T18:31:20Z",
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -241,13 +243,12 @@
     "allow_promo_email": false,
     "id": 81997,
     "notify_nearby": 0,
-    "first_name": "Stuart",
-    "vehicle_color": 8,
-    "last_login": "2019-02-22T00:56:32Z",
+    "first_name": "Stuart’s LEAF ",
+    "last_login": "2019-08-12T19:52:25Z",
     "allow_notifications": null,
     "vehicle_description": "2011 Leaf SL -- Ocean Blue",
     "phone": "5024265376",
-    "e164_phone_number": "",
+    "e164_phone_number": "+15024265376",
     "hide_phone": false,
     "vehicle_type": 1,
     "about": "President of EVolve KY, Kentucky’s electric vehicle organization. Group meets monthly. Visit our website at www.evolveky.org or call me for more information. ",
@@ -266,13 +267,18 @@
       "id": 62035
      }
     ],
-    "formatted_phone_number": "+1 502-426-5376",
-    "vehicle_subtype": 2
+    "formatted_phone_number": "+1 502-426-5376"
    },
-   "amps": null,
+   "vehicle_name": "Nissan LEAF",
    "vehicle_type": 1,
+   "id": 761466,
+   "kilowatts": null,
+   "created_at": "2017-06-13T18:16:20Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
    "outlet_id": 333103,
-   "id": 761466
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/7399_cc0640_032_QX1.png"
   }
  ],
  "under_repair": false,
@@ -351,7 +357,7 @@
    "available_changed_at": "2018-07-29T01:47:04Z"
   }
  ],
- "url": "http://api.plugshare.com/view/location/87280",
+ "url": "https://www.plugshare.com/location/87280",
  "created_at": "2016-05-10T21:31:59Z",
  "promos": [],
  "photos": [
@@ -377,5 +383,6 @@
   }
  ],
  "formatted_phone_number": "",
- "coming_soon": null
+ "coming_soon": null,
+ "total_reviews": 5
 }

@@ -38,11 +38,7 @@
  "open247": true,
  "valid_outlets": [
   {
-   "connector": 1,
-   "power": 0
-  },
-  {
-   "connector": 2,
+   "connector": 13,
    "power": 0
   },
   {
@@ -50,11 +46,7 @@
    "power": 0
   },
   {
-   "connector": 13,
-   "power": 0
-  },
-  {
-   "connector": 4,
+   "connector": 2,
    "power": 0
   },
   {
@@ -62,16 +54,160 @@
    "power": 0
   },
   {
+   "connector": 4,
+   "power": 0
+  },
+  {
    "connector": 5,
+   "power": 0
+  },
+  {
+   "connector": 1,
    "power": 0
   }
  ],
  "phone": "",
  "e164_phone_number": "",
+ "total_photos": 0,
  "locked": false,
  "title_description": "LG&E Crescent Hill Library - Electric Car Charging - 1 Check-ins - 2762 Frankfort Ave, Louisville, KY 40206 - US - Library - PlugShare",
  "name": "LG&E Crescent Hill Library",
  "icon_type": "G",
+ "enabled": true,
+ "longitude": -85.691806,
+ "reviews": [
+  {
+   "comment": "Outragiously Priced!",
+   "rating": 0,
+   "volts": null,
+   "station_id": 236012,
+   "user": {
+    "last_name": "Upwood",
+    "hide_address": false,
+    "charger_type": 0,
+    "country_code": "US",
+    "language_code": null,
+    "allow_promo_email": false,
+    "id": 5117,
+    "notify_nearby": 1,
+    "first_name": "Jim",
+    "last_login": "2019-08-11T11:30:36Z",
+    "allow_notifications": true,
+    "vehicle_description": "2012 silver leaf since 4/2012, 2013 Honda Fit EV since 3/30/13",
+    "phone": "3153745193",
+    "e164_phone_number": "",
+    "hide_phone": false,
+    "vehicle_type": 4,
+    "about": "EF OIL",
+    "notify_nearby_radius": 10000,
+    "receive_grid_alerts": 0,
+    "created_at": "2012-04-10T13:40:34Z",
+    "photos": [
+     {
+      "user_id": 5117,
+      "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/283300.jpg",
+      "created_at": "2018-04-11T03:29:21Z",
+      "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/283300.png",
+      "caption": "",
+      "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/283300.png",
+      "order": 0,
+      "id": 283300
+     },
+     {
+      "user_id": 5117,
+      "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/96266.jpg",
+      "created_at": "2015-08-30T23:38:48Z",
+      "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/96266.png",
+      "caption": "",
+      "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/96266.png",
+      "order": 0,
+      "id": 96266
+     },
+     {
+      "user_id": 5117,
+      "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/96265.jpg",
+      "created_at": "2015-08-30T23:35:52Z",
+      "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/96265.png",
+      "caption": "",
+      "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/96265.png",
+      "order": 0,
+      "id": 96265
+     },
+     {
+      "user_id": 5117,
+      "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/59291.jpg",
+      "created_at": "2014-08-30T21:03:57Z",
+      "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/59291.png",
+      "caption": "",
+      "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/59291.png",
+      "order": 0,
+      "id": 59291
+     },
+     {
+      "user_id": 5117,
+      "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/57455.jpg",
+      "created_at": "2014-08-09T13:16:04Z",
+      "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/57455.png",
+      "caption": "",
+      "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/57455.png",
+      "order": 0,
+      "id": 57455
+     },
+     {
+      "user_id": 5117,
+      "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/57453.jpg",
+      "created_at": "2014-08-09T13:12:36Z",
+      "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/57453.png",
+      "caption": "",
+      "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/57453.png",
+      "order": 0,
+      "id": 57453
+     }
+    ],
+    "formatted_phone_number": "+1 315-374-5193"
+   },
+   "vehicle_name": "Tesla Model S",
+   "vehicle_type": 4,
+   "id": 871151,
+   "kilowatts": null,
+   "created_at": "2017-09-26T03:00:56Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/8319_cc0640_032_EVOX01.png"
+  }
+ ],
+ "under_repair": false,
+ "poi_name": "Library",
+ "locale": "US",
+ "updated_at": "2019-05-01T13:04:46Z",
+ "cost": true,
+ "pwps_version": null,
+ "id": 130057,
+ "datasources": [],
+ "cost_description": "$0.80/hr first two hours; $1.06/hr thereafter",
+ "access": 1,
+ "description": "This is an LG&E-owned dual port Level 2 charging station open to the public. EV parking while charging only.",
+ "custom_ports": "",
+ "confidence": 2,
+ "hours": "24/7",
+ "all_promos": [
+  {
+   "link_url": null,
+   "tag": null,
+   "image_url": null,
+   "name": "EZ-Charge",
+   "link_action": null,
+   "lat": null,
+   "lng": null,
+   "image_url_2x": null,
+   "id": 2,
+   "app_id": null
+  }
+ ],
+ "address": "2762 Frankfort Ave, Louisville, KY 40206",
+ "parking_type_name": "Free",
+ "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png",
  "stations": [
   {
    "volts": null,
@@ -153,144 +289,11 @@
    "available_changed_at": null
   }
  ],
- "enabled": true,
- "longitude": -85.691806,
- "reviews": [
-  {
-   "comment": "Outragiously Priced!",
-   "rating": 0,
-   "volts": null,
-   "created_at": "2017-09-26T03:00:56Z",
-   "connector_type": 2,
-   "station_id": 236012,
-   "waiting": false,
-   "user": {
-    "last_name": "Upwood",
-    "hide_address": false,
-    "charger_type": 0,
-    "country_code": "US",
-    "language_code": null,
-    "allow_promo_email": false,
-    "id": 5117,
-    "notify_nearby": 1,
-    "first_name": "Jim",
-    "vehicle_color": 7,
-    "last_login": "2019-02-20T03:57:07Z",
-    "allow_notifications": true,
-    "vehicle_description": "2012 silver leaf since 4/2012, 2013 Honda Fit EV since 3/30/13",
-    "phone": "3153745193",
-    "e164_phone_number": "",
-    "hide_phone": false,
-    "vehicle_type": 4,
-    "about": "EF OIL",
-    "notify_nearby_radius": 10000,
-    "receive_grid_alerts": 0,
-    "created_at": "2012-04-10T13:40:34Z",
-    "photos": [
-     {
-      "user_id": 5117,
-      "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/283300.jpg",
-      "created_at": "2018-04-11T03:29:21Z",
-      "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/283300.png",
-      "caption": "",
-      "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/283300.png",
-      "order": 0,
-      "id": 283300
-     },
-     {
-      "user_id": 5117,
-      "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/96266.jpg",
-      "created_at": "2015-08-30T23:38:48Z",
-      "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/96266.png",
-      "caption": "",
-      "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/96266.png",
-      "order": 0,
-      "id": 96266
-     },
-     {
-      "user_id": 5117,
-      "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/96265.jpg",
-      "created_at": "2015-08-30T23:35:52Z",
-      "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/96265.png",
-      "caption": "",
-      "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/96265.png",
-      "order": 0,
-      "id": 96265
-     },
-     {
-      "user_id": 5117,
-      "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/59291.jpg",
-      "created_at": "2014-08-30T21:03:57Z",
-      "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/59291.png",
-      "caption": "",
-      "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/59291.png",
-      "order": 0,
-      "id": 59291
-     },
-     {
-      "user_id": 5117,
-      "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/57455.jpg",
-      "created_at": "2014-08-09T13:16:04Z",
-      "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/57455.png",
-      "caption": "",
-      "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/57455.png",
-      "order": 0,
-      "id": 57455
-     },
-     {
-      "user_id": 5117,
-      "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/57453.jpg",
-      "created_at": "2014-08-09T13:12:36Z",
-      "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/57453.png",
-      "caption": "",
-      "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/57453.png",
-      "order": 0,
-      "id": 57453
-     }
-    ],
-    "formatted_phone_number": "+1 315-374-5193",
-    "vehicle_subtype": 7
-   },
-   "amps": null,
-   "vehicle_type": 4,
-   "id": 871151
-  }
- ],
- "under_repair": false,
- "poi_name": "Library",
- "locale": "US",
- "updated_at": "2018-10-25T22:37:22Z",
- "cost": true,
- "pwps_version": null,
- "id": 130057,
- "datasources": [],
- "cost_description": "$3.03 per hour",
- "access": 1,
- "description": "This is a paid LG&E Chargepoint Dual Port Station",
- "custom_ports": "",
- "confidence": 2,
- "hours": "24/7",
- "all_promos": [
-  {
-   "link_url": null,
-   "tag": null,
-   "image_url": null,
-   "name": "EZ-Charge",
-   "link_action": null,
-   "lat": null,
-   "lng": null,
-   "image_url_2x": null,
-   "id": 2,
-   "app_id": null
-  }
- ],
- "address": "2762 Frankfort Ave, Louisville, KY 40206",
- "parking_type_name": "Free",
- "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png",
- "photos": [],
- "url": "http://api.plugshare.com/view/location/130057",
+ "url": "https://www.plugshare.com/location/130057",
  "created_at": "2017-09-26T01:24:30Z",
  "promos": [],
+ "photos": [],
  "formatted_phone_number": "",
- "coming_soon": null
+ "coming_soon": null,
+ "total_reviews": 1
 }

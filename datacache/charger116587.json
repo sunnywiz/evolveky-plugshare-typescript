@@ -38,11 +38,7 @@
  "open247": true,
  "valid_outlets": [
   {
-   "connector": 1,
-   "power": 0
-  },
-  {
-   "connector": 2,
+   "connector": 13,
    "power": 0
   },
   {
@@ -50,11 +46,7 @@
    "power": 0
   },
   {
-   "connector": 13,
-   "power": 0
-  },
-  {
-   "connector": 4,
+   "connector": 2,
    "power": 0
   },
   {
@@ -62,14 +54,23 @@
    "power": 0
   },
   {
+   "connector": 4,
+   "power": 0
+  },
+  {
    "connector": 5,
+   "power": 0
+  },
+  {
+   "connector": 1,
    "power": 0
   }
  ],
  "phone": "",
  "e164_phone_number": "",
+ "total_photos": 1,
  "locked": false,
- "title_description": "Mitsubishi Store Clarksville - Free Electric Car Charging - 5 Check-ins 1 Photos - 1590 Greentree Blvd, Clarksville, IN 47129 - US - Car Dealership - PlugShare",
+ "title_description": "Mitsubishi Store Clarksville - Free Electric Car Charging - 6 Check-ins 1 Photos - 1590 Greentree Blvd, Clarksville, IN 47129 - US - Car Dealership - PlugShare",
  "name": "Mitsubishi Store Clarksville",
  "icon_type": "G",
  "enabled": true,
@@ -78,12 +79,50 @@
   {
    "comment": "",
    "rating": 1,
-   "connector_type": 2,
    "volts": null,
-   "created_at": "2018-12-26T15:18:37Z",
-   "finished": "2018-12-26T16:18:37Z",
    "station_id": 202180,
+   "finished": "2019-07-02T17:20:09Z",
+   "user": {
+    "last_name": "",
+    "hide_address": false,
+    "charger_type": 0,
+    "country_code": "US",
+    "language_code": "en-US",
+    "allow_promo_email": true,
+    "id": 459165,
+    "notify_nearby": 0,
+    "first_name": "k.thomps74",
+    "last_login": "2019-08-07T20:26:25Z",
+    "allow_notifications": null,
+    "vehicle_description": "",
+    "phone": "",
+    "e164_phone_number": "",
+    "hide_phone": false,
+    "vehicle_type": 4,
+    "about": "",
+    "notify_nearby_radius": 0,
+    "receive_grid_alerts": 0,
+    "created_at": "2019-01-20T03:03:34Z",
+    "photos": [],
+    "formatted_phone_number": ""
+   },
+   "vehicle_name": "Tesla Model S",
+   "vehicle_type": 4,
+   "id": 1801599,
+   "kilowatts": null,
+   "created_at": "2019-07-02T16:20:09Z",
+   "connector_type": 2,
    "waiting": false,
+   "amps": null,
+   "outlet_id": 437107,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/8319_cc0640_032_EVOX01.png"
+  },
+  {
+   "comment": "",
+   "rating": 1,
+   "volts": null,
+   "station_id": 202180,
+   "finished": "2018-12-26T16:18:37Z",
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -94,8 +133,7 @@
     "id": 423387,
     "notify_nearby": 0,
     "first_name": "DressageQueen",
-    "vehicle_color": 6,
-    "last_login": "2019-02-03T20:10:10Z",
+    "last_login": "2019-07-31T13:13:54Z",
     "allow_notifications": null,
     "vehicle_description": "",
     "phone": "",
@@ -107,23 +145,25 @@
     "receive_grid_alerts": 0,
     "created_at": "2018-11-10T12:30:17Z",
     "photos": [],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 0
+    "formatted_phone_number": ""
    },
-   "amps": null,
+   "vehicle_name": "Toyota Prius Prime",
    "vehicle_type": 64,
+   "id": 1464868,
+   "kilowatts": null,
+   "created_at": "2018-12-26T15:18:37Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
    "outlet_id": 437107,
-   "id": 1464868
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/11705_cc0640_032_070.png"
   },
   {
    "comment": "Came to basspro. Not much juice to get across bridge. So glad this is here!  Thanks Mitsubishi!",
    "rating": 1,
-   "connector_type": 2,
    "volts": null,
-   "created_at": "2018-11-15T23:51:34Z",
-   "finished": "2018-11-16T00:51:34Z",
    "station_id": 202180,
-   "waiting": false,
+   "finished": "2018-11-16T00:51:34Z",
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -134,8 +174,7 @@
     "id": 195050,
     "notify_nearby": 1,
     "first_name": "Chickenwarrior",
-    "vehicle_color": 3,
-    "last_login": "2019-02-21T12:27:29Z",
+    "last_login": "2019-08-05T15:12:23Z",
     "allow_notifications": null,
     "vehicle_description": "",
     "phone": "",
@@ -147,22 +186,24 @@
     "receive_grid_alerts": 0,
     "created_at": "2016-10-22T04:51:04Z",
     "photos": [],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 2
+    "formatted_phone_number": ""
    },
-   "amps": null,
+   "vehicle_name": "Nissan LEAF",
    "vehicle_type": 1,
+   "id": 1403004,
+   "kilowatts": null,
+   "created_at": "2018-11-15T23:51:34Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
    "outlet_id": 437107,
-   "id": 1403004
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/7399_cc0640_032_QX1.png"
   },
   {
    "comment": "Thank you for the charge!  Very progressive!  Visiting from Canada!",
    "rating": 1,
    "volts": 0,
-   "created_at": "2018-02-08T18:05:36Z",
-   "connector_type": 2,
    "station_id": 202180,
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -173,8 +214,7 @@
     "id": 244808,
     "notify_nearby": 0,
     "first_name": "Michael O'Brien",
-    "vehicle_color": 6,
-    "last_login": "2019-02-02T18:08:08Z",
+    "last_login": "2019-07-26T23:56:30Z",
     "allow_notifications": null,
     "vehicle_description": "",
     "phone": "4163018377",
@@ -197,23 +237,25 @@
       "id": 203546
      }
     ],
-    "formatted_phone_number": "+1 416-301-8377",
-    "vehicle_subtype": 2
+    "formatted_phone_number": "+1 416-301-8377"
    },
-   "amps": 0,
+   "vehicle_name": "BMW i3",
    "vehicle_type": 18,
+   "id": 1015526,
+   "kilowatts": null,
+   "created_at": "2018-02-08T18:05:36Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": 0,
    "outlet_id": 437107,
-   "id": 1015526
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/9689_cc0640_032_B81.png"
   },
   {
    "comment": "",
    "rating": 1,
-   "connector_type": 2,
    "volts": null,
-   "created_at": "2017-11-23T00:48:45Z",
-   "finished": "2017-11-23T01:10:58Z",
    "station_id": 202180,
-   "waiting": false,
+   "finished": "2017-11-23T01:10:58Z",
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -224,8 +266,7 @@
     "id": 188710,
     "notify_nearby": 0,
     "first_name": "Rick",
-    "vehicle_color": 4,
-    "last_login": "2019-02-16T22:52:45Z",
+    "last_login": "2019-08-11T19:06:05Z",
     "allow_notifications": null,
     "vehicle_description": "",
     "phone": "",
@@ -237,22 +278,24 @@
     "receive_grid_alerts": 0,
     "created_at": "2016-09-19T19:59:09Z",
     "photos": [],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 0
+    "formatted_phone_number": ""
    },
-   "amps": null,
+   "vehicle_name": "Ford C-MAX Energi",
    "vehicle_type": 12,
+   "id": 930727,
+   "kilowatts": null,
+   "created_at": "2017-11-23T00:48:45Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
    "outlet_id": 437107,
-   "id": 930727
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/8750_cc0640_032_UH.png"
   },
   {
    "comment": "Very helpful dealer staff",
    "rating": 1,
    "volts": 0,
-   "created_at": "2017-06-13T00:06:53Z",
-   "connector_type": 2,
    "station_id": 202180,
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -263,8 +306,7 @@
     "id": 13333,
     "notify_nearby": 0,
     "first_name": "thomas",
-    "vehicle_color": 0,
-    "last_login": "2019-02-22T03:44:14Z",
+    "last_login": "2019-07-26T14:34:34Z",
     "allow_notifications": null,
     "vehicle_description": "",
     "phone": "",
@@ -275,20 +317,36 @@
     "notify_nearby_radius": 16000,
     "receive_grid_alerts": 0,
     "created_at": "2013-03-10T04:01:40Z",
-    "photos": [],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 0
+    "photos": [
+     {
+      "user_id": 13333,
+      "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/433011.jpg",
+      "created_at": "2019-06-18T21:34:58Z",
+      "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/433011.png",
+      "caption": "",
+      "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/433011.png",
+      "order": 0,
+      "id": 433011
+     }
+    ],
+    "formatted_phone_number": ""
    },
-   "amps": 0,
+   "vehicle_name": "Nissan LEAF",
    "vehicle_type": 1,
+   "id": 760803,
+   "kilowatts": null,
+   "created_at": "2017-06-13T00:06:53Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": 0,
    "outlet_id": 437107,
-   "id": 760803
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/7399_cc0640_032_QX1.png"
   }
  ],
  "under_repair": false,
  "poi_name": "Car Dealership",
  "locale": "US",
- "updated_at": "2018-12-26T15:18:37Z",
+ "updated_at": "2019-07-02T16:20:09Z",
  "cost": false,
  "pwps_version": null,
  "id": 116587,
@@ -347,7 +405,7 @@
    "available_changed_at": null
   }
  ],
- "url": "http://api.plugshare.com/view/location/116587",
+ "url": "https://www.plugshare.com/location/116587",
  "created_at": "2017-05-05T22:32:15Z",
  "promos": [],
  "photos": [
@@ -363,5 +421,6 @@
   }
  ],
  "formatted_phone_number": "",
- "coming_soon": null
+ "coming_soon": null,
+ "total_reviews": 6
 }

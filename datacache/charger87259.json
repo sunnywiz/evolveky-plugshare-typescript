@@ -34,11 +34,7 @@
  "open247": false,
  "valid_outlets": [
   {
-   "connector": 1,
-   "power": 0
-  },
-  {
-   "connector": 2,
+   "connector": 13,
    "power": 0
   },
   {
@@ -46,11 +42,7 @@
    "power": 0
   },
   {
-   "connector": 13,
-   "power": 0
-  },
-  {
-   "connector": 4,
+   "connector": 2,
    "power": 0
   },
   {
@@ -58,28 +50,117 @@
    "power": 0
   },
   {
+   "connector": 4,
+   "power": 0
+  },
+  {
    "connector": 5,
+   "power": 0
+  },
+  {
+   "connector": 1,
    "power": 0
   }
  ],
  "phone": "",
  "e164_phone_number": "",
+ "total_photos": 2,
  "locked": false,
- "title_description": "Louisville Metro Housing Authority EVCS #7 - Electric Car Charging - 6 Check-ins 2 Photos - 746 Camp  Edwards Way, Louisville, KY 40203 - US - Residential - PlugShare",
+ "title_description": "Louisville Metro Housing Authority EVCS #7 - Electric Car Charging - 8 Check-ins 2 Photos - 746 Camp  Edwards Way, Louisville, KY 40203 - US - Residential - PlugShare",
  "name": "Louisville Metro Housing Authority EVCS #7",
  "icon_type": "G",
  "enabled": true,
  "longitude": -85.743114,
  "reviews": [
   {
+   "comment": "Broken hardware",
+   "rating": -1,
+   "volts": null,
+   "station_id": 136399,
+   "user": {
+    "last_name": "",
+    "hide_address": false,
+    "charger_type": 0,
+    "country_code": "US",
+    "language_code": "en-US",
+    "allow_promo_email": false,
+    "id": 244353,
+    "notify_nearby": 0,
+    "first_name": "Amy",
+    "last_login": "2019-07-21T16:23:38Z",
+    "allow_notifications": null,
+    "vehicle_description": "",
+    "phone": "",
+    "e164_phone_number": "",
+    "hide_phone": false,
+    "vehicle_type": 1,
+    "about": "",
+    "notify_nearby_radius": 0,
+    "receive_grid_alerts": 0,
+    "created_at": "2017-06-04T03:37:28Z",
+    "photos": [],
+    "formatted_phone_number": ""
+   },
+   "vehicle_name": "Nissan LEAF",
+   "vehicle_type": 1,
+   "id": 1743861,
+   "kilowatts": null,
+   "created_at": "2019-06-05T19:57:36Z",
+   "connector_type": 2,
+   "waiting": false,
+   "problem_description": "Broken hardware",
+   "amps": null,
+   "problem": 1,
+   "outlet_id": 336107,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/7399_cc0640_032_QX1.png"
+  },
+  {
    "comment": "",
    "rating": 1,
-   "connector_type": 2,
    "volts": null,
-   "created_at": "2018-12-24T15:30:40Z",
+   "station_id": 136399,
+   "finished": "2019-05-24T15:10:33Z",
+   "user": {
+    "last_name": "",
+    "hide_address": false,
+    "charger_type": 0,
+    "country_code": "US",
+    "language_code": "en-US",
+    "allow_promo_email": false,
+    "id": 275293,
+    "notify_nearby": 0,
+    "first_name": "Nicole Marie",
+    "last_login": "2019-07-05T15:26:32Z",
+    "allow_notifications": null,
+    "vehicle_description": "",
+    "phone": "",
+    "e164_phone_number": "",
+    "hide_phone": false,
+    "vehicle_type": 1,
+    "about": "",
+    "notify_nearby_radius": 0,
+    "receive_grid_alerts": 0,
+    "created_at": "2017-09-23T16:01:23Z",
+    "photos": [],
+    "formatted_phone_number": ""
+   },
+   "vehicle_name": "Nissan LEAF",
+   "vehicle_type": 1,
+   "id": 1719180,
+   "kilowatts": null,
+   "created_at": "2019-05-24T14:10:33Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
+   "outlet_id": 336107,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/7399_cc0640_032_QX1.png"
+  },
+  {
+   "comment": "",
+   "rating": 1,
+   "volts": null,
+   "station_id": 136399,
    "finished": "2018-12-24T15:34:07Z",
-   "station_id": 136399,
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -90,8 +171,7 @@
     "id": 445507,
     "notify_nearby": 0,
     "first_name": "kitty",
-    "vehicle_color": 1,
-    "last_login": "2019-02-10T21:19:09Z",
+    "last_login": "2019-04-23T17:31:33Z",
     "allow_notifications": null,
     "vehicle_description": "",
     "phone": "",
@@ -103,23 +183,25 @@
     "receive_grid_alerts": 0,
     "created_at": "2018-12-24T15:26:00Z",
     "photos": [],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 0
+    "formatted_phone_number": ""
    },
-   "amps": null,
+   "vehicle_name": "Chevrolet Bolt EV",
    "vehicle_type": 63,
+   "id": 1462360,
+   "kilowatts": null,
+   "created_at": "2018-12-24T15:30:40Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
    "outlet_id": 336107,
-   "id": 1462360
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/13022_cc0640_032_G7Q.png"
   },
   {
    "comment": "",
    "rating": 1,
-   "connector_type": 2,
    "volts": null,
-   "created_at": "2018-12-24T15:28:28Z",
+   "station_id": 136399,
    "finished": "2018-12-24T15:29:27Z",
-   "station_id": 136399,
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -130,8 +212,7 @@
     "id": 445507,
     "notify_nearby": 0,
     "first_name": "kitty",
-    "vehicle_color": 1,
-    "last_login": "2019-02-10T21:19:09Z",
+    "last_login": "2019-04-23T17:31:33Z",
     "allow_notifications": null,
     "vehicle_description": "",
     "phone": "",
@@ -143,23 +224,25 @@
     "receive_grid_alerts": 0,
     "created_at": "2018-12-24T15:26:00Z",
     "photos": [],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 0
+    "formatted_phone_number": ""
    },
-   "amps": null,
+   "vehicle_name": "Chevrolet Bolt EV",
    "vehicle_type": 63,
+   "id": 1462356,
+   "kilowatts": null,
+   "created_at": "2018-12-24T15:28:28Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
    "outlet_id": 336107,
-   "id": 1462356
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/13022_cc0640_032_G7Q.png"
   },
   {
    "comment": "",
    "rating": 1,
-   "connector_type": 2,
    "volts": null,
-   "created_at": "2018-12-24T15:27:32Z",
-   "finished": "2018-12-24T15:28:22Z",
    "station_id": 136399,
-   "waiting": false,
+   "finished": "2018-12-24T15:28:22Z",
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -170,8 +253,7 @@
     "id": 445507,
     "notify_nearby": 0,
     "first_name": "kitty",
-    "vehicle_color": 1,
-    "last_login": "2019-02-10T21:19:09Z",
+    "last_login": "2019-04-23T17:31:33Z",
     "allow_notifications": null,
     "vehicle_description": "",
     "phone": "",
@@ -183,22 +265,24 @@
     "receive_grid_alerts": 0,
     "created_at": "2018-12-24T15:26:00Z",
     "photos": [],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 0
+    "formatted_phone_number": ""
    },
-   "amps": null,
+   "vehicle_name": "Chevrolet Bolt EV",
    "vehicle_type": 63,
+   "id": 1462355,
+   "kilowatts": null,
+   "created_at": "2018-12-24T15:27:32Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
    "outlet_id": 336107,
-   "id": 1462355
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/13022_cc0640_032_G7Q.png"
   },
   {
    "comment": "",
    "rating": -1,
    "volts": null,
-   "created_at": "2018-07-10T18:59:58Z",
-   "connector_type": 2,
    "station_id": 136399,
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -209,8 +293,7 @@
     "id": 367387,
     "notify_nearby": 0,
     "first_name": "Karen Cairns",
-    "vehicle_color": 7,
-    "last_login": "2019-01-27T14:33:08Z",
+    "last_login": "2019-07-25T12:21:25Z",
     "allow_notifications": null,
     "vehicle_description": "",
     "phone": "",
@@ -222,25 +305,27 @@
     "receive_grid_alerts": 0,
     "created_at": "2018-07-04T17:21:30Z",
     "photos": [],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 2
+    "formatted_phone_number": ""
    },
+   "vehicle_name": "Nissan LEAF",
+   "vehicle_type": 1,
+   "id": 1206908,
+   "kilowatts": null,
+   "created_at": "2018-07-10T18:59:58Z",
+   "connector_type": 2,
+   "waiting": false,
+   "problem_description": "Could not activate",
    "amps": null,
    "problem": 4,
-   "vehicle_type": 1,
    "outlet_id": 336107,
-   "id": 1206908,
-   "problem_description": "Could not activate"
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/7399_cc0640_032_QX1.png"
   },
   {
    "comment": "",
    "rating": 1,
-   "connector_type": 2,
    "volts": null,
-   "created_at": "2017-06-13T18:10:09Z",
-   "finished": "2017-06-13T18:25:09Z",
    "station_id": 136399,
-   "waiting": false,
+   "finished": "2017-06-13T18:25:09Z",
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -250,13 +335,12 @@
     "allow_promo_email": false,
     "id": 81997,
     "notify_nearby": 0,
-    "first_name": "Stuart",
-    "vehicle_color": 8,
-    "last_login": "2019-02-22T00:56:32Z",
+    "first_name": "Stuart’s LEAF ",
+    "last_login": "2019-08-12T19:52:25Z",
     "allow_notifications": null,
     "vehicle_description": "2011 Leaf SL -- Ocean Blue",
     "phone": "5024265376",
-    "e164_phone_number": "",
+    "e164_phone_number": "+15024265376",
     "hide_phone": false,
     "vehicle_type": 1,
     "about": "President of EVolve KY, Kentucky’s electric vehicle organization. Group meets monthly. Visit our website at www.evolveky.org or call me for more information. ",
@@ -275,22 +359,24 @@
       "id": 62035
      }
     ],
-    "formatted_phone_number": "+1 502-426-5376",
-    "vehicle_subtype": 2
+    "formatted_phone_number": "+1 502-426-5376"
    },
-   "amps": null,
+   "vehicle_name": "Nissan LEAF",
    "vehicle_type": 1,
+   "id": 761462,
+   "kilowatts": null,
+   "created_at": "2017-06-13T18:10:09Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
    "outlet_id": 336107,
-   "id": 761462
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/7399_cc0640_032_QX1.png"
   },
   {
    "comment": "",
    "rating": 1,
-   "connector_type": 2,
    "volts": null,
-   "created_at": "2017-02-03T13:42:25Z",
    "finished": "2017-02-03T13:42:30Z",
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": true,
@@ -301,19 +387,28 @@
     "id": 14864,
     "notify_nearby": 1,
     "first_name": "Austin",
-    "vehicle_color": 3,
-    "last_login": "2019-02-21T22:14:21Z",
+    "last_login": "2019-08-12T13:43:48Z",
     "allow_notifications": null,
     "vehicle_description": "Awesome gateway electric car! ;-)",
     "phone": "",
     "e164_phone_number": "",
     "hide_phone": true,
-    "vehicle_type": 23,
+    "vehicle_type": 75,
     "about": "Ready for the Model 3!",
     "notify_nearby_radius": 16000,
     "receive_grid_alerts": 0,
     "created_at": "2013-04-15T15:33:57Z",
     "photos": [
+     {
+      "user_id": 14864,
+      "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/400667.jpg",
+      "created_at": "2019-03-28T10:58:55Z",
+      "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/400667.png",
+      "caption": "",
+      "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/400667.png",
+      "order": 0,
+      "id": 400667
+     },
      {
       "user_id": 14864,
       "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/281261.jpg",
@@ -335,25 +430,30 @@
       "id": 9823
      }
     ],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 0
+    "formatted_phone_number": ""
    },
-   "amps": null,
+   "vehicle_name": "Ford Fusion Energi",
    "vehicle_type": 13,
-   "id": 649097
+   "id": 649097,
+   "kilowatts": null,
+   "created_at": "2017-02-03T13:42:25Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/9787_cc0640_032_UH.png"
   }
  ],
  "under_repair": false,
  "poi_name": "Residential",
  "locale": "US",
- "updated_at": "2018-12-24T15:30:40Z",
+ "updated_at": "2019-06-05T19:57:36Z",
  "cost": true,
  "pwps_version": null,
  "id": 87259,
  "datasources": [],
  "cost_description": "Free for first hour with a flat rate of $2.00 after that.Start charging with GE WattStation Connect app",
  "access": 1,
- "score": 7.4,
+ "score": 5.7,
  "description": "",
  "custom_ports": "",
  "confidence": 2,
@@ -416,10 +516,10 @@
    "longitude": -85.743084,
    "amps": null,
    "model": "",
-   "available_changed_at": "2019-02-07T19:54:04Z"
+   "available_changed_at": "2019-06-24T12:29:08Z"
   }
  ],
- "url": "http://api.plugshare.com/view/location/87259",
+ "url": "https://www.plugshare.com/location/87259",
  "created_at": "2016-05-10T17:41:00Z",
  "promos": [],
  "photos": [
@@ -445,5 +545,6 @@
   }
  ],
  "formatted_phone_number": "",
- "coming_soon": null
+ "coming_soon": null,
+ "total_reviews": 8
 }

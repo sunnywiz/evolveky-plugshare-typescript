@@ -38,11 +38,7 @@
  "open247": false,
  "valid_outlets": [
   {
-   "connector": 1,
-   "power": 0
-  },
-  {
-   "connector": 2,
+   "connector": 13,
    "power": 0
   },
   {
@@ -50,11 +46,7 @@
    "power": 0
   },
   {
-   "connector": 13,
-   "power": 0
-  },
-  {
-   "connector": 4,
+   "connector": 2,
    "power": 0
   },
   {
@@ -62,28 +54,45 @@
    "power": 0
   },
   {
+   "connector": 4,
+   "power": 0
+  },
+  {
    "connector": 5,
+   "power": 0
+  },
+  {
+   "connector": 1,
    "power": 0
   }
  ],
  "phone": "5028943427",
  "e164_phone_number": "+15028943427",
+ "total_photos": 1,
  "locked": false,
- "title_description": "Blue Grass Audi - Free Electric Car Charging - 8 Check-ins 1 Photos - 4730 Bowling Blvd, Louisville, KY 40207 - US - Car Dealership - PlugShare",
+ "title_description": "Blue Grass Audi - Free Electric Car Charging - 9 Check-ins 1 Photos - 4730 Bowling Blvd, Louisville, KY 40207 - US - Car Dealership - PlugShare",
  "name": "Blue Grass Audi",
  "icon_type": "G",
  "enabled": true,
  "longitude": -85.628227,
  "reviews": [
   {
+   "comment": "",
+   "rating": 1,
+   "waiting": false,
+   "volts": null,
+   "amps": null,
+   "created_at": "2019-04-04T23:45:07Z",
+   "kilowatts": null,
+   "finished": "2019-04-04T23:48:07Z",
+   "id": 1626845
+  },
+  {
    "comment": "Come in the morning before 10am and all four chargers are usually open. Later in the day, there is often someone parked in front of the chargers.",
    "rating": 1,
-   "connector_type": 2,
    "volts": null,
-   "created_at": "2017-12-28T14:52:25Z",
-   "finished": "2017-12-28T15:52:25Z",
    "station_id": 106123,
-   "waiting": false,
+   "finished": "2017-12-28T15:52:25Z",
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -94,8 +103,7 @@
     "id": 152989,
     "notify_nearby": 0,
     "first_name": "Robin Tapp",
-    "vehicle_color": 3,
-    "last_login": "2019-02-07T13:57:49Z",
+    "last_login": "2019-06-14T19:34:05Z",
     "allow_notifications": null,
     "vehicle_description": "",
     "phone": "",
@@ -107,22 +115,24 @@
     "receive_grid_alerts": 0,
     "created_at": "2016-03-22T19:02:15Z",
     "photos": [],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 3
+    "formatted_phone_number": ""
    },
-   "amps": null,
+   "vehicle_name": "Ford Focus Electric",
    "vehicle_type": 7,
-   "id": 967631
+   "id": 967631,
+   "kilowatts": null,
+   "created_at": "2017-12-28T14:52:25Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/9050_cc0640_032_UH.png"
   },
   {
    "comment": "Now Audi Louisville. ",
    "rating": 1,
-   "connector_type": 2,
    "volts": null,
-   "created_at": "2017-02-25T17:44:00Z",
-   "finished": "2017-02-25T19:59:00Z",
    "station_id": 106123,
-   "waiting": false,
+   "finished": "2017-02-25T19:59:00Z",
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -133,8 +143,7 @@
     "id": 6293,
     "notify_nearby": 3,
     "first_name": "Paul A. ",
-    "vehicle_color": 5,
-    "last_login": "2019-02-20T22:36:34Z",
+    "last_login": "2019-07-26T15:03:15Z",
     "allow_notifications": true,
     "vehicle_description": "",
     "phone": "5133105070",
@@ -157,22 +166,24 @@
       "id": 117346
      }
     ],
-    "formatted_phone_number": "+1 513-310-5070",
-    "vehicle_subtype": 2
+    "formatted_phone_number": "+1 513-310-5070"
    },
-   "amps": null,
+   "vehicle_name": "BMW i3",
    "vehicle_type": 18,
-   "id": 666080
+   "id": 666080,
+   "kilowatts": null,
+   "created_at": "2017-02-25T17:44:00Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/9689_cc0640_032_B81.png"
   },
   {
    "comment": "Amazing dealership friendly and free for all  ",
    "rating": 1,
-   "connector_type": 2,
    "volts": 0,
-   "created_at": "2017-01-02T21:23:34Z",
-   "finished": "2017-01-02T23:23:33Z",
    "station_id": 106123,
-   "waiting": false,
+   "finished": "2017-01-02T23:23:33Z",
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -183,7 +194,6 @@
     "id": 176611,
     "notify_nearby": 0,
     "first_name": "jason",
-    "vehicle_color": 1,
     "last_login": "2018-03-08T23:48:29Z",
     "allow_notifications": null,
     "vehicle_description": "",
@@ -196,22 +206,24 @@
     "receive_grid_alerts": 0,
     "created_at": "2016-07-24T05:42:50Z",
     "photos": [],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 0
+    "formatted_phone_number": ""
    },
-   "amps": 0,
+   "vehicle_name": "Chevrolet Volt",
    "vehicle_type": 2,
-   "id": 626499
+   "id": 626499,
+   "kilowatts": null,
+   "created_at": "2017-01-02T21:23:34Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": 0,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/7411_cc0640_032_GAN.png"
   },
   {
    "comment": "",
    "rating": 1,
-   "connector_type": 2,
    "volts": 0,
-   "created_at": "2016-08-26T14:58:05Z",
+   "station_id": 106123,
    "finished": "2016-08-26T15:13:04Z",
-   "station_id": 106123,
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": true,
@@ -222,8 +234,7 @@
     "id": 134123,
     "notify_nearby": 0,
     "first_name": "Scott B.",
-    "vehicle_color": 1,
-    "last_login": "2019-02-15T18:40:10Z",
+    "last_login": "2019-07-24T16:20:38Z",
     "allow_notifications": null,
     "vehicle_description": "2013 SV",
     "phone": "",
@@ -235,22 +246,24 @@
     "receive_grid_alerts": 0,
     "created_at": "2015-11-05T22:49:48Z",
     "photos": [],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 1
+    "formatted_phone_number": ""
    },
-   "amps": 0,
+   "vehicle_name": "Nissan LEAF",
    "vehicle_type": 1,
-   "id": 534340
+   "id": 534340,
+   "kilowatts": null,
+   "created_at": "2016-08-26T14:58:05Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": 0,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/7399_cc0640_032_QX1.png"
   },
   {
    "comment": "",
    "rating": 1,
-   "connector_type": 2,
    "volts": 0,
-   "created_at": "2016-08-16T18:51:51Z",
+   "station_id": 106123,
    "finished": "2016-08-16T19:06:50Z",
-   "station_id": 106123,
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": true,
@@ -261,8 +274,7 @@
     "id": 134123,
     "notify_nearby": 0,
     "first_name": "Scott B.",
-    "vehicle_color": 1,
-    "last_login": "2019-02-15T18:40:10Z",
+    "last_login": "2019-07-24T16:20:38Z",
     "allow_notifications": null,
     "vehicle_description": "2013 SV",
     "phone": "",
@@ -274,22 +286,24 @@
     "receive_grid_alerts": 0,
     "created_at": "2015-11-05T22:49:48Z",
     "photos": [],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 1
+    "formatted_phone_number": ""
    },
-   "amps": 0,
+   "vehicle_name": "Nissan LEAF",
    "vehicle_type": 1,
-   "id": 527010
+   "id": 527010,
+   "kilowatts": null,
+   "created_at": "2016-08-16T18:51:51Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": 0,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/7399_cc0640_032_QX1.png"
   },
   {
    "comment": "",
    "rating": 1,
-   "connector_type": 2,
    "volts": 0,
-   "created_at": "2016-06-29T16:40:11Z",
-   "finished": "2016-06-29T17:40:10Z",
    "station_id": 106123,
-   "waiting": false,
+   "finished": "2016-06-29T17:40:10Z",
    "user": {
     "last_name": "",
     "hide_address": true,
@@ -300,8 +314,7 @@
     "id": 134123,
     "notify_nearby": 0,
     "first_name": "Scott B.",
-    "vehicle_color": 1,
-    "last_login": "2019-02-15T18:40:10Z",
+    "last_login": "2019-07-24T16:20:38Z",
     "allow_notifications": null,
     "vehicle_description": "2013 SV",
     "phone": "",
@@ -313,20 +326,23 @@
     "receive_grid_alerts": 0,
     "created_at": "2015-11-05T22:49:48Z",
     "photos": [],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 1
+    "formatted_phone_number": ""
    },
-   "amps": 0,
+   "vehicle_name": "Nissan LEAF",
    "vehicle_type": 1,
-   "id": 490680
+   "id": 490680,
+   "kilowatts": null,
+   "created_at": "2016-06-29T16:40:11Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": 0,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/7399_cc0640_032_QX1.png"
   },
   {
    "comment": "",
    "rating": 1,
    "volts": null,
-   "created_at": "2015-12-19T14:51:20Z",
    "finished": "2015-12-19T17:51:20Z",
-   "waiting": false,
    "user": {
     "last_name": "Coslow",
     "hide_address": false,
@@ -337,7 +353,6 @@
     "id": 4597,
     "notify_nearby": 0,
     "first_name": "Jason",
-    "vehicle_color": 1,
     "last_login": "2016-05-30T02:12:59Z",
     "allow_notifications": true,
     "vehicle_description": "",
@@ -350,20 +365,22 @@
     "receive_grid_alerts": 0,
     "created_at": "2012-03-11T20:39:57Z",
     "photos": [],
-    "formatted_phone_number": "+1 502-387-2868",
-    "vehicle_subtype": 0
+    "formatted_phone_number": "+1 502-387-2868"
    },
-   "amps": null,
+   "vehicle_name": "Chevrolet Volt",
    "vehicle_type": 2,
-   "id": 365828
+   "id": 365828,
+   "kilowatts": null,
+   "created_at": "2015-12-19T14:51:20Z",
+   "waiting": false,
+   "amps": null,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/7411_cc0640_032_GAN.png"
   },
   {
    "comment": "",
    "rating": 1,
    "volts": null,
-   "created_at": "2015-12-03T21:03:35Z",
    "finished": "2015-12-03T21:20:05Z",
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": true,
@@ -374,19 +391,28 @@
     "id": 14864,
     "notify_nearby": 1,
     "first_name": "Austin",
-    "vehicle_color": 3,
-    "last_login": "2019-02-21T22:14:21Z",
+    "last_login": "2019-08-12T13:43:48Z",
     "allow_notifications": null,
     "vehicle_description": "Awesome gateway electric car! ;-)",
     "phone": "",
     "e164_phone_number": "",
     "hide_phone": true,
-    "vehicle_type": 23,
+    "vehicle_type": 75,
     "about": "Ready for the Model 3!",
     "notify_nearby_radius": 16000,
     "receive_grid_alerts": 0,
     "created_at": "2013-04-15T15:33:57Z",
     "photos": [
+     {
+      "user_id": 14864,
+      "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/400667.jpg",
+      "created_at": "2019-03-28T10:58:55Z",
+      "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/400667.png",
+      "caption": "",
+      "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/400667.png",
+      "order": 0,
+      "id": 400667
+     },
      {
       "user_id": 14864,
       "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/281261.jpg",
@@ -408,25 +434,29 @@
       "id": 9823
      }
     ],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 0
+    "formatted_phone_number": ""
    },
-   "amps": null,
+   "vehicle_name": "Ford Fusion Energi",
    "vehicle_type": 13,
-   "id": 356403
+   "id": 356403,
+   "kilowatts": null,
+   "created_at": "2015-12-03T21:03:35Z",
+   "waiting": false,
+   "amps": null,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/9787_cc0640_032_UH.png"
   }
  ],
  "under_repair": false,
  "poi_name": "Car Dealership",
  "locale": "US",
- "updated_at": "2017-12-28T14:52:25Z",
+ "updated_at": "2019-04-04T23:45:07Z",
  "cost": false,
  "pwps_version": null,
  "id": 73014,
  "datasources": [],
  "cost_description": "",
  "access": 1,
- "score": 9,
+ "score": 10,
  "description": "Welcome to all Cars confirmed NOT. ... I was told by management that only Audi cars are allowed",
  "custom_ports": "",
  "confidence": 1,
@@ -491,7 +521,7 @@
    "available_changed_at": null
   }
  ],
- "url": "http://api.plugshare.com/view/location/73014",
+ "url": "https://www.plugshare.com/location/73014",
  "created_at": "2015-10-14T19:44:56Z",
  "promos": [],
  "photos": [
@@ -507,5 +537,6 @@
   }
  ],
  "formatted_phone_number": "+1 502-894-3427",
- "coming_soon": null
+ "coming_soon": null,
+ "total_reviews": 9
 }

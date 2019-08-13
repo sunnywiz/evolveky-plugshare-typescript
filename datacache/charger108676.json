@@ -42,11 +42,7 @@
  "open247": true,
  "valid_outlets": [
   {
-   "connector": 1,
-   "power": 0
-  },
-  {
-   "connector": 2,
+   "connector": 13,
    "power": 0
   },
   {
@@ -54,11 +50,7 @@
    "power": 0
   },
   {
-   "connector": 13,
-   "power": 0
-  },
-  {
-   "connector": 4,
+   "connector": 2,
    "power": 0
   },
   {
@@ -66,28 +58,167 @@
    "power": 0
   },
   {
+   "connector": 4,
+   "power": 0
+  },
+  {
    "connector": 5,
+   "power": 0
+  },
+  {
+   "connector": 1,
    "power": 0
   }
  ],
  "phone": "",
  "e164_phone_number": "",
- "locked": false,
- "title_description": "LG&E E. Main St. (Louisville Ballet) - Electric Car Charging - 9 Check-ins 2 Photos - 315 E. Main St., Louisville, KY 40202 - US - Street Parking - PlugShare",
- "name": "LG&E E. Main St. (Louisville Ballet)",
+ "total_photos": 2,
+ "locked": true,
+ "title_description": "E. Main St. Parking/Charging - Electric Car Charging - 12 Check-ins 2 Photos - 1215, 315 E Main St, Louisville, KY 40202 - US - Street Parking - PlugShare",
+ "name": "E. Main St. Parking/Charging",
  "icon_type": "G",
  "enabled": true,
  "longitude": -85.747053,
  "reviews": [
   {
+   "comment": "$3.00 for about 3.5 hours at 80 miles which includes parking in downtown Louisville. Great deal!",
+   "rating": 1,
+   "volts": null,
+   "station_id": 182178,
+   "user": {
+    "last_name": "",
+    "hide_address": false,
+    "charger_type": 0,
+    "country_code": "US",
+    "language_code": "en-US",
+    "allow_promo_email": false,
+    "id": 393175,
+    "notify_nearby": 0,
+    "first_name": "Keith Fernandez",
+    "last_login": "2019-07-15T20:00:22Z",
+    "allow_notifications": null,
+    "vehicle_description": "",
+    "phone": "",
+    "e164_phone_number": "",
+    "hide_phone": false,
+    "vehicle_type": 75,
+    "about": "",
+    "notify_nearby_radius": 0,
+    "receive_grid_alerts": 0,
+    "created_at": "2018-09-01T16:15:55Z",
+    "photos": [
+     {
+      "user_id": 393175,
+      "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/335407.jpg",
+      "created_at": "2018-09-01T17:04:48Z",
+      "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/335407.png",
+      "caption": "",
+      "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/335407.png",
+      "order": 0,
+      "id": 335407
+     }
+    ],
+    "formatted_phone_number": ""
+   },
+   "vehicle_name": "Tesla Model 3",
+   "vehicle_type": 75,
+   "id": 1833608,
+   "kilowatts": null,
+   "created_at": "2019-07-15T20:03:30Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
+   "outlet_id": 407141,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/12659_cc0640_032_PPSW.png"
+  },
+  {
+   "comment": "Let me know if you need the charging station. I'll come unplug mine.",
+   "rating": 1,
+   "volts": null,
+   "station_id": 182178,
+   "finished": "2019-07-12T18:11:01Z",
+   "user": {
+    "last_name": "",
+    "hide_address": false,
+    "charger_type": 0,
+    "country_code": "US",
+    "language_code": "en",
+    "allow_promo_email": false,
+    "id": 569475,
+    "notify_nearby": 0,
+    "first_name": "PK",
+    "last_login": "2019-08-12T23:38:25Z",
+    "allow_notifications": null,
+    "vehicle_description": "",
+    "phone": "",
+    "e164_phone_number": "",
+    "hide_phone": false,
+    "vehicle_type": 75,
+    "about": "",
+    "notify_nearby_radius": 0,
+    "receive_grid_alerts": 0,
+    "created_at": "2019-06-24T21:48:32Z",
+    "photos": [],
+    "formatted_phone_number": ""
+   },
+   "vehicle_name": "Tesla Model 3",
+   "vehicle_type": 75,
+   "id": 1825504,
+   "kilowatts": 0,
+   "created_at": "2019-07-12T18:10:49Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
+   "outlet_id": 407141,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/12659_cc0640_032_PPSW.png"
+  },
+  {
    "comment": "",
    "rating": 1,
+   "volts": 206,
+   "station_id": 182178,
+   "finished": "2019-03-31T15:41:12Z",
+   "user": {
+    "last_name": "",
+    "hide_address": false,
+    "charger_type": 1,
+    "country_code": "US",
+    "language_code": "en-US",
+    "allow_promo_email": true,
+    "id": 440409,
+    "notify_nearby": 0,
+    "first_name": "Nyon",
+    "last_login": "2019-07-10T22:23:03Z",
+    "allow_notifications": null,
+    "vehicle_description": "",
+    "phone": "",
+    "e164_phone_number": "",
+    "hide_phone": false,
+    "vehicle_type": 52,
+    "about": "",
+    "notify_nearby_radius": 0,
+    "receive_grid_alerts": 0,
+    "created_at": "2018-12-14T22:39:45Z",
+    "photos": [],
+    "formatted_phone_number": ""
+   },
+   "vehicle_name": "Tesla Model X",
+   "vehicle_type": 52,
+   "id": 1619343,
+   "kilowatts": 6,
+   "created_at": "2019-03-31T14:58:47Z",
    "connector_type": 2,
+   "waiting": false,
+   "amps": 30,
+   "outlet_id": 407141,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/11190_cc0640_032_EVOX01.png"
+  },
+  {
+   "comment": "",
+   "rating": 1,
    "volts": null,
-   "created_at": "2019-01-31T18:44:48Z",
+   "station_id": 182178,
    "finished": "2019-01-31T22:44:48Z",
-   "station_id": 182178,
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -98,14 +229,13 @@
     "id": 350353,
     "notify_nearby": 1,
     "first_name": "Kevin Batman",
-    "vehicle_color": 3,
-    "last_login": "2019-02-20T17:08:13Z",
+    "last_login": "2019-08-12T21:00:06Z",
     "allow_notifications": null,
     "vehicle_description": "",
     "phone": "8129460101",
     "e164_phone_number": "",
     "hide_phone": false,
-    "vehicle_type": 18,
+    "vehicle_type": 75,
     "about": "Works as Systems Analyst at UofL",
     "notify_nearby_radius": 10000,
     "receive_grid_alerts": 0,
@@ -122,23 +252,25 @@
       "id": 297240
      }
     ],
-    "formatted_phone_number": "+1 812-946-0101",
-    "vehicle_subtype": 2
+    "formatted_phone_number": "+1 812-946-0101"
    },
-   "amps": null,
+   "vehicle_name": "BMW i3",
    "vehicle_type": 18,
+   "id": 1523611,
+   "kilowatts": null,
+   "created_at": "2019-01-31T18:44:48Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
    "outlet_id": 407141,
-   "id": 1523611
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/9689_cc0640_032_B81.png"
   },
   {
    "comment": "",
    "rating": 1,
-   "connector_type": 2,
    "volts": null,
-   "created_at": "2018-12-11T20:07:52Z",
+   "station_id": 182178,
    "finished": "2018-12-11T21:07:52Z",
-   "station_id": 182178,
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -149,14 +281,13 @@
     "id": 350353,
     "notify_nearby": 1,
     "first_name": "Kevin Batman",
-    "vehicle_color": 3,
-    "last_login": "2019-02-20T17:08:13Z",
+    "last_login": "2019-08-12T21:00:06Z",
     "allow_notifications": null,
     "vehicle_description": "",
     "phone": "8129460101",
     "e164_phone_number": "",
     "hide_phone": false,
-    "vehicle_type": 18,
+    "vehicle_type": 75,
     "about": "Works as Systems Analyst at UofL",
     "notify_nearby_radius": 10000,
     "receive_grid_alerts": 0,
@@ -173,23 +304,25 @@
       "id": 297240
      }
     ],
-    "formatted_phone_number": "+1 812-946-0101",
-    "vehicle_subtype": 2
+    "formatted_phone_number": "+1 812-946-0101"
    },
-   "amps": null,
+   "vehicle_name": "BMW i3",
    "vehicle_type": 18,
+   "id": 1442033,
+   "kilowatts": null,
+   "created_at": "2018-12-11T20:07:52Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
    "outlet_id": 407141,
-   "id": 1442033
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/9689_cc0640_032_B81.png"
   },
   {
    "comment": "",
    "rating": 1,
-   "connector_type": 2,
    "volts": null,
-   "created_at": "2018-11-26T16:41:29Z",
+   "station_id": 182178,
    "finished": "2018-11-26T20:41:29Z",
-   "station_id": 182178,
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -200,14 +333,13 @@
     "id": 350353,
     "notify_nearby": 1,
     "first_name": "Kevin Batman",
-    "vehicle_color": 3,
-    "last_login": "2019-02-20T17:08:13Z",
+    "last_login": "2019-08-12T21:00:06Z",
     "allow_notifications": null,
     "vehicle_description": "",
     "phone": "8129460101",
     "e164_phone_number": "",
     "hide_phone": false,
-    "vehicle_type": 18,
+    "vehicle_type": 75,
     "about": "Works as Systems Analyst at UofL",
     "notify_nearby_radius": 10000,
     "receive_grid_alerts": 0,
@@ -224,23 +356,25 @@
       "id": 297240
      }
     ],
-    "formatted_phone_number": "+1 812-946-0101",
-    "vehicle_subtype": 2
+    "formatted_phone_number": "+1 812-946-0101"
    },
-   "amps": null,
+   "vehicle_name": "BMW i3",
    "vehicle_type": 18,
+   "id": 1420023,
+   "kilowatts": null,
+   "created_at": "2018-11-26T16:41:29Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
    "outlet_id": 407141,
-   "id": 1420023
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/9689_cc0640_032_B81.png"
   },
   {
    "comment": "",
    "rating": 1,
-   "connector_type": 2,
    "volts": null,
-   "created_at": "2018-11-21T15:25:12Z",
-   "finished": "2018-11-21T16:25:12Z",
    "station_id": 182178,
-   "waiting": false,
+   "finished": "2018-11-21T16:25:12Z",
    "user": {
     "last_name": "",
     "hide_address": true,
@@ -251,8 +385,7 @@
     "id": 7694,
     "notify_nearby": 1,
     "first_name": "REKII",
-    "vehicle_color": 1,
-    "last_login": "2019-02-21T22:42:22Z",
+    "last_login": "2019-08-12T22:26:42Z",
     "allow_notifications": null,
     "vehicle_description": "2014 Chevy Spark EV",
     "phone": "",
@@ -325,23 +458,25 @@
       "id": 66011
      }
     ],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 3
+    "formatted_phone_number": ""
    },
-   "amps": null,
+   "vehicle_name": "Chevrolet Spark EV",
    "vehicle_type": 17,
+   "id": 1411692,
+   "kilowatts": null,
+   "created_at": "2018-11-21T15:25:12Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
    "outlet_id": 407141,
-   "id": 1411692
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/9842_cc0640_032_G54.png"
   },
   {
    "comment": "",
    "rating": 1,
-   "connector_type": 2,
    "volts": null,
-   "created_at": "2018-10-25T13:35:59Z",
+   "station_id": 182178,
    "finished": "2018-10-25T17:20:05Z",
-   "station_id": 182178,
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -352,14 +487,13 @@
     "id": 350353,
     "notify_nearby": 1,
     "first_name": "Kevin Batman",
-    "vehicle_color": 3,
-    "last_login": "2019-02-20T17:08:13Z",
+    "last_login": "2019-08-12T21:00:06Z",
     "allow_notifications": null,
     "vehicle_description": "",
     "phone": "8129460101",
     "e164_phone_number": "",
     "hide_phone": false,
-    "vehicle_type": 18,
+    "vehicle_type": 75,
     "about": "Works as Systems Analyst at UofL",
     "notify_nearby_radius": 10000,
     "receive_grid_alerts": 0,
@@ -376,23 +510,25 @@
       "id": 297240
      }
     ],
-    "formatted_phone_number": "+1 812-946-0101",
-    "vehicle_subtype": 2
+    "formatted_phone_number": "+1 812-946-0101"
    },
-   "amps": null,
+   "vehicle_name": "BMW i3",
    "vehicle_type": 18,
+   "id": 1370900,
+   "kilowatts": null,
+   "created_at": "2018-10-25T13:35:59Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
    "outlet_id": 407141,
-   "id": 1370900
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/9689_cc0640_032_B81.png"
   },
   {
    "comment": "",
    "rating": 1,
-   "connector_type": 2,
    "volts": null,
-   "created_at": "2018-10-17T14:39:19Z",
+   "station_id": 182178,
    "finished": "2018-10-17T15:39:19Z",
-   "station_id": 182178,
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -403,14 +539,13 @@
     "id": 350353,
     "notify_nearby": 1,
     "first_name": "Kevin Batman",
-    "vehicle_color": 3,
-    "last_login": "2019-02-20T17:08:13Z",
+    "last_login": "2019-08-12T21:00:06Z",
     "allow_notifications": null,
     "vehicle_description": "",
     "phone": "8129460101",
     "e164_phone_number": "",
     "hide_phone": false,
-    "vehicle_type": 18,
+    "vehicle_type": 75,
     "about": "Works as Systems Analyst at UofL",
     "notify_nearby_radius": 10000,
     "receive_grid_alerts": 0,
@@ -427,23 +562,25 @@
       "id": 297240
      }
     ],
-    "formatted_phone_number": "+1 812-946-0101",
-    "vehicle_subtype": 2
+    "formatted_phone_number": "+1 812-946-0101"
    },
-   "amps": null,
+   "vehicle_name": "BMW i3",
    "vehicle_type": 18,
+   "id": 1358613,
+   "kilowatts": null,
+   "created_at": "2018-10-17T14:39:19Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
    "outlet_id": 407141,
-   "id": 1358613
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/9689_cc0640_032_B81.png"
   },
   {
    "comment": "",
    "rating": 1,
-   "connector_type": 2,
    "volts": null,
-   "created_at": "2018-09-27T16:47:05Z",
+   "station_id": 182178,
    "finished": "2018-09-27T21:32:17Z",
-   "station_id": 182178,
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -454,14 +591,13 @@
     "id": 350353,
     "notify_nearby": 1,
     "first_name": "Kevin Batman",
-    "vehicle_color": 3,
-    "last_login": "2019-02-20T17:08:13Z",
+    "last_login": "2019-08-12T21:00:06Z",
     "allow_notifications": null,
     "vehicle_description": "",
     "phone": "8129460101",
     "e164_phone_number": "",
     "hide_phone": false,
-    "vehicle_type": 18,
+    "vehicle_type": 75,
     "about": "Works as Systems Analyst at UofL",
     "notify_nearby_radius": 10000,
     "receive_grid_alerts": 0,
@@ -478,23 +614,25 @@
       "id": 297240
      }
     ],
-    "formatted_phone_number": "+1 812-946-0101",
-    "vehicle_subtype": 2
+    "formatted_phone_number": "+1 812-946-0101"
    },
-   "amps": null,
+   "vehicle_name": "BMW i3",
    "vehicle_type": 18,
+   "id": 1328701,
+   "kilowatts": null,
+   "created_at": "2018-09-27T16:47:05Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
    "outlet_id": 407141,
-   "id": 1328701
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/9689_cc0640_032_B81.png"
   },
   {
    "comment": "",
    "rating": 1,
-   "connector_type": 2,
    "volts": null,
-   "created_at": "2018-09-10T16:26:14Z",
+   "station_id": 182178,
    "finished": "2018-09-10T19:26:15Z",
-   "station_id": 182178,
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -505,14 +643,13 @@
     "id": 350353,
     "notify_nearby": 1,
     "first_name": "Kevin Batman",
-    "vehicle_color": 3,
-    "last_login": "2019-02-20T17:08:13Z",
+    "last_login": "2019-08-12T21:00:06Z",
     "allow_notifications": null,
     "vehicle_description": "",
     "phone": "8129460101",
     "e164_phone_number": "",
     "hide_phone": false,
-    "vehicle_type": 18,
+    "vehicle_type": 75,
     "about": "Works as Systems Analyst at UofL",
     "notify_nearby_radius": 10000,
     "receive_grid_alerts": 0,
@@ -529,23 +666,25 @@
       "id": 297240
      }
     ],
-    "formatted_phone_number": "+1 812-946-0101",
-    "vehicle_subtype": 2
+    "formatted_phone_number": "+1 812-946-0101"
    },
-   "amps": null,
+   "vehicle_name": "BMW i3",
    "vehicle_type": 18,
+   "id": 1304622,
+   "kilowatts": null,
+   "created_at": "2018-09-10T16:26:14Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
    "outlet_id": 407141,
-   "id": 1304622
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/9689_cc0640_032_B81.png"
   },
   {
    "comment": "",
    "rating": 1,
-   "connector_type": 2,
    "volts": null,
-   "created_at": "2018-07-21T13:30:18Z",
-   "finished": "2018-07-21T15:30:18Z",
    "station_id": 182178,
-   "waiting": false,
+   "finished": "2018-07-21T15:30:18Z",
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -556,8 +695,7 @@
     "id": 349043,
     "notify_nearby": 0,
     "first_name": "Professor",
-    "vehicle_color": 5,
-    "last_login": "2018-08-27T23:12:45Z",
+    "last_login": "2019-07-04T03:59:42Z",
     "allow_notifications": null,
     "vehicle_description": "",
     "phone": "",
@@ -569,24 +707,29 @@
     "receive_grid_alerts": 0,
     "created_at": "2018-05-18T00:35:47Z",
     "photos": [],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 2
+    "formatted_phone_number": ""
    },
-   "amps": null,
+   "vehicle_name": "BMW i3",
    "vehicle_type": 18,
+   "id": 1223617,
+   "kilowatts": null,
+   "created_at": "2018-07-21T13:30:18Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
    "outlet_id": 407141,
-   "id": 1223617
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/9689_cc0640_032_B81.png"
   }
  ],
  "under_repair": false,
  "poi_name": "Street Parking",
  "locale": "US",
- "updated_at": "2019-01-31T18:44:48Z",
+ "updated_at": "2019-07-15T20:03:30Z",
  "cost": true,
  "pwps_version": null,
  "id": 108676,
  "datasources": [],
- "cost_description": "$3.02/hour",
+ "cost_description": "$0.80 first two hours; $1.06 thereafter",
  "access": 1,
  "score": 10,
  "description": "Single port EV charging station located curbside on westbound Main St., in front of the Louisville Ballet, only one block from Slugger Field. Map marker location is precise.",
@@ -607,7 +750,7 @@
    "app_id": null
   }
  ],
- "address": "315 E. Main St., Louisville, KY 40202",
+ "address": "1215, 315 E Main St, Louisville, KY 40202",
  "parking_type_name": "Free",
  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png",
  "stations": [
@@ -678,7 +821,7 @@
    "available_changed_at": null
   }
  ],
- "url": "http://api.plugshare.com/view/location/108676",
+ "url": "https://www.plugshare.com/location/108676",
  "created_at": "2017-01-30T16:57:38Z",
  "promos": [],
  "photos": [
@@ -704,5 +847,6 @@
   }
  ],
  "formatted_phone_number": "",
- "coming_soon": null
+ "coming_soon": null,
+ "total_reviews": 12
 }

@@ -21,11 +21,7 @@
  "open247": false,
  "valid_outlets": [
   {
-   "connector": 1,
-   "power": 0
-  },
-  {
-   "connector": 2,
+   "connector": 13,
    "power": 0
   },
   {
@@ -33,11 +29,7 @@
    "power": 0
   },
   {
-   "connector": 13,
-   "power": 0
-  },
-  {
-   "connector": 4,
+   "connector": 2,
    "power": 0
   },
   {
@@ -45,12 +37,21 @@
    "power": 0
   },
   {
+   "connector": 4,
+   "power": 0
+  },
+  {
    "connector": 5,
+   "power": 0
+  },
+  {
+   "connector": 1,
    "power": 0
   }
  ],
  "phone": "(888) 699-5271",
  "e164_phone_number": "+18886995271",
+ "total_photos": 2,
  "recargo_id": 8387,
  "title_description": "Bob Hook Chevrolet - Free Electric Car Charging - 6 Check-ins 2 Photos - 4144 Bardstown Rd., Louisville, KY, 40218 - US - Car Dealership - PlugShare",
  "name": "Bob Hook Chevrolet",
@@ -61,12 +62,9 @@
   {
    "comment": "",
    "rating": 1,
-   "connector_type": 2,
    "volts": 0,
-   "created_at": "2016-12-08T04:25:53Z",
-   "finished": "2016-12-08T04:40:52Z",
    "station_id": 31176,
-   "waiting": false,
+   "finished": "2016-12-08T04:40:52Z",
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -77,7 +75,6 @@
     "id": 176611,
     "notify_nearby": 0,
     "first_name": "jason",
-    "vehicle_color": 1,
     "last_login": "2018-03-08T23:48:29Z",
     "allow_notifications": null,
     "vehicle_description": "",
@@ -90,23 +87,25 @@
     "receive_grid_alerts": 0,
     "created_at": "2016-07-24T05:42:50Z",
     "photos": [],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 0
+    "formatted_phone_number": ""
    },
-   "amps": 0,
+   "vehicle_name": "Chevrolet Volt",
    "vehicle_type": 2,
+   "id": 608228,
+   "kilowatts": null,
+   "created_at": "2016-12-08T04:25:53Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": 0,
    "outlet_id": 110964,
-   "id": 608228
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/7411_cc0640_032_GAN.png"
   },
   {
    "comment": "",
    "rating": 1,
-   "connector_type": 2,
    "volts": 0,
-   "created_at": "2016-11-05T21:13:29Z",
-   "finished": "2016-11-05T21:27:46Z",
    "station_id": 31176,
-   "waiting": false,
+   "finished": "2016-11-05T21:27:46Z",
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -117,7 +116,6 @@
     "id": 197702,
     "notify_nearby": 0,
     "first_name": "Jak",
-    "vehicle_color": 3,
     "last_login": "2016-11-06T01:56:35Z",
     "allow_notifications": null,
     "vehicle_description": "",
@@ -130,22 +128,24 @@
     "receive_grid_alerts": 0,
     "created_at": "2016-11-05T21:02:50Z",
     "photos": [],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 2
+    "formatted_phone_number": ""
    },
-   "amps": 0,
+   "vehicle_name": "Nissan LEAF 2016",
    "vehicle_type": 57,
+   "id": 586043,
+   "kilowatts": null,
+   "created_at": "2016-11-05T21:13:29Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": 0,
    "outlet_id": 110964,
-   "id": 586043
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/10932_cc0640_032_CAT.png"
   },
   {
    "comment": "Dealer truck took near spot but cord reached next spot.  Dealer was on the way to move truck anyway. Thanks",
    "rating": 1,
    "volts": 0,
-   "created_at": "2016-09-02T19:04:36Z",
-   "connector_type": 2,
    "station_id": 31176,
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -156,8 +156,7 @@
     "id": 102440,
     "notify_nearby": 0,
     "first_name": "Wrensey",
-    "vehicle_color": 7,
-    "last_login": "2019-02-21T13:30:23Z",
+    "last_login": "2019-08-12T11:03:00Z",
     "allow_notifications": null,
     "vehicle_description": "2015 SL, 6.6 kW charger, Quick charge port ",
     "phone": "8593618060",
@@ -169,23 +168,25 @@
     "receive_grid_alerts": 0,
     "created_at": "2015-03-27T15:43:32Z",
     "photos": [],
-    "formatted_phone_number": "+1 859-361-8060",
-    "vehicle_subtype": 2
+    "formatted_phone_number": "+1 859-361-8060"
    },
-   "amps": 0,
+   "vehicle_name": "Nissan LEAF",
    "vehicle_type": 1,
+   "id": 539612,
+   "kilowatts": null,
+   "created_at": "2016-09-02T19:04:36Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": 0,
    "outlet_id": 110964,
-   "id": 539612
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/7399_cc0640_032_QX1.png"
   },
   {
    "comment": "",
    "rating": 1,
-   "connector_type": 2,
    "volts": null,
-   "created_at": "2016-05-30T02:12:59Z",
-   "finished": "2016-05-30T05:12:59Z",
    "station_id": 31176,
-   "waiting": false,
+   "finished": "2016-05-30T05:12:59Z",
    "user": {
     "last_name": "Coslow",
     "hide_address": false,
@@ -196,7 +197,6 @@
     "id": 4597,
     "notify_nearby": 0,
     "first_name": "Jason",
-    "vehicle_color": 1,
     "last_login": "2016-05-30T02:12:59Z",
     "allow_notifications": true,
     "vehicle_description": "",
@@ -209,23 +209,25 @@
     "receive_grid_alerts": 0,
     "created_at": "2012-03-11T20:39:57Z",
     "photos": [],
-    "formatted_phone_number": "+1 502-387-2868",
-    "vehicle_subtype": 0
+    "formatted_phone_number": "+1 502-387-2868"
    },
-   "amps": null,
+   "vehicle_name": "Chevrolet Volt",
    "vehicle_type": 2,
+   "id": 470277,
+   "kilowatts": null,
+   "created_at": "2016-05-30T02:12:59Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
    "outlet_id": 110964,
-   "id": 470277
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/7411_cc0640_032_GAN.png"
   },
   {
    "comment": "Level 2 easy in ",
    "rating": 1,
-   "connector_type": 2,
    "volts": null,
-   "created_at": "2016-05-30T01:26:16Z",
-   "finished": "2016-05-30T02:12:49Z",
    "station_id": 31176,
-   "waiting": false,
+   "finished": "2016-05-30T02:12:49Z",
    "user": {
     "last_name": "Coslow",
     "hide_address": false,
@@ -236,7 +238,6 @@
     "id": 4597,
     "notify_nearby": 0,
     "first_name": "Jason",
-    "vehicle_color": 1,
     "last_login": "2016-05-30T02:12:59Z",
     "allow_notifications": true,
     "vehicle_description": "",
@@ -249,21 +250,23 @@
     "receive_grid_alerts": 0,
     "created_at": "2012-03-11T20:39:57Z",
     "photos": [],
-    "formatted_phone_number": "+1 502-387-2868",
-    "vehicle_subtype": 0
+    "formatted_phone_number": "+1 502-387-2868"
    },
-   "amps": null,
+   "vehicle_name": "Chevrolet Volt",
    "vehicle_type": 2,
+   "id": 470251,
+   "kilowatts": null,
+   "created_at": "2016-05-30T01:26:16Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
    "outlet_id": 110964,
-   "id": 470251
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/7411_cc0640_032_GAN.png"
   },
   {
    "comment": "This charger only charges at 240 / 15 Amps. So for a Tesla MS = 8 miles per Hr. ",
    "rating": 1,
    "volts": null,
-   "created_at": "2013-12-29T20:45:48Z",
-   "connector_type": 2,
-   "waiting": false,
    "user": {
     "last_name": "Wacker",
     "hide_address": true,
@@ -274,8 +277,7 @@
     "id": 19089,
     "notify_nearby": 0,
     "first_name": "Hank",
-    "vehicle_color": 9,
-    "last_login": "2019-02-15T14:49:16Z",
+    "last_login": "2019-08-07T13:02:16Z",
     "allow_notifications": null,
     "vehicle_description": "2013 Tesla MS Red 85KWH",
     "phone": "5028559818",
@@ -308,12 +310,17 @@
       "id": 51998
      }
     ],
-    "formatted_phone_number": "+1 502-855-9818",
-    "vehicle_subtype": 5
+    "formatted_phone_number": "+1 502-855-9818"
    },
-   "amps": null,
+   "vehicle_name": "Tesla Model S",
    "vehicle_type": 4,
-   "id": 73976
+   "id": 73976,
+   "kilowatts": null,
+   "created_at": "2013-12-29T20:45:48Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/8319_cc0640_032_EVOX01.png"
   }
  ],
  "under_repair": false,
@@ -359,7 +366,7 @@
  "description": "Slow charge rate, only 15 amps at L2.  phone ahead if you want to use it.",
  "custom_ports": "",
  "locked": false,
- "confidence": null,
+ "confidence": 0,
  "hours": "Dealership business hours\nMon-Thu 9:00 am to 8 pm\nFri 9:00 to 6:30 - Sat 9 to 5:30\nClosed Sunday",
  "all_promos": [],
  "address": "4144 Bardstown Rd., Louisville, KY, 40218",
@@ -408,7 +415,7 @@
    "available_changed_at": null
   }
  ],
- "url": "http://api.plugshare.com/view/location/19344",
+ "url": "https://www.plugshare.com/location/19344",
  "created_at": "2013-09-24T19:17:33Z",
  "promos": [],
  "photos": [
@@ -434,5 +441,6 @@
   }
  ],
  "formatted_phone_number": "+1 888-699-5271",
- "coming_soon": null
+ "coming_soon": null,
+ "total_reviews": 6
 }

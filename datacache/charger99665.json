@@ -19,6 +19,10 @@
  "amenities": [
   {
    "location_id": 99665,
+   "type": 8
+  },
+  {
+   "location_id": 99665,
    "type": 2
   },
   {
@@ -34,11 +38,7 @@
  "open247": true,
  "valid_outlets": [
   {
-   "connector": 1,
-   "power": 0
-  },
-  {
-   "connector": 2,
+   "connector": 13,
    "power": 0
   },
   {
@@ -46,11 +46,7 @@
    "power": 0
   },
   {
-   "connector": 13,
-   "power": 0
-  },
-  {
-   "connector": 4,
+   "connector": 2,
    "power": 0
   },
   {
@@ -58,14 +54,23 @@
    "power": 0
   },
   {
+   "connector": 4,
+   "power": 0
+  },
+  {
    "connector": 5,
+   "power": 0
+  },
+  {
+   "connector": 1,
    "power": 0
   }
  ],
  "phone": "",
  "e164_phone_number": "",
+ "total_photos": 1,
  "locked": false,
- "title_description": "LG&E E. Washington Street - Electric Car Charging - 11 Check-ins 1 Photos - 1100–1116 E Washington St, Louisville KY 40206, United States - US - PlugShare",
+ "title_description": "LG&E E. Washington Street - Electric Car Charging - 11 Check-ins 1 Photos - 1100 E Washington St, Louisville KY 40206, United States - US - PlugShare",
  "name": "LG&E E. Washington Street",
  "icon_type": "G",
  "enabled": true,
@@ -74,12 +79,9 @@
   {
    "comment": "",
    "rating": 1,
-   "connector_type": 2,
    "volts": null,
-   "created_at": "2019-01-23T23:57:25Z",
-   "finished": "2019-01-24T00:57:24Z",
    "station_id": 165519,
-   "waiting": false,
+   "finished": "2019-01-24T00:57:24Z",
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -90,8 +92,7 @@
     "id": 370927,
     "notify_nearby": 0,
     "first_name": "likearabbit",
-    "vehicle_color": 2,
-    "last_login": "2019-02-21T21:33:44Z",
+    "last_login": "2019-08-12T22:31:10Z",
     "allow_notifications": null,
     "vehicle_description": "",
     "phone": "",
@@ -103,22 +104,24 @@
     "receive_grid_alerts": 0,
     "created_at": "2018-07-12T00:00:00Z",
     "photos": [],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 0
+    "formatted_phone_number": ""
    },
-   "amps": null,
+   "vehicle_name": "Fiat 500e",
    "vehicle_type": 20,
-   "id": 1511509
+   "id": 1511509,
+   "kilowatts": null,
+   "created_at": "2019-01-23T23:57:25Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/9806_cc0640_032_PWH.png"
   },
   {
    "comment": "",
    "rating": 1,
-   "connector_type": 2,
    "volts": null,
-   "created_at": "2018-12-13T23:50:14Z",
-   "finished": "2018-12-14T01:50:14Z",
    "station_id": 165519,
-   "waiting": false,
+   "finished": "2018-12-14T01:50:14Z",
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -129,8 +132,7 @@
     "id": 348561,
     "notify_nearby": 0,
     "first_name": "sunnywiz",
-    "vehicle_color": 3,
-    "last_login": "2019-02-22T04:51:10Z",
+    "last_login": "2019-08-11T19:30:04Z",
     "allow_notifications": null,
     "vehicle_description": "",
     "phone": "",
@@ -142,22 +144,24 @@
     "receive_grid_alerts": 0,
     "created_at": "2018-05-16T14:48:56Z",
     "photos": [],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 2
+    "formatted_phone_number": ""
    },
-   "amps": null,
+   "vehicle_name": "Nissan LEAF",
    "vehicle_type": 1,
-   "id": 1445107
+   "id": 1445107,
+   "kilowatts": null,
+   "created_at": "2018-12-13T23:50:14Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/7399_cc0640_032_QX1.png"
   },
   {
    "comment": "",
    "rating": 1,
-   "connector_type": 2,
    "volts": 0,
-   "created_at": "2018-11-11T04:15:25Z",
-   "finished": "2018-11-11T05:45:24Z",
    "station_id": 165519,
-   "waiting": false,
+   "finished": "2018-11-11T05:45:24Z",
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -168,35 +172,36 @@
     "id": 318776,
     "notify_nearby": 0,
     "first_name": "Joey",
-    "vehicle_color": 1,
-    "last_login": "2019-02-21T01:35:34Z",
+    "last_login": "2019-07-29T23:30:35Z",
     "allow_notifications": null,
     "vehicle_description": "",
     "phone": "",
     "e164_phone_number": "",
     "hide_phone": false,
-    "vehicle_type": 44,
+    "vehicle_type": 75,
     "about": "",
     "notify_nearby_radius": 0,
     "receive_grid_alerts": 0,
     "created_at": "2018-02-20T21:48:57Z",
     "photos": [],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 2
+    "formatted_phone_number": ""
    },
-   "amps": 0,
+   "vehicle_name": "Outlander PHEV",
    "vehicle_type": 44,
-   "id": 1396327
+   "id": 1396327,
+   "kilowatts": null,
+   "created_at": "2018-11-11T04:15:25Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": 0,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/12594_cc0640_032_W13.png"
   },
   {
    "comment": "",
    "rating": 1,
-   "connector_type": 2,
    "volts": 0,
-   "created_at": "2018-10-14T18:52:06Z",
-   "finished": "2018-10-14T19:52:05Z",
    "station_id": 165519,
-   "waiting": false,
+   "finished": "2018-10-14T19:52:05Z",
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -207,8 +212,7 @@
     "id": 342915,
     "notify_nearby": 0,
     "first_name": "Jason",
-    "vehicle_color": 1,
-    "last_login": "2019-02-22T00:31:54Z",
+    "last_login": "2019-08-11T22:07:55Z",
     "allow_notifications": null,
     "vehicle_description": "",
     "phone": "",
@@ -220,22 +224,24 @@
     "receive_grid_alerts": 0,
     "created_at": "2018-04-29T17:33:18Z",
     "photos": [],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 0
+    "formatted_phone_number": ""
    },
-   "amps": 0,
+   "vehicle_name": "Chevrolet Volt",
    "vehicle_type": 2,
-   "id": 1354718
+   "id": 1354718,
+   "kilowatts": null,
+   "created_at": "2018-10-14T18:52:06Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": 0,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/7411_cc0640_032_GAN.png"
   },
   {
    "comment": "",
    "rating": 1,
-   "connector_type": 2,
    "volts": null,
-   "created_at": "2018-06-11T22:46:32Z",
-   "finished": "2018-06-11T23:46:33Z",
    "station_id": 165519,
-   "waiting": false,
+   "finished": "2018-06-11T23:46:33Z",
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -244,10 +250,9 @@
     "language_code": null,
     "allow_promo_email": false,
     "id": 140768,
-    "notify_nearby": 0,
+    "notify_nearby": 3,
     "first_name": "Tim",
-    "vehicle_color": 9,
-    "last_login": "2019-02-16T20:54:49Z",
+    "last_login": "2019-08-09T13:56:17Z",
     "allow_notifications": null,
     "vehicle_description": "",
     "phone": "",
@@ -255,26 +260,28 @@
     "hide_phone": false,
     "vehicle_type": 4,
     "about": "",
-    "notify_nearby_radius": 0,
+    "notify_nearby_radius": 10000,
     "receive_grid_alerts": 0,
     "created_at": "2015-12-26T18:57:50Z",
     "photos": [],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 5
+    "formatted_phone_number": ""
    },
-   "amps": null,
+   "vehicle_name": "Tesla Model S",
    "vehicle_type": 4,
-   "id": 1164864
+   "id": 1164864,
+   "kilowatts": null,
+   "created_at": "2018-06-11T22:46:32Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/8319_cc0640_032_EVOX01.png"
   },
   {
    "comment": "",
    "rating": 1,
-   "connector_type": 2,
    "volts": 0,
-   "created_at": "2018-03-17T05:39:17Z",
-   "finished": "2018-03-17T06:39:16Z",
    "station_id": 165519,
-   "waiting": false,
+   "finished": "2018-03-17T06:39:16Z",
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -285,35 +292,36 @@
     "id": 318776,
     "notify_nearby": 0,
     "first_name": "Joey",
-    "vehicle_color": 1,
-    "last_login": "2019-02-21T01:35:34Z",
+    "last_login": "2019-07-29T23:30:35Z",
     "allow_notifications": null,
     "vehicle_description": "",
     "phone": "",
     "e164_phone_number": "",
     "hide_phone": false,
-    "vehicle_type": 44,
+    "vehicle_type": 75,
     "about": "",
     "notify_nearby_radius": 0,
     "receive_grid_alerts": 0,
     "created_at": "2018-02-20T21:48:57Z",
     "photos": [],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 2
+    "formatted_phone_number": ""
    },
-   "amps": 0,
+   "vehicle_name": "Outlander PHEV",
    "vehicle_type": 44,
-   "id": 1056160
+   "id": 1056160,
+   "kilowatts": null,
+   "created_at": "2018-03-17T05:39:17Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": 0,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/12594_cc0640_032_W13.png"
   },
   {
    "comment": "",
    "rating": 1,
-   "connector_type": 2,
    "volts": null,
-   "created_at": "2017-12-12T14:29:47Z",
-   "finished": "2017-12-12T15:29:47Z",
    "station_id": 165519,
-   "waiting": false,
+   "finished": "2017-12-12T15:29:47Z",
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -323,13 +331,12 @@
     "allow_promo_email": false,
     "id": 81997,
     "notify_nearby": 0,
-    "first_name": "Stuart",
-    "vehicle_color": 8,
-    "last_login": "2019-02-22T00:56:32Z",
+    "first_name": "Stuart’s LEAF ",
+    "last_login": "2019-08-12T19:52:25Z",
     "allow_notifications": null,
     "vehicle_description": "2011 Leaf SL -- Ocean Blue",
     "phone": "5024265376",
-    "e164_phone_number": "",
+    "e164_phone_number": "+15024265376",
     "hide_phone": false,
     "vehicle_type": 1,
     "about": "President of EVolve KY, Kentucky’s electric vehicle organization. Group meets monthly. Visit our website at www.evolveky.org or call me for more information. ",
@@ -348,33 +355,36 @@
       "id": 62035
      }
     ],
-    "formatted_phone_number": "+1 502-426-5376",
-    "vehicle_subtype": 2
+    "formatted_phone_number": "+1 502-426-5376"
    },
-   "amps": null,
+   "vehicle_name": "Nissan LEAF",
    "vehicle_type": 1,
-   "id": 950445
+   "id": 950445,
+   "kilowatts": null,
+   "created_at": "2017-12-12T14:29:47Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/7399_cc0640_032_QX1.png"
   },
   {
    "comment": "One cord seems to be broken ",
    "rating": 0,
-   "volts": null,
-   "created_at": "2017-12-12T14:29:11Z",
-   "connector_type": 2,
-   "station_id": 165519,
    "waiting": false,
+   "connector_type": 2,
+   "volts": null,
    "amps": null,
-   "id": 950444
+   "created_at": "2017-12-12T14:29:11Z",
+   "kilowatts": null,
+   "id": 950444,
+   "station_id": 165519
   },
   {
    "comment": "",
    "rating": 1,
-   "connector_type": 2,
    "volts": 0,
-   "created_at": "2017-10-01T03:58:43Z",
-   "finished": "2017-10-01T06:32:48Z",
    "station_id": 165519,
-   "waiting": false,
+   "finished": "2017-10-01T06:32:48Z",
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -385,8 +395,7 @@
     "id": 275396,
     "notify_nearby": 1,
     "first_name": "Dmytriy Lyakhovets",
-    "vehicle_color": 7,
-    "last_login": "2019-02-19T01:43:20Z",
+    "last_login": "2019-08-01T00:25:09Z",
     "allow_notifications": null,
     "vehicle_description": "",
     "phone": "",
@@ -398,22 +407,24 @@
     "receive_grid_alerts": 0,
     "created_at": "2017-09-23T20:59:24Z",
     "photos": [],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 0
+    "formatted_phone_number": ""
    },
-   "amps": 0,
+   "vehicle_name": "Chevrolet Volt",
    "vehicle_type": 2,
-   "id": 876413
+   "id": 876413,
+   "kilowatts": null,
+   "created_at": "2017-10-01T03:58:43Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": 0,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/7411_cc0640_032_GAN.png"
   },
   {
    "comment": "",
    "rating": 1,
-   "connector_type": 2,
    "volts": null,
-   "created_at": "2017-02-26T17:41:18Z",
+   "station_id": 165519,
    "finished": "2017-02-26T17:49:40Z",
-   "station_id": 165519,
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": true,
@@ -424,19 +435,28 @@
     "id": 14864,
     "notify_nearby": 1,
     "first_name": "Austin",
-    "vehicle_color": 3,
-    "last_login": "2019-02-21T22:14:21Z",
+    "last_login": "2019-08-12T13:43:48Z",
     "allow_notifications": null,
     "vehicle_description": "Awesome gateway electric car! ;-)",
     "phone": "",
     "e164_phone_number": "",
     "hide_phone": true,
-    "vehicle_type": 23,
+    "vehicle_type": 75,
     "about": "Ready for the Model 3!",
     "notify_nearby_radius": 16000,
     "receive_grid_alerts": 0,
     "created_at": "2013-04-15T15:33:57Z",
     "photos": [
+     {
+      "user_id": 14864,
+      "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/400667.jpg",
+      "created_at": "2019-03-28T10:58:55Z",
+      "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/400667.png",
+      "caption": "",
+      "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/400667.png",
+      "order": 0,
+      "id": 400667
+     },
      {
       "user_id": 14864,
       "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/281261.jpg",
@@ -458,22 +478,24 @@
       "id": 9823
      }
     ],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 0
+    "formatted_phone_number": ""
    },
-   "amps": null,
+   "vehicle_name": "Ford Fusion Energi",
    "vehicle_type": 13,
-   "id": 666987
+   "id": 666987,
+   "kilowatts": null,
+   "created_at": "2017-02-26T17:41:18Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/9787_cc0640_032_UH.png"
   },
   {
    "comment": "",
    "rating": 1,
-   "connector_type": 2,
    "volts": null,
-   "created_at": "2016-11-17T21:33:42Z",
-   "finished": "2016-11-17T22:33:42Z",
    "station_id": 165519,
-   "waiting": false,
+   "finished": "2016-11-17T22:33:42Z",
    "user": {
     "last_name": "",
     "hide_address": true,
@@ -484,19 +506,28 @@
     "id": 14864,
     "notify_nearby": 1,
     "first_name": "Austin",
-    "vehicle_color": 3,
-    "last_login": "2019-02-21T22:14:21Z",
+    "last_login": "2019-08-12T13:43:48Z",
     "allow_notifications": null,
     "vehicle_description": "Awesome gateway electric car! ;-)",
     "phone": "",
     "e164_phone_number": "",
     "hide_phone": true,
-    "vehicle_type": 23,
+    "vehicle_type": 75,
     "about": "Ready for the Model 3!",
     "notify_nearby_radius": 16000,
     "receive_grid_alerts": 0,
     "created_at": "2013-04-15T15:33:57Z",
     "photos": [
+     {
+      "user_id": 14864,
+      "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/400667.jpg",
+      "created_at": "2019-03-28T10:58:55Z",
+      "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/400667.png",
+      "caption": "",
+      "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/400667.png",
+      "order": 0,
+      "id": 400667
+     },
      {
       "user_id": 14864,
       "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/281261.jpg",
@@ -518,28 +549,33 @@
       "id": 9823
      }
     ],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 0
+    "formatted_phone_number": ""
    },
-   "amps": null,
+   "vehicle_name": "Ford Fusion Energi",
    "vehicle_type": 13,
-   "id": 593953
+   "id": 593953,
+   "kilowatts": null,
+   "created_at": "2016-11-17T21:33:42Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/9787_cc0640_032_UH.png"
   }
  ],
  "under_repair": false,
  "poi_name": null,
  "locale": "US",
- "updated_at": "2019-01-23T23:57:25Z",
+ "updated_at": "2019-05-01T13:04:25Z",
  "cost": true,
  "pwps_version": null,
  "id": 99665,
  "datasources": [],
- "cost_description": "$3.02/hour",
+ "cost_description": "$0.80/hr first two hours; $1.06/hr thereafter",
  "access": 1,
  "score": 10,
- "description": "",
+ "description": "This is an LG&E-owned dual port Level 2 charging station open to the public. EV parking while charging only.",
  "custom_ports": "",
- "confidence": null,
+ "confidence": 0,
  "hours": "",
  "all_promos": [
   {
@@ -555,7 +591,7 @@
    "app_id": null
   }
  ],
- "address": "1100–1116 E Washington St, Louisville KY 40206, United States",
+ "address": "1100 E Washington St, Louisville KY 40206, United States",
  "parking_type_name": null,
  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png",
  "stations": [
@@ -639,7 +675,7 @@
    "available_changed_at": null
   }
  ],
- "url": "http://api.plugshare.com/view/location/99665",
+ "url": "https://www.plugshare.com/location/99665",
  "created_at": "2016-11-17T21:33:27Z",
  "promos": [],
  "photos": [
@@ -655,5 +691,6 @@
   }
  ],
  "formatted_phone_number": "",
- "coming_soon": null
+ "coming_soon": null,
+ "total_reviews": 11
 }

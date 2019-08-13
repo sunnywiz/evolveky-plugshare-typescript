@@ -1,0 +1,255 @@
+{
+ "reverse_geocoded_address_components": {
+  "postal_code": "40299",
+  "country_code": "US",
+  "street_number": "10800",
+  "locality": "Louisville",
+  "sublocality_1": null,
+  "route": "Locust Rd",
+  "sublocality_2": null,
+  "administrative_area_2": "Jefferson County",
+  "administrative_area_3": null,
+  "sublocality_3": null,
+  "administrative_area_1": "KY"
+ },
+ "opening_date": "None",
+ "nissan_nctc": false,
+ "payment_enabled": null,
+ "reverse_geocoded_address": "10800 Locust Rd, Louisville, KY 40299, USA",
+ "amenities": [
+  {
+   "location_id": 194812,
+   "type": 6
+  },
+  {
+   "location_id": 194812,
+   "type": 7
+  },
+  {
+   "location_id": 194812,
+   "type": 3
+  },
+  {
+   "location_id": 194812,
+   "type": 4
+  },
+  {
+   "location_id": 194812,
+   "type": 1
+  }
+ ],
+ "latitude": 38.203323,
+ "open247": true,
+ "valid_outlets": [
+  {
+   "connector": 13,
+   "power": 0
+  },
+  {
+   "connector": 3,
+   "power": 0
+  },
+  {
+   "connector": 2,
+   "power": 0
+  },
+  {
+   "connector": 6,
+   "power": 0
+  },
+  {
+   "connector": 4,
+   "power": 0
+  },
+  {
+   "connector": 5,
+   "power": 0
+  },
+  {
+   "connector": 1,
+   "power": 0
+  }
+ ],
+ "phone": "",
+ "e164_phone_number": "",
+ "total_photos": null,
+ "locked": false,
+ "title_description": "Hawthorn Suites Louisville/Jeffersontown - Free Electric Car Charging - 11762 Commonwealth drive, Louisville, KY 40299, USA - US - PlugShare",
+ "name": "Hawthorn Suites Louisville/Jeffersontown",
+ "icon_type": "G",
+ "enabled": true,
+ "longitude": -85.556978,
+ "reviews": [],
+ "under_repair": false,
+ "poi_name": null,
+ "locale": "US",
+ "updated_at": "2019-06-20T20:16:14Z",
+ "cost": false,
+ "pwps_version": null,
+ "id": 194812,
+ "datasources": [],
+ "cost_description": "",
+ "access": 1,
+ "description": "",
+ "custom_ports": "",
+ "confidence": 0,
+ "hours": "",
+ "all_promos": [
+  {
+   "link_url": null,
+   "tag": null,
+   "image_url": null,
+   "name": "EZ-Charge",
+   "link_action": null,
+   "lat": null,
+   "lng": null,
+   "image_url_2x": null,
+   "id": 2,
+   "app_id": null
+  }
+ ],
+ "address": "11762 Commonwealth drive, Louisville, KY 40299, USA",
+ "parking_type_name": null,
+ "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png",
+ "stations": [
+  {
+   "volts": null,
+   "network_ext_id": null,
+   "qr_enabled": null,
+   "cost": 0,
+   "pwps_version": null,
+   "location_id": 194812,
+   "id": 410733,
+   "cost_description": "Unknown",
+   "pre_charge_instructions": null,
+   "nissan_nctc": false,
+   "network": {
+    "description": "ChargePoint is an independent provider of electric vehicle charging stations. Notice: ChargePoint has chosen to stop providing real-time status data to PlugShare.",
+    "formatted_phone_number": "+1 888-758-4389",
+    "url": "http://www.chargepoint.net/",
+    "image": "https://s3.amazonaws.com/plugshare.production.assets/network-images/chargepoint.png",
+    "action_url": "http://www.chargepointportal.net/index.php/authz/signup.html\t",
+    "action_name": "Sign Up",
+    "phone": "8887584389",
+    "e164_phone_number": "+18887584389",
+    "id": 1,
+    "name": "ChargePoint"
+   },
+   "payment_enabled": null,
+   "available": 0,
+   "outlets": [
+    {
+     "available": 0,
+     "description": null,
+     "power": 0,
+     "volts": null,
+     "id": 718063,
+     "watts": null,
+     "connector": 2,
+     "connector_type": 2,
+     "amps": null,
+     "available_changed_at": null,
+     "outlet_index": null
+    }
+   ],
+   "hours": "",
+   "promos": [
+    {
+     "link_url": null,
+     "tag": null,
+     "image_url": null,
+     "name": "EZ-Charge",
+     "link_action": null,
+     "lat": null,
+     "lng": null,
+     "image_url_2x": null,
+     "id": 2,
+     "app_id": null
+    }
+   ],
+   "ocpp_version": null,
+   "kilowatts": null,
+   "requiresAccessCard": false,
+   "manufacturer": "",
+   "name": null,
+   "network_id": 1,
+   "created_at": "2019-06-20T20:16:14Z",
+   "amps": null,
+   "model": "",
+   "available_changed_at": null
+  },
+  {
+   "volts": null,
+   "network_ext_id": null,
+   "qr_enabled": null,
+   "cost": 0,
+   "pwps_version": null,
+   "location_id": 194812,
+   "id": 410732,
+   "cost_description": "Unknown",
+   "pre_charge_instructions": null,
+   "nissan_nctc": false,
+   "network": {
+    "description": "ChargePoint is an independent provider of electric vehicle charging stations. Notice: ChargePoint has chosen to stop providing real-time status data to PlugShare.",
+    "formatted_phone_number": "+1 888-758-4389",
+    "url": "http://www.chargepoint.net/",
+    "image": "https://s3.amazonaws.com/plugshare.production.assets/network-images/chargepoint.png",
+    "action_url": "http://www.chargepointportal.net/index.php/authz/signup.html\t",
+    "action_name": "Sign Up",
+    "phone": "8887584389",
+    "e164_phone_number": "+18887584389",
+    "id": 1,
+    "name": "ChargePoint"
+   },
+   "payment_enabled": null,
+   "available": 0,
+   "outlets": [
+    {
+     "available": 0,
+     "description": null,
+     "power": 0,
+     "volts": null,
+     "id": 718062,
+     "watts": null,
+     "connector": 6,
+     "connector_type": 6,
+     "amps": null,
+     "available_changed_at": null,
+     "outlet_index": null
+    }
+   ],
+   "hours": "",
+   "promos": [
+    {
+     "link_url": null,
+     "tag": null,
+     "image_url": null,
+     "name": "EZ-Charge",
+     "link_action": null,
+     "lat": null,
+     "lng": null,
+     "image_url_2x": null,
+     "id": 2,
+     "app_id": null
+    }
+   ],
+   "ocpp_version": null,
+   "kilowatts": null,
+   "requiresAccessCard": false,
+   "manufacturer": "",
+   "name": null,
+   "network_id": 1,
+   "created_at": "2019-06-20T20:16:14Z",
+   "amps": null,
+   "model": "",
+   "available_changed_at": null
+  }
+ ],
+ "url": "https://www.plugshare.com/location/194812",
+ "created_at": "2019-06-20T20:16:14Z",
+ "promos": [],
+ "photos": [],
+ "formatted_phone_number": "",
+ "coming_soon": false,
+ "total_reviews": null
+}

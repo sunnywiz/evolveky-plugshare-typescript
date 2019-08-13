@@ -34,11 +34,7 @@
  "open247": true,
  "valid_outlets": [
   {
-   "connector": 1,
-   "power": 0
-  },
-  {
-   "connector": 2,
+   "connector": 13,
    "power": 0
   },
   {
@@ -46,11 +42,7 @@
    "power": 0
   },
   {
-   "connector": 13,
-   "power": 0
-  },
-  {
-   "connector": 4,
+   "connector": 2,
    "power": 0
   },
   {
@@ -58,14 +50,23 @@
    "power": 0
   },
   {
+   "connector": 4,
+   "power": 0
+  },
+  {
    "connector": 5,
+   "power": 0
+  },
+  {
+   "connector": 1,
    "power": 0
   }
  ],
  "phone": "",
  "e164_phone_number": "",
+ "total_photos": 4,
  "locked": false,
- "title_description": "Springs Medical Center - Electric Car Charging - 24 Check-ins 4 Photos - 6400 Dutchmans Pkwy, Louisville, KY 40205, USA - US - Hospital/Healthcare - PlugShare",
+ "title_description": "Springs Medical Center - Electric Car Charging - 27 Check-ins 4 Photos - 6400 Dutchmans Pkwy, Louisville, KY 40205, USA - US - Hospital/Healthcare - PlugShare",
  "name": "Springs Medical Center",
  "icon_type": "G",
  "enabled": true,
@@ -74,11 +75,135 @@
   {
    "comment": "",
    "rating": 1,
+   "volts": null,
+   "user": {
+    "last_name": "",
+    "hide_address": false,
+    "charger_type": 0,
+    "country_code": "US",
+    "language_code": "en-US",
+    "allow_promo_email": false,
+    "id": 544493,
+    "notify_nearby": 0,
+    "first_name": "TwoSheds",
+    "last_login": "2019-07-28T20:48:39Z",
+    "allow_notifications": null,
+    "vehicle_description": "",
+    "phone": "",
+    "e164_phone_number": "",
+    "hide_phone": false,
+    "vehicle_type": 63,
+    "about": "",
+    "notify_nearby_radius": 0,
+    "receive_grid_alerts": 0,
+    "created_at": "2019-05-29T22:56:20Z",
+    "photos": [],
+    "formatted_phone_number": ""
+   },
+   "vehicle_name": "Chevrolet Bolt EV",
+   "vehicle_type": 63,
+   "id": 1774721,
+   "kilowatts": null,
+   "created_at": "2019-06-20T20:16:59Z",
    "connector_type": 2,
-   "volts": 0,
-   "created_at": "2018-12-07T16:49:18Z",
-   "finished": "2018-12-07T18:19:17Z",
    "waiting": false,
+   "amps": null,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/13022_cc0640_032_G7Q.png"
+  },
+  {
+   "comment": "It’s around back",
+   "rating": 1,
+   "volts": null,
+   "finished": "2019-06-20T20:06:09Z",
+   "user": {
+    "last_name": "",
+    "hide_address": false,
+    "charger_type": 0,
+    "country_code": "US",
+    "language_code": "en-US",
+    "allow_promo_email": false,
+    "id": 544493,
+    "notify_nearby": 0,
+    "first_name": "TwoSheds",
+    "last_login": "2019-07-28T20:48:39Z",
+    "allow_notifications": null,
+    "vehicle_description": "",
+    "phone": "",
+    "e164_phone_number": "",
+    "hide_phone": false,
+    "vehicle_type": 63,
+    "about": "",
+    "notify_nearby_radius": 0,
+    "receive_grid_alerts": 0,
+    "created_at": "2019-05-29T22:56:20Z",
+    "photos": [],
+    "formatted_phone_number": ""
+   },
+   "vehicle_name": "Chevrolet Bolt EV",
+   "vehicle_type": 63,
+   "id": 1774605,
+   "kilowatts": null,
+   "created_at": "2019-06-20T19:06:09Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/13022_cc0640_032_G7Q.png"
+  },
+  {
+   "comment": "",
+   "rating": 1,
+   "volts": null,
+   "finished": "2019-03-26T14:45:32Z",
+   "user": {
+    "last_name": "",
+    "hide_address": false,
+    "charger_type": 1,
+    "country_code": "US",
+    "language_code": "en-US",
+    "allow_promo_email": true,
+    "id": 350353,
+    "notify_nearby": 1,
+    "first_name": "Kevin Batman",
+    "last_login": "2019-08-12T21:00:06Z",
+    "allow_notifications": null,
+    "vehicle_description": "",
+    "phone": "8129460101",
+    "e164_phone_number": "",
+    "hide_phone": false,
+    "vehicle_type": 75,
+    "about": "Works as Systems Analyst at UofL",
+    "notify_nearby_radius": 10000,
+    "receive_grid_alerts": 0,
+    "created_at": "2018-05-21T18:10:32Z",
+    "photos": [
+     {
+      "user_id": 350353,
+      "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/297240.jpg",
+      "created_at": "2018-05-24T18:36:18Z",
+      "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/297240.png",
+      "caption": "",
+      "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/297240.png",
+      "order": 0,
+      "id": 297240
+     }
+    ],
+    "formatted_phone_number": "+1 812-946-0101"
+   },
+   "vehicle_name": "BMW i3",
+   "vehicle_type": 18,
+   "id": 1610372,
+   "kilowatts": null,
+   "created_at": "2019-03-26T13:45:32Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/9689_cc0640_032_B81.png"
+  },
+  {
+   "comment": "",
+   "rating": 1,
+   "volts": 0,
+   "finished": "2018-12-07T18:19:17Z",
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -89,8 +214,7 @@
     "id": 225004,
     "notify_nearby": 0,
     "first_name": "Nicole",
-    "vehicle_color": 5,
-    "last_login": "2018-12-27T18:45:50Z",
+    "last_login": "2019-07-01T16:45:26Z",
     "allow_notifications": null,
     "vehicle_description": "",
     "phone": "",
@@ -102,21 +226,23 @@
     "receive_grid_alerts": 0,
     "created_at": "2017-03-16T15:08:53Z",
     "photos": [],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 1
+    "formatted_phone_number": ""
    },
-   "amps": 0,
+   "vehicle_name": "Nissan LEAF",
    "vehicle_type": 1,
-   "id": 1435707
+   "id": 1435707,
+   "kilowatts": null,
+   "created_at": "2018-12-07T16:49:18Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": 0,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/7399_cc0640_032_QX1.png"
   },
   {
    "comment": "",
    "rating": 1,
-   "connector_type": 2,
    "volts": 0,
-   "created_at": "2018-11-16T21:24:10Z",
    "finished": "2018-11-17T00:24:09Z",
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -127,8 +253,7 @@
     "id": 221128,
     "notify_nearby": 0,
     "first_name": "Darin",
-    "vehicle_color": 0,
-    "last_login": "2019-02-18T18:38:43Z",
+    "last_login": "2019-06-18T23:20:28Z",
     "allow_notifications": null,
     "vehicle_description": "",
     "phone": "",
@@ -140,21 +265,23 @@
     "receive_grid_alerts": 0,
     "created_at": "2017-02-27T18:48:18Z",
     "photos": [],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 0
+    "formatted_phone_number": ""
    },
-   "amps": 0,
+   "vehicle_name": "Nissan LEAF",
    "vehicle_type": 1,
-   "id": 1404363
+   "id": 1404363,
+   "kilowatts": null,
+   "created_at": "2018-11-16T21:24:10Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": 0,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/7399_cc0640_032_QX1.png"
   },
   {
    "comment": "No power at home due to the ice storm, so I'm here. Unfortunately construction had all 4 blocked but I was able to slide one barrel over to get charged. I'll move it back when I'm done.",
    "rating": 1,
-   "connector_type": 2,
    "volts": 0,
-   "created_at": "2018-11-16T01:22:49Z",
    "finished": "2018-11-16T04:22:48Z",
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -165,8 +292,7 @@
     "id": 221128,
     "notify_nearby": 0,
     "first_name": "Darin",
-    "vehicle_color": 0,
-    "last_login": "2019-02-18T18:38:43Z",
+    "last_login": "2019-06-18T23:20:28Z",
     "allow_notifications": null,
     "vehicle_description": "",
     "phone": "",
@@ -178,21 +304,23 @@
     "receive_grid_alerts": 0,
     "created_at": "2017-02-27T18:48:18Z",
     "photos": [],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 0
+    "formatted_phone_number": ""
    },
-   "amps": 0,
+   "vehicle_name": "Nissan LEAF",
    "vehicle_type": 1,
-   "id": 1403106
+   "id": 1403106,
+   "kilowatts": null,
+   "created_at": "2018-11-16T01:22:49Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": 0,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/7399_cc0640_032_QX1.png"
   },
   {
    "comment": "First paid charging ever, just for giggles during an appointment.",
    "rating": 1,
-   "connector_type": 2,
    "volts": 0,
-   "created_at": "2018-09-17T12:12:21Z",
    "finished": "2018-09-17T13:10:25Z",
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -203,8 +331,7 @@
     "id": 221128,
     "notify_nearby": 0,
     "first_name": "Darin",
-    "vehicle_color": 0,
-    "last_login": "2019-02-18T18:38:43Z",
+    "last_login": "2019-06-18T23:20:28Z",
     "allow_notifications": null,
     "vehicle_description": "",
     "phone": "",
@@ -216,21 +343,23 @@
     "receive_grid_alerts": 0,
     "created_at": "2017-02-27T18:48:18Z",
     "photos": [],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 0
+    "formatted_phone_number": ""
    },
-   "amps": 0,
+   "vehicle_name": "Nissan LEAF",
    "vehicle_type": 1,
-   "id": 1314393
+   "id": 1314393,
+   "kilowatts": null,
+   "created_at": "2018-09-17T12:12:21Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": 0,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/7399_cc0640_032_QX1.png"
   },
   {
    "comment": "",
    "rating": 1,
-   "connector_type": 2,
    "volts": 240,
-   "created_at": "2017-10-01T01:28:00Z",
    "finished": "2017-10-01T02:49:30Z",
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -241,8 +370,7 @@
     "id": 275396,
     "notify_nearby": 1,
     "first_name": "Dmytriy Lyakhovets",
-    "vehicle_color": 7,
-    "last_login": "2019-02-19T01:43:20Z",
+    "last_login": "2019-08-01T00:25:09Z",
     "allow_notifications": null,
     "vehicle_description": "",
     "phone": "",
@@ -254,21 +382,23 @@
     "receive_grid_alerts": 0,
     "created_at": "2017-09-23T20:59:24Z",
     "photos": [],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 0
+    "formatted_phone_number": ""
    },
-   "amps": 3.1,
+   "vehicle_name": "Chevrolet Volt",
    "vehicle_type": 2,
-   "id": 876299
+   "id": 876299,
+   "kilowatts": 0,
+   "created_at": "2017-10-01T01:28:00Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": 3,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/7411_cc0640_032_GAN.png"
   },
   {
    "comment": "",
    "rating": 1,
-   "connector_type": 2,
    "volts": null,
-   "created_at": "2017-07-27T17:57:59Z",
    "finished": "2017-07-27T18:57:59Z",
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": true,
@@ -279,19 +409,28 @@
     "id": 14864,
     "notify_nearby": 1,
     "first_name": "Austin",
-    "vehicle_color": 3,
-    "last_login": "2019-02-21T22:14:21Z",
+    "last_login": "2019-08-12T13:43:48Z",
     "allow_notifications": null,
     "vehicle_description": "Awesome gateway electric car! ;-)",
     "phone": "",
     "e164_phone_number": "",
     "hide_phone": true,
-    "vehicle_type": 23,
+    "vehicle_type": 75,
     "about": "Ready for the Model 3!",
     "notify_nearby_radius": 16000,
     "receive_grid_alerts": 0,
     "created_at": "2013-04-15T15:33:57Z",
     "photos": [
+     {
+      "user_id": 14864,
+      "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/400667.jpg",
+      "created_at": "2019-03-28T10:58:55Z",
+      "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/400667.png",
+      "caption": "",
+      "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/400667.png",
+      "order": 0,
+      "id": 400667
+     },
      {
       "user_id": 14864,
       "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/281261.jpg",
@@ -313,21 +452,23 @@
       "id": 9823
      }
     ],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 0
+    "formatted_phone_number": ""
    },
-   "amps": null,
+   "vehicle_name": "e-Golf",
    "vehicle_type": 23,
-   "id": 806421
+   "id": 806421,
+   "kilowatts": null,
+   "created_at": "2017-07-27T17:57:59Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/10032_cc0640_032_0Q0Q.png"
   },
   {
    "comment": "",
    "rating": 1,
-   "connector_type": 2,
    "volts": null,
-   "created_at": "2017-07-13T18:50:01Z",
    "finished": "2017-07-13T19:50:01Z",
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": true,
@@ -338,19 +479,28 @@
     "id": 14864,
     "notify_nearby": 1,
     "first_name": "Austin",
-    "vehicle_color": 3,
-    "last_login": "2019-02-21T22:14:21Z",
+    "last_login": "2019-08-12T13:43:48Z",
     "allow_notifications": null,
     "vehicle_description": "Awesome gateway electric car! ;-)",
     "phone": "",
     "e164_phone_number": "",
     "hide_phone": true,
-    "vehicle_type": 23,
+    "vehicle_type": 75,
     "about": "Ready for the Model 3!",
     "notify_nearby_radius": 16000,
     "receive_grid_alerts": 0,
     "created_at": "2013-04-15T15:33:57Z",
     "photos": [
+     {
+      "user_id": 14864,
+      "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/400667.jpg",
+      "created_at": "2019-03-28T10:58:55Z",
+      "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/400667.png",
+      "caption": "",
+      "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/400667.png",
+      "order": 0,
+      "id": 400667
+     },
      {
       "user_id": 14864,
       "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/281261.jpg",
@@ -372,21 +522,23 @@
       "id": 9823
      }
     ],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 0
+    "formatted_phone_number": ""
    },
-   "amps": null,
+   "vehicle_name": "e-Golf",
    "vehicle_type": 23,
-   "id": 791513
+   "id": 791513,
+   "kilowatts": null,
+   "created_at": "2017-07-13T18:50:01Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/10032_cc0640_032_0Q0Q.png"
   },
   {
    "comment": "",
    "rating": 1,
-   "connector_type": 2,
    "volts": null,
-   "created_at": "2017-07-13T18:47:38Z",
    "finished": "2017-07-13T18:49:20Z",
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": true,
@@ -397,19 +549,28 @@
     "id": 14864,
     "notify_nearby": 1,
     "first_name": "Austin",
-    "vehicle_color": 3,
-    "last_login": "2019-02-21T22:14:21Z",
+    "last_login": "2019-08-12T13:43:48Z",
     "allow_notifications": null,
     "vehicle_description": "Awesome gateway electric car! ;-)",
     "phone": "",
     "e164_phone_number": "",
     "hide_phone": true,
-    "vehicle_type": 23,
+    "vehicle_type": 75,
     "about": "Ready for the Model 3!",
     "notify_nearby_radius": 16000,
     "receive_grid_alerts": 0,
     "created_at": "2013-04-15T15:33:57Z",
     "photos": [
+     {
+      "user_id": 14864,
+      "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/400667.jpg",
+      "created_at": "2019-03-28T10:58:55Z",
+      "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/400667.png",
+      "caption": "",
+      "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/400667.png",
+      "order": 0,
+      "id": 400667
+     },
      {
       "user_id": 14864,
       "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/281261.jpg",
@@ -431,21 +592,23 @@
       "id": 9823
      }
     ],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 0
+    "formatted_phone_number": ""
    },
-   "amps": null,
+   "vehicle_name": "Ford Fusion Energi",
    "vehicle_type": 13,
-   "id": 791511
+   "id": 791511,
+   "kilowatts": null,
+   "created_at": "2017-07-13T18:47:38Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/9787_cc0640_032_UH.png"
   },
   {
    "comment": "",
    "rating": 1,
-   "connector_type": 2,
    "volts": null,
-   "created_at": "2017-07-03T17:06:22Z",
    "finished": "2017-07-03T17:51:23Z",
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -456,8 +619,7 @@
     "id": 241488,
     "notify_nearby": 0,
     "first_name": "Maggie",
-    "vehicle_color": 3,
-    "last_login": "2018-11-04T20:36:09Z",
+    "last_login": "2019-07-26T13:14:24Z",
     "allow_notifications": null,
     "vehicle_description": "",
     "phone": "",
@@ -469,21 +631,23 @@
     "receive_grid_alerts": 0,
     "created_at": "2017-05-23T19:17:08Z",
     "photos": [],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 0
+    "formatted_phone_number": ""
    },
-   "amps": null,
+   "vehicle_name": "e-Golf",
    "vehicle_type": 23,
-   "id": 781132
+   "id": 781132,
+   "kilowatts": null,
+   "created_at": "2017-07-03T17:06:22Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/10032_cc0640_032_0Q0Q.png"
   },
   {
    "comment": "",
    "rating": 1,
-   "connector_type": 2,
    "volts": null,
-   "created_at": "2016-06-12T10:33:57Z",
    "finished": "2016-06-12T12:33:57Z",
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -494,7 +658,6 @@
     "id": 162931,
     "notify_nearby": 1,
     "first_name": "Josh",
-    "vehicle_color": 3,
     "last_login": "2016-10-29T19:53:09Z",
     "allow_notifications": null,
     "vehicle_description": "",
@@ -507,21 +670,23 @@
     "receive_grid_alerts": 0,
     "created_at": "2016-05-13T01:34:40Z",
     "photos": [],
-    "formatted_phone_number": "+1 502-947-2501",
-    "vehicle_subtype": 1
+    "formatted_phone_number": "+1 502-947-2501"
    },
-   "amps": null,
+   "vehicle_name": "Nissan LEAF",
    "vehicle_type": 1,
-   "id": 479145
+   "id": 479145,
+   "kilowatts": null,
+   "created_at": "2016-06-12T10:33:57Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/7399_cc0640_032_QX1.png"
   },
   {
    "comment": "",
    "rating": 1,
-   "connector_type": 2,
    "volts": null,
-   "created_at": "2016-05-27T15:15:05Z",
    "finished": "2016-05-27T19:02:54Z",
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -532,7 +697,6 @@
     "id": 162931,
     "notify_nearby": 1,
     "first_name": "Josh",
-    "vehicle_color": 3,
     "last_login": "2016-10-29T19:53:09Z",
     "allow_notifications": null,
     "vehicle_description": "",
@@ -545,21 +709,23 @@
     "receive_grid_alerts": 0,
     "created_at": "2016-05-13T01:34:40Z",
     "photos": [],
-    "formatted_phone_number": "+1 502-947-2501",
-    "vehicle_subtype": 1
+    "formatted_phone_number": "+1 502-947-2501"
    },
-   "amps": null,
+   "vehicle_name": "Nissan LEAF",
    "vehicle_type": 1,
-   "id": 468194
+   "id": 468194,
+   "kilowatts": null,
+   "created_at": "2016-05-27T15:15:05Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/7399_cc0640_032_QX1.png"
   },
   {
    "comment": "",
    "rating": 1,
-   "connector_type": 2,
    "volts": null,
-   "created_at": "2016-05-20T15:13:06Z",
    "finished": "2016-05-20T15:50:42Z",
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -570,8 +736,7 @@
     "id": 153312,
     "notify_nearby": 0,
     "first_name": "Brad",
-    "vehicle_color": 2,
-    "last_login": "2019-02-21T10:00:02Z",
+    "last_login": "2019-08-05T15:12:10Z",
     "allow_notifications": null,
     "vehicle_description": "",
     "phone": "",
@@ -583,21 +748,23 @@
     "receive_grid_alerts": 0,
     "created_at": "2016-03-24T18:17:14Z",
     "photos": [],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 0
+    "formatted_phone_number": ""
    },
-   "amps": null,
+   "vehicle_name": "Chevrolet Volt",
    "vehicle_type": 2,
-   "id": 463625
+   "id": 463625,
+   "kilowatts": null,
+   "created_at": "2016-05-20T15:13:06Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/7411_cc0640_032_GAN.png"
   },
   {
    "comment": "",
    "rating": 1,
-   "connector_type": 2,
    "volts": null,
-   "created_at": "2016-05-20T07:22:07Z",
    "finished": "2016-05-20T07:22:57Z",
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -608,7 +775,6 @@
     "id": 162931,
     "notify_nearby": 1,
     "first_name": "Josh",
-    "vehicle_color": 3,
     "last_login": "2016-10-29T19:53:09Z",
     "allow_notifications": null,
     "vehicle_description": "",
@@ -621,21 +787,23 @@
     "receive_grid_alerts": 0,
     "created_at": "2016-05-13T01:34:40Z",
     "photos": [],
-    "formatted_phone_number": "+1 502-947-2501",
-    "vehicle_subtype": 1
+    "formatted_phone_number": "+1 502-947-2501"
    },
-   "amps": null,
+   "vehicle_name": "Nissan LEAF",
    "vehicle_type": 1,
-   "id": 463437
+   "id": 463437,
+   "kilowatts": null,
+   "created_at": "2016-05-20T07:22:07Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/7399_cc0640_032_QX1.png"
   },
   {
    "comment": "",
    "rating": 1,
-   "connector_type": 2,
    "volts": null,
-   "created_at": "2016-05-20T01:30:58Z",
    "finished": "2016-05-20T04:00:58Z",
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -646,7 +814,6 @@
     "id": 162931,
     "notify_nearby": 1,
     "first_name": "Josh",
-    "vehicle_color": 3,
     "last_login": "2016-10-29T19:53:09Z",
     "allow_notifications": null,
     "vehicle_description": "",
@@ -659,21 +826,23 @@
     "receive_grid_alerts": 0,
     "created_at": "2016-05-13T01:34:40Z",
     "photos": [],
-    "formatted_phone_number": "+1 502-947-2501",
-    "vehicle_subtype": 1
+    "formatted_phone_number": "+1 502-947-2501"
    },
-   "amps": null,
+   "vehicle_name": "Nissan LEAF",
    "vehicle_type": 1,
-   "id": 463322
+   "id": 463322,
+   "kilowatts": null,
+   "created_at": "2016-05-20T01:30:58Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/7399_cc0640_032_QX1.png"
   },
   {
    "comment": "",
    "rating": 1,
-   "connector_type": 2,
    "volts": null,
-   "created_at": "2016-04-29T12:02:06Z",
    "finished": "2016-04-29T13:02:06Z",
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -684,8 +853,7 @@
     "id": 153312,
     "notify_nearby": 0,
     "first_name": "Brad",
-    "vehicle_color": 2,
-    "last_login": "2019-02-21T10:00:02Z",
+    "last_login": "2019-08-05T15:12:10Z",
     "allow_notifications": null,
     "vehicle_description": "",
     "phone": "",
@@ -697,58 +865,61 @@
     "receive_grid_alerts": 0,
     "created_at": "2016-03-24T18:17:14Z",
     "photos": [],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 0
+    "formatted_phone_number": ""
    },
-   "amps": null,
+   "vehicle_name": "Chevrolet Volt",
    "vehicle_type": 2,
-   "id": 449101
+   "id": 449101,
+   "kilowatts": null,
+   "created_at": "2016-04-29T12:02:06Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/7411_cc0640_032_GAN.png"
   },
   {
    "comment": "",
    "rating": 1,
    "volts": null,
+   "user": {
+    "last_name": "",
+    "hide_address": false,
+    "charger_type": 0,
+    "country_code": "US",
+    "language_code": null,
+    "allow_promo_email": false,
+    "id": 153312,
+    "notify_nearby": 0,
+    "first_name": "Brad",
+    "last_login": "2019-08-05T15:12:10Z",
+    "allow_notifications": null,
+    "vehicle_description": "",
+    "phone": "",
+    "e164_phone_number": "",
+    "hide_phone": false,
+    "vehicle_type": 2,
+    "about": "",
+    "notify_nearby_radius": 0,
+    "receive_grid_alerts": 0,
+    "created_at": "2016-03-24T18:17:14Z",
+    "photos": [],
+    "formatted_phone_number": ""
+   },
+   "vehicle_name": "Chevrolet Volt",
+   "vehicle_type": 2,
+   "id": 432933,
+   "kilowatts": null,
    "created_at": "2016-04-04T20:36:11Z",
    "connector_type": 2,
    "waiting": false,
-   "user": {
-    "last_name": "",
-    "hide_address": false,
-    "charger_type": 0,
-    "country_code": "US",
-    "language_code": null,
-    "allow_promo_email": false,
-    "id": 153312,
-    "notify_nearby": 0,
-    "first_name": "Brad",
-    "vehicle_color": 2,
-    "last_login": "2019-02-21T10:00:02Z",
-    "allow_notifications": null,
-    "vehicle_description": "",
-    "phone": "",
-    "e164_phone_number": "",
-    "hide_phone": false,
-    "vehicle_type": 2,
-    "about": "",
-    "notify_nearby_radius": 0,
-    "receive_grid_alerts": 0,
-    "created_at": "2016-03-24T18:17:14Z",
-    "photos": [],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 0
-   },
    "amps": null,
-   "vehicle_type": 2,
-   "id": 432933
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/7411_cc0640_032_GAN.png"
   },
   {
    "comment": "",
    "rating": 1,
-   "connector_type": 2,
    "volts": null,
-   "created_at": "2016-04-04T18:42:32Z",
    "finished": "2016-04-04T19:42:32Z",
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -759,8 +930,7 @@
     "id": 153312,
     "notify_nearby": 0,
     "first_name": "Brad",
-    "vehicle_color": 2,
-    "last_login": "2019-02-21T10:00:02Z",
+    "last_login": "2019-08-05T15:12:10Z",
     "allow_notifications": null,
     "vehicle_description": "",
     "phone": "",
@@ -772,31 +942,34 @@
     "receive_grid_alerts": 0,
     "created_at": "2016-03-24T18:17:14Z",
     "photos": [],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 0
+    "formatted_phone_number": ""
    },
-   "amps": null,
+   "vehicle_name": "Chevrolet Volt",
    "vehicle_type": 2,
-   "id": 432862
+   "id": 432862,
+   "kilowatts": null,
+   "created_at": "2016-04-04T18:42:32Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/7411_cc0640_032_GAN.png"
   },
   {
    "comment": "",
    "rating": 1,
-   "volts": null,
-   "created_at": "2016-03-10T01:25:34Z",
-   "connector_type": 2,
    "waiting": false,
+   "connector_type": 2,
+   "volts": null,
    "amps": null,
+   "created_at": "2016-03-10T01:25:34Z",
+   "kilowatts": null,
    "id": 415944
   },
   {
    "comment": "",
    "rating": 1,
-   "connector_type": 2,
    "volts": null,
-   "created_at": "2016-01-29T17:19:03Z",
    "finished": "2016-01-29T19:19:03Z",
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": true,
@@ -807,19 +980,28 @@
     "id": 14864,
     "notify_nearby": 1,
     "first_name": "Austin",
-    "vehicle_color": 3,
-    "last_login": "2019-02-21T22:14:21Z",
+    "last_login": "2019-08-12T13:43:48Z",
     "allow_notifications": null,
     "vehicle_description": "Awesome gateway electric car! ;-)",
     "phone": "",
     "e164_phone_number": "",
     "hide_phone": true,
-    "vehicle_type": 23,
+    "vehicle_type": 75,
     "about": "Ready for the Model 3!",
     "notify_nearby_radius": 16000,
     "receive_grid_alerts": 0,
     "created_at": "2013-04-15T15:33:57Z",
     "photos": [
+     {
+      "user_id": 14864,
+      "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/400667.jpg",
+      "created_at": "2019-03-28T10:58:55Z",
+      "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/400667.png",
+      "caption": "",
+      "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/400667.png",
+      "order": 0,
+      "id": 400667
+     },
      {
       "user_id": 14864,
       "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/281261.jpg",
@@ -841,21 +1023,23 @@
       "id": 9823
      }
     ],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 0
+    "formatted_phone_number": ""
    },
-   "amps": null,
+   "vehicle_name": "Ford Fusion Energi",
    "vehicle_type": 13,
-   "id": 391739
+   "id": 391739,
+   "kilowatts": null,
+   "created_at": "2016-01-29T17:19:03Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/9787_cc0640_032_UH.png"
   },
   {
    "comment": "",
    "rating": 1,
-   "connector_type": 2,
    "volts": null,
-   "created_at": "2016-01-25T13:47:58Z",
    "finished": "2016-01-25T15:47:58Z",
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": true,
@@ -866,19 +1050,28 @@
     "id": 14864,
     "notify_nearby": 1,
     "first_name": "Austin",
-    "vehicle_color": 3,
-    "last_login": "2019-02-21T22:14:21Z",
+    "last_login": "2019-08-12T13:43:48Z",
     "allow_notifications": null,
     "vehicle_description": "Awesome gateway electric car! ;-)",
     "phone": "",
     "e164_phone_number": "",
     "hide_phone": true,
-    "vehicle_type": 23,
+    "vehicle_type": 75,
     "about": "Ready for the Model 3!",
     "notify_nearby_radius": 16000,
     "receive_grid_alerts": 0,
     "created_at": "2013-04-15T15:33:57Z",
     "photos": [
+     {
+      "user_id": 14864,
+      "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/400667.jpg",
+      "created_at": "2019-03-28T10:58:55Z",
+      "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/400667.png",
+      "caption": "",
+      "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/400667.png",
+      "order": 0,
+      "id": 400667
+     },
      {
       "user_id": 14864,
       "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/281261.jpg",
@@ -900,195 +1093,23 @@
       "id": 9823
      }
     ],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 0
+    "formatted_phone_number": ""
    },
-   "amps": null,
+   "vehicle_name": "Ford Fusion Energi",
    "vehicle_type": 13,
-   "id": 389348
-  },
-  {
-   "comment": "",
-   "rating": 1,
-   "volts": null,
-   "created_at": "2015-12-31T14:23:18Z",
-   "finished": "2015-12-31T16:19:35Z",
-   "waiting": false,
-   "user": {
-    "last_name": "",
-    "hide_address": true,
-    "charger_type": 0,
-    "country_code": "US",
-    "language_code": null,
-    "allow_promo_email": false,
-    "id": 14864,
-    "notify_nearby": 1,
-    "first_name": "Austin",
-    "vehicle_color": 3,
-    "last_login": "2019-02-21T22:14:21Z",
-    "allow_notifications": null,
-    "vehicle_description": "Awesome gateway electric car! ;-)",
-    "phone": "",
-    "e164_phone_number": "",
-    "hide_phone": true,
-    "vehicle_type": 23,
-    "about": "Ready for the Model 3!",
-    "notify_nearby_radius": 16000,
-    "receive_grid_alerts": 0,
-    "created_at": "2013-04-15T15:33:57Z",
-    "photos": [
-     {
-      "user_id": 14864,
-      "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/281261.jpg",
-      "created_at": "2018-04-03T21:51:12Z",
-      "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/281261.png",
-      "caption": "",
-      "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/281261.png",
-      "order": 0,
-      "id": 281261
-     },
-     {
-      "user_id": 14864,
-      "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/9823.jpg",
-      "created_at": "2013-05-14T12:16:23Z",
-      "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/9823.png",
-      "caption": "",
-      "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/9823.png",
-      "order": 0,
-      "id": 9823
-     }
-    ],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 0
-   },
-   "amps": null,
-   "vehicle_type": 13,
-   "id": 373554
-  },
-  {
-   "comment": "",
-   "rating": 1,
-   "volts": null,
-   "created_at": "2015-12-15T13:25:48Z",
-   "finished": "2015-12-15T15:25:48Z",
-   "waiting": false,
-   "user": {
-    "last_name": "",
-    "hide_address": true,
-    "charger_type": 0,
-    "country_code": "US",
-    "language_code": null,
-    "allow_promo_email": false,
-    "id": 14864,
-    "notify_nearby": 1,
-    "first_name": "Austin",
-    "vehicle_color": 3,
-    "last_login": "2019-02-21T22:14:21Z",
-    "allow_notifications": null,
-    "vehicle_description": "Awesome gateway electric car! ;-)",
-    "phone": "",
-    "e164_phone_number": "",
-    "hide_phone": true,
-    "vehicle_type": 23,
-    "about": "Ready for the Model 3!",
-    "notify_nearby_radius": 16000,
-    "receive_grid_alerts": 0,
-    "created_at": "2013-04-15T15:33:57Z",
-    "photos": [
-     {
-      "user_id": 14864,
-      "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/281261.jpg",
-      "created_at": "2018-04-03T21:51:12Z",
-      "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/281261.png",
-      "caption": "",
-      "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/281261.png",
-      "order": 0,
-      "id": 281261
-     },
-     {
-      "user_id": 14864,
-      "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/9823.jpg",
-      "created_at": "2013-05-14T12:16:23Z",
-      "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/9823.png",
-      "caption": "",
-      "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/9823.png",
-      "order": 0,
-      "id": 9823
-     }
-    ],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 0
-   },
-   "amps": null,
-   "vehicle_type": 13,
-   "id": 363354
-  },
-  {
-   "comment": "",
-   "rating": 1,
+   "id": 389348,
+   "kilowatts": null,
+   "created_at": "2016-01-25T13:47:58Z",
    "connector_type": 2,
-   "volts": null,
-   "created_at": "2015-12-10T13:26:24Z",
-   "finished": "2015-12-10T15:26:24Z",
    "waiting": false,
-   "user": {
-    "last_name": "",
-    "hide_address": true,
-    "charger_type": 0,
-    "country_code": "US",
-    "language_code": null,
-    "allow_promo_email": false,
-    "id": 14864,
-    "notify_nearby": 1,
-    "first_name": "Austin",
-    "vehicle_color": 3,
-    "last_login": "2019-02-21T22:14:21Z",
-    "allow_notifications": null,
-    "vehicle_description": "Awesome gateway electric car! ;-)",
-    "phone": "",
-    "e164_phone_number": "",
-    "hide_phone": true,
-    "vehicle_type": 23,
-    "about": "Ready for the Model 3!",
-    "notify_nearby_radius": 16000,
-    "receive_grid_alerts": 0,
-    "created_at": "2013-04-15T15:33:57Z",
-    "photos": [
-     {
-      "user_id": 14864,
-      "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/281261.jpg",
-      "created_at": "2018-04-03T21:51:12Z",
-      "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/281261.png",
-      "caption": "",
-      "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/281261.png",
-      "order": 0,
-      "id": 281261
-     },
-     {
-      "user_id": 14864,
-      "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/9823.jpg",
-      "created_at": "2013-05-14T12:16:23Z",
-      "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/9823.png",
-      "caption": "",
-      "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/9823.png",
-      "order": 0,
-      "id": 9823
-     }
-    ],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 0
-   },
    "amps": null,
-   "vehicle_type": 13,
-   "id": 360290
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/9787_cc0640_032_UH.png"
   },
   {
    "comment": "",
    "rating": 1,
    "volts": null,
-   "created_at": "2015-12-03T13:39:20Z",
-   "finished": "2015-12-03T15:39:20Z",
-   "waiting": false,
+   "finished": "2015-12-31T16:19:35Z",
    "user": {
     "last_name": "",
     "hide_address": true,
@@ -1099,19 +1120,28 @@
     "id": 14864,
     "notify_nearby": 1,
     "first_name": "Austin",
-    "vehicle_color": 3,
-    "last_login": "2019-02-21T22:14:21Z",
+    "last_login": "2019-08-12T13:43:48Z",
     "allow_notifications": null,
     "vehicle_description": "Awesome gateway electric car! ;-)",
     "phone": "",
     "e164_phone_number": "",
     "hide_phone": true,
-    "vehicle_type": 23,
+    "vehicle_type": 75,
     "about": "Ready for the Model 3!",
     "notify_nearby_radius": 16000,
     "receive_grid_alerts": 0,
     "created_at": "2013-04-15T15:33:57Z",
     "photos": [
+     {
+      "user_id": 14864,
+      "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/400667.jpg",
+      "created_at": "2019-03-28T10:58:55Z",
+      "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/400667.png",
+      "caption": "",
+      "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/400667.png",
+      "order": 0,
+      "id": 400667
+     },
      {
       "user_id": 14864,
       "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/281261.jpg",
@@ -1133,18 +1163,230 @@
       "id": 9823
      }
     ],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 0
+    "formatted_phone_number": ""
    },
-   "amps": null,
+   "vehicle_name": "Ford Fusion Energi",
    "vehicle_type": 13,
-   "id": 356175
+   "id": 373554,
+   "kilowatts": null,
+   "created_at": "2015-12-31T14:23:18Z",
+   "waiting": false,
+   "amps": null,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/9787_cc0640_032_UH.png"
+  },
+  {
+   "comment": "",
+   "rating": 1,
+   "volts": null,
+   "finished": "2015-12-15T15:25:48Z",
+   "user": {
+    "last_name": "",
+    "hide_address": true,
+    "charger_type": 0,
+    "country_code": "US",
+    "language_code": null,
+    "allow_promo_email": false,
+    "id": 14864,
+    "notify_nearby": 1,
+    "first_name": "Austin",
+    "last_login": "2019-08-12T13:43:48Z",
+    "allow_notifications": null,
+    "vehicle_description": "Awesome gateway electric car! ;-)",
+    "phone": "",
+    "e164_phone_number": "",
+    "hide_phone": true,
+    "vehicle_type": 75,
+    "about": "Ready for the Model 3!",
+    "notify_nearby_radius": 16000,
+    "receive_grid_alerts": 0,
+    "created_at": "2013-04-15T15:33:57Z",
+    "photos": [
+     {
+      "user_id": 14864,
+      "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/400667.jpg",
+      "created_at": "2019-03-28T10:58:55Z",
+      "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/400667.png",
+      "caption": "",
+      "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/400667.png",
+      "order": 0,
+      "id": 400667
+     },
+     {
+      "user_id": 14864,
+      "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/281261.jpg",
+      "created_at": "2018-04-03T21:51:12Z",
+      "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/281261.png",
+      "caption": "",
+      "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/281261.png",
+      "order": 0,
+      "id": 281261
+     },
+     {
+      "user_id": 14864,
+      "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/9823.jpg",
+      "created_at": "2013-05-14T12:16:23Z",
+      "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/9823.png",
+      "caption": "",
+      "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/9823.png",
+      "order": 0,
+      "id": 9823
+     }
+    ],
+    "formatted_phone_number": ""
+   },
+   "vehicle_name": "Ford Fusion Energi",
+   "vehicle_type": 13,
+   "id": 363354,
+   "kilowatts": null,
+   "created_at": "2015-12-15T13:25:48Z",
+   "waiting": false,
+   "amps": null,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/9787_cc0640_032_UH.png"
+  },
+  {
+   "comment": "",
+   "rating": 1,
+   "volts": null,
+   "finished": "2015-12-10T15:26:24Z",
+   "user": {
+    "last_name": "",
+    "hide_address": true,
+    "charger_type": 0,
+    "country_code": "US",
+    "language_code": null,
+    "allow_promo_email": false,
+    "id": 14864,
+    "notify_nearby": 1,
+    "first_name": "Austin",
+    "last_login": "2019-08-12T13:43:48Z",
+    "allow_notifications": null,
+    "vehicle_description": "Awesome gateway electric car! ;-)",
+    "phone": "",
+    "e164_phone_number": "",
+    "hide_phone": true,
+    "vehicle_type": 75,
+    "about": "Ready for the Model 3!",
+    "notify_nearby_radius": 16000,
+    "receive_grid_alerts": 0,
+    "created_at": "2013-04-15T15:33:57Z",
+    "photos": [
+     {
+      "user_id": 14864,
+      "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/400667.jpg",
+      "created_at": "2019-03-28T10:58:55Z",
+      "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/400667.png",
+      "caption": "",
+      "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/400667.png",
+      "order": 0,
+      "id": 400667
+     },
+     {
+      "user_id": 14864,
+      "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/281261.jpg",
+      "created_at": "2018-04-03T21:51:12Z",
+      "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/281261.png",
+      "caption": "",
+      "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/281261.png",
+      "order": 0,
+      "id": 281261
+     },
+     {
+      "user_id": 14864,
+      "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/9823.jpg",
+      "created_at": "2013-05-14T12:16:23Z",
+      "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/9823.png",
+      "caption": "",
+      "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/9823.png",
+      "order": 0,
+      "id": 9823
+     }
+    ],
+    "formatted_phone_number": ""
+   },
+   "vehicle_name": "Ford Fusion Energi",
+   "vehicle_type": 13,
+   "id": 360290,
+   "kilowatts": null,
+   "created_at": "2015-12-10T13:26:24Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/9787_cc0640_032_UH.png"
+  },
+  {
+   "comment": "",
+   "rating": 1,
+   "volts": null,
+   "finished": "2015-12-03T15:39:20Z",
+   "user": {
+    "last_name": "",
+    "hide_address": true,
+    "charger_type": 0,
+    "country_code": "US",
+    "language_code": null,
+    "allow_promo_email": false,
+    "id": 14864,
+    "notify_nearby": 1,
+    "first_name": "Austin",
+    "last_login": "2019-08-12T13:43:48Z",
+    "allow_notifications": null,
+    "vehicle_description": "Awesome gateway electric car! ;-)",
+    "phone": "",
+    "e164_phone_number": "",
+    "hide_phone": true,
+    "vehicle_type": 75,
+    "about": "Ready for the Model 3!",
+    "notify_nearby_radius": 16000,
+    "receive_grid_alerts": 0,
+    "created_at": "2013-04-15T15:33:57Z",
+    "photos": [
+     {
+      "user_id": 14864,
+      "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/400667.jpg",
+      "created_at": "2019-03-28T10:58:55Z",
+      "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/400667.png",
+      "caption": "",
+      "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/400667.png",
+      "order": 0,
+      "id": 400667
+     },
+     {
+      "user_id": 14864,
+      "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/281261.jpg",
+      "created_at": "2018-04-03T21:51:12Z",
+      "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/281261.png",
+      "caption": "",
+      "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/281261.png",
+      "order": 0,
+      "id": 281261
+     },
+     {
+      "user_id": 14864,
+      "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/9823.jpg",
+      "created_at": "2013-05-14T12:16:23Z",
+      "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/9823.png",
+      "caption": "",
+      "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/9823.png",
+      "order": 0,
+      "id": 9823
+     }
+    ],
+    "formatted_phone_number": ""
+   },
+   "vehicle_name": "Ford Fusion Energi",
+   "vehicle_type": 13,
+   "id": 356175,
+   "kilowatts": null,
+   "created_at": "2015-12-03T13:39:20Z",
+   "waiting": false,
+   "amps": null,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/9787_cc0640_032_UH.png"
   }
  ],
  "under_repair": false,
  "poi_name": "Hospital/Healthcare",
  "locale": "US",
- "updated_at": "2018-12-07T16:49:18Z",
+ "updated_at": "2019-06-20T20:16:59Z",
  "cost": true,
  "pwps_version": null,
  "id": 77282,
@@ -1333,7 +1575,7 @@
    "available_changed_at": null
   }
  ],
- "url": "http://api.plugshare.com/view/location/77282",
+ "url": "https://www.plugshare.com/location/77282",
  "created_at": "2015-12-03T13:38:58Z",
  "promos": [],
  "photos": [
@@ -1379,5 +1621,6 @@
   }
  ],
  "formatted_phone_number": "",
- "coming_soon": null
+ "coming_soon": null,
+ "total_reviews": 27
 }

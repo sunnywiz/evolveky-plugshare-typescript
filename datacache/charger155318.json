@@ -38,11 +38,7 @@
  "open247": false,
  "valid_outlets": [
   {
-   "connector": 1,
-   "power": 0
-  },
-  {
-   "connector": 2,
+   "connector": 13,
    "power": 0
   },
   {
@@ -50,11 +46,7 @@
    "power": 0
   },
   {
-   "connector": 13,
-   "power": 0
-  },
-  {
-   "connector": 4,
+   "connector": 2,
    "power": 0
   },
   {
@@ -62,14 +54,23 @@
    "power": 0
   },
   {
+   "connector": 4,
+   "power": 0
+  },
+  {
    "connector": 5,
+   "power": 0
+  },
+  {
+   "connector": 1,
    "power": 0
   }
  ],
  "phone": "",
  "e164_phone_number": "",
+ "total_photos": 1,
  "locked": false,
- "title_description": "Hampton Inn Louisville - Airport - Free Electric Car Charging - 5 Check-ins 1 Photos - 800 Phillips Ln, Louisville, KY 40209, USA - US - Hotel/Lodging - PlugShare",
+ "title_description": "Hampton Inn Louisville - Airport - Free Electric Car Charging - 8 Check-ins 1 Photos - 800 Phillips Ln, Louisville, KY 40209, USA - US - Hotel/Lodging - PlugShare",
  "name": "Hampton Inn Louisville - Airport",
  "icon_type": "G",
  "enabled": true,
@@ -78,11 +79,124 @@
   {
    "comment": "",
    "rating": 1,
-   "connector_type": 2,
-   "volts": 0,
-   "created_at": "2019-02-09T21:32:38Z",
-   "finished": "2019-02-10T00:02:37Z",
+   "volts": 241,
+   "finished": "2019-04-24T02:02:30Z",
+   "user": {
+    "last_name": "",
+    "hide_address": false,
+    "charger_type": 0,
+    "country_code": "US",
+    "language_code": "en-US",
+    "allow_promo_email": false,
+    "id": 235321,
+    "notify_nearby": 0,
+    "first_name": "HeloCaptain",
+    "last_login": "2019-07-29T17:00:54Z",
+    "allow_notifications": null,
+    "vehicle_description": "",
+    "phone": "",
+    "e164_phone_number": "",
+    "hide_phone": false,
+    "vehicle_type": 52,
+    "about": "",
+    "notify_nearby_radius": 0,
+    "receive_grid_alerts": 0,
+    "created_at": "2017-04-27T03:37:35Z",
+    "photos": [],
+    "formatted_phone_number": ""
+   },
+   "vehicle_name": "Tesla Model X",
+   "vehicle_type": 52,
+   "id": 1661249,
+   "kilowatts": 9,
+   "created_at": "2019-04-23T18:02:30Z",
    "waiting": false,
+   "amps": 40,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/11190_cc0640_032_EVOX01.png"
+  },
+  {
+   "comment": "",
+   "rating": 1,
+   "volts": 194,
+   "finished": "2019-03-23T12:25:07Z",
+   "user": {
+    "last_name": "",
+    "hide_address": false,
+    "charger_type": 0,
+    "country_code": "US",
+    "language_code": null,
+    "allow_promo_email": false,
+    "id": 157601,
+    "notify_nearby": 0,
+    "first_name": "Jason",
+    "last_login": "2019-08-05T12:17:38Z",
+    "allow_notifications": null,
+    "vehicle_description": "",
+    "phone": "",
+    "e164_phone_number": "",
+    "hide_phone": false,
+    "vehicle_type": 75,
+    "about": "",
+    "notify_nearby_radius": 0,
+    "receive_grid_alerts": 0,
+    "created_at": "2016-04-13T13:54:55Z",
+    "photos": [],
+    "formatted_phone_number": ""
+   },
+   "vehicle_name": "Tesla Model 3",
+   "vehicle_type": 75,
+   "id": 1604583,
+   "kilowatts": 7,
+   "created_at": "2019-03-23T03:24:40Z",
+   "connector_type": 6,
+   "waiting": false,
+   "amps": 40,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/12659_cc0640_032_PPSW.png"
+  },
+  {
+   "comment": "Easy, no one waiting. No food in vicinity, though. ",
+   "rating": 1,
+   "volts": null,
+   "finished": "2019-03-18T16:28:47Z",
+   "user": {
+    "last_name": "",
+    "hide_address": false,
+    "charger_type": 2,
+    "country_code": "US",
+    "language_code": "en-us",
+    "allow_promo_email": true,
+    "id": 472494,
+    "notify_nearby": 0,
+    "first_name": "Dhope",
+    "last_login": "2019-08-07T11:22:55Z",
+    "allow_notifications": null,
+    "vehicle_description": "",
+    "phone": "",
+    "e164_phone_number": "",
+    "hide_phone": false,
+    "vehicle_type": 1,
+    "about": "",
+    "notify_nearby_radius": 0,
+    "receive_grid_alerts": 0,
+    "created_at": "2019-02-18T23:32:58Z",
+    "photos": [],
+    "formatted_phone_number": ""
+   },
+   "vehicle_name": "Nissan LEAF",
+   "vehicle_type": 1,
+   "id": 1597383,
+   "kilowatts": null,
+   "created_at": "2019-03-18T15:59:36Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/7399_cc0640_032_QX1.png"
+  },
+  {
+   "comment": "",
+   "rating": 1,
+   "volts": 0,
+   "finished": "2019-02-10T00:02:37Z",
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -93,8 +207,7 @@
     "id": 102440,
     "notify_nearby": 0,
     "first_name": "Wrensey",
-    "vehicle_color": 7,
-    "last_login": "2019-02-21T13:30:23Z",
+    "last_login": "2019-08-12T11:03:00Z",
     "allow_notifications": null,
     "vehicle_description": "2015 SL, 6.6 kW charger, Quick charge port ",
     "phone": "8593618060",
@@ -106,20 +219,23 @@
     "receive_grid_alerts": 0,
     "created_at": "2015-03-27T15:43:32Z",
     "photos": [],
-    "formatted_phone_number": "+1 859-361-8060",
-    "vehicle_subtype": 2
+    "formatted_phone_number": "+1 859-361-8060"
    },
-   "amps": 0,
+   "vehicle_name": "Nissan LEAF",
    "vehicle_type": 1,
-   "id": 1538017
+   "id": 1538017,
+   "kilowatts": null,
+   "created_at": "2019-02-09T21:32:38Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": 0,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/7399_cc0640_032_QX1.png"
   },
   {
    "comment": "24 mph.  Slower than home but > 0!",
    "rating": 1,
    "volts": 212,
-   "created_at": "2019-01-03T00:12:40Z",
    "finished": "2019-01-03T01:12:40Z",
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -130,8 +246,7 @@
     "id": 412785,
     "notify_nearby": 0,
     "first_name": "CheeseheadIL",
-    "vehicle_color": 3,
-    "last_login": "2019-01-12T17:14:53Z",
+    "last_login": "2019-08-11T11:51:17Z",
     "allow_notifications": null,
     "vehicle_description": "",
     "phone": "",
@@ -143,33 +258,33 @@
     "receive_grid_alerts": 0,
     "created_at": "2018-10-20T12:54:22Z",
     "photos": [],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 3
+    "formatted_phone_number": ""
    },
-   "amps": 38,
+   "vehicle_name": "Tesla Model 3",
    "vehicle_type": 75,
-   "id": 1478322
+   "id": 1478322,
+   "kilowatts": 8,
+   "created_at": "2019-01-03T00:12:40Z",
+   "waiting": false,
+   "amps": 38,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/12659_cc0640_032_PPSW.png"
   },
   {
    "comment": "Long cables. Behind the building next to the pool.",
    "rating": 1,
-   "connector_type": 6,
    "volts": 211,
-   "created_at": "2018-12-27T05:03:35Z",
    "finished": "2018-12-27T13:03:34Z",
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": false,
-    "charger_type": 0,
+    "charger_type": 5,
     "country_code": "US",
     "language_code": "en",
     "allow_promo_email": false,
     "id": 410361,
     "notify_nearby": 0,
     "first_name": "5489kit",
-    "vehicle_color": 3,
-    "last_login": "2019-02-20T06:41:58Z",
+    "last_login": "2019-08-13T01:45:07Z",
     "allow_notifications": null,
     "vehicle_description": "",
     "phone": "",
@@ -192,33 +307,34 @@
       "id": 350496
      }
     ],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 0
+    "formatted_phone_number": ""
    },
+   "vehicle_name": "Tesla Model 3",
+   "vehicle_type": 75,
+   "id": 1466088,
+   "kilowatts": 8,
+   "created_at": "2018-12-27T05:03:35Z",
+   "connector_type": 6,
+   "waiting": false,
    "amps": 40,
-   "vehicle_type": 75,
-   "id": 1466088
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/12659_cc0640_032_PPSW.png"
   },
   {
    "comment": "",
    "rating": 1,
-   "connector_type": 6,
    "volts": 40,
-   "created_at": "2018-12-27T04:57:34Z",
    "finished": "2018-12-27T05:01:52Z",
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": false,
-    "charger_type": 0,
+    "charger_type": 5,
     "country_code": "US",
     "language_code": "en",
     "allow_promo_email": false,
     "id": 410361,
     "notify_nearby": 0,
     "first_name": "5489kit",
-    "vehicle_color": 3,
-    "last_login": "2019-02-20T06:41:58Z",
+    "last_login": "2019-08-13T01:45:07Z",
     "allow_notifications": null,
     "vehicle_description": "",
     "phone": "",
@@ -241,19 +357,21 @@
       "id": 350496
      }
     ],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 0
+    "formatted_phone_number": ""
    },
-   "amps": 0,
+   "vehicle_name": "Tesla Model 3",
    "vehicle_type": 75,
-   "id": 1466076
+   "id": 1466076,
+   "kilowatts": null,
+   "created_at": "2018-12-27T04:57:34Z",
+   "connector_type": 6,
+   "waiting": false,
+   "amps": 0,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/12659_cc0640_032_PPSW.png"
   },
   {
    "comment": "",
    "rating": 1,
-   "volts": 212,
-   "created_at": "2018-10-08T10:59:38Z",
-   "connector_type": 6,
    "waiting": false,
    "user": {
     "last_name": "",
@@ -265,8 +383,7 @@
     "id": 234968,
     "notify_nearby": 0,
     "first_name": "Glen Pekarcsik",
-    "vehicle_color": 0,
-    "last_login": "2019-02-18T11:05:50Z",
+    "last_login": "2019-07-21T21:20:48Z",
     "allow_notifications": null,
     "vehicle_description": "",
     "phone": "",
@@ -278,17 +395,20 @@
     "receive_grid_alerts": 0,
     "created_at": "2017-04-25T19:14:18Z",
     "photos": [],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 0
+    "formatted_phone_number": ""
    },
+   "volts": 212,
+   "connector_type": 6,
    "amps": 30,
+   "created_at": "2018-10-08T10:59:38Z",
+   "kilowatts": 6,
    "id": 1345156
   }
  ],
  "under_repair": false,
  "poi_name": "Hotel/Lodging",
  "locale": "US",
- "updated_at": "2019-02-09T21:32:38Z",
+ "updated_at": "2019-04-23T18:02:30Z",
  "cost": false,
  "pwps_version": null,
  "id": 155318,
@@ -488,7 +608,7 @@
    "available_changed_at": null
   }
  ],
- "url": "http://api.plugshare.com/view/location/155318",
+ "url": "https://www.plugshare.com/location/155318",
  "created_at": "2018-05-30T21:59:00Z",
  "promos": [],
  "photos": [
@@ -504,5 +624,6 @@
   }
  ],
  "formatted_phone_number": "",
- "coming_soon": null
+ "coming_soon": null,
+ "total_reviews": 8
 }

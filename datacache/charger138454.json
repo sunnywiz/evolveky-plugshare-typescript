@@ -42,11 +42,7 @@
  "open247": false,
  "valid_outlets": [
   {
-   "connector": 1,
-   "power": 0
-  },
-  {
-   "connector": 2,
+   "connector": 13,
    "power": 0
   },
   {
@@ -54,11 +50,7 @@
    "power": 0
   },
   {
-   "connector": 13,
-   "power": 0
-  },
-  {
-   "connector": 4,
+   "connector": 2,
    "power": 0
   },
   {
@@ -66,27 +58,109 @@
    "power": 0
   },
   {
+   "connector": 4,
+   "power": 0
+  },
+  {
    "connector": 5,
+   "power": 0
+  },
+  {
+   "connector": 1,
    "power": 0
   }
  ],
  "phone": "",
  "e164_phone_number": "",
+ "total_photos": 1,
  "locked": false,
- "title_description": "Wingate by Wyndham Louisville East - Free Electric Car Charging - 11 Check-ins 1 Photos - 12301 Alliant Ct, Louisville, KY 40299 - US - Hotel/Lodging - PlugShare",
+ "title_description": "Wingate by Wyndham Louisville East - Free Electric Car Charging - 13 Check-ins 1 Photos - 12301 Alliant Ct, Louisville, KY 40299 - US - Hotel/Lodging - PlugShare",
  "name": "Wingate by Wyndham Louisville East",
  "icon_type": "G",
  "enabled": true,
  "longitude": -85.534761,
  "reviews": [
   {
+   "comment": "212v 40a",
+   "rating": 1,
+   "volts": null,
+   "finished": "2019-05-14T20:42:20Z",
+   "user": {
+    "last_name": "",
+    "hide_address": false,
+    "charger_type": 0,
+    "country_code": "US",
+    "language_code": null,
+    "allow_promo_email": false,
+    "id": 150773,
+    "notify_nearby": 0,
+    "first_name": "Daniel",
+    "last_login": "2019-07-31T15:51:48Z",
+    "allow_notifications": null,
+    "vehicle_description": "2013 SL",
+    "phone": "3602411141",
+    "e164_phone_number": "",
+    "hide_phone": false,
+    "vehicle_type": 75,
+    "about": "",
+    "notify_nearby_radius": 0,
+    "receive_grid_alerts": 0,
+    "created_at": "2016-03-07T20:58:36Z",
+    "photos": [],
+    "formatted_phone_number": "+1 360-241-1141"
+   },
+   "vehicle_name": "Tesla Model 3",
+   "vehicle_type": 75,
+   "id": 1700599,
+   "kilowatts": null,
+   "created_at": "2019-05-14T19:42:20Z",
+   "connector_type": 6,
+   "waiting": false,
+   "amps": null,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/12659_cc0640_032_PPSW.png"
+  },
+  {
+   "comment": "One, two connection Tesla charger.  Easily got a full charge while I slept.  Nice hotel with reasonable rates too!  Convenient to I-64 and I-265.",
+   "rating": 1,
+   "volts": 0,
+   "user": {
+    "last_name": "",
+    "hide_address": false,
+    "charger_type": 0,
+    "country_code": "US",
+    "language_code": "en",
+    "allow_promo_email": false,
+    "id": 482408,
+    "notify_nearby": 0,
+    "first_name": "dland007",
+    "last_login": "2019-07-26T20:53:47Z",
+    "allow_notifications": null,
+    "vehicle_description": "",
+    "phone": "",
+    "e164_phone_number": "",
+    "hide_phone": false,
+    "vehicle_type": 4,
+    "about": "Father, grandfather, Engineer, photographer, musician...Tesla owner",
+    "notify_nearby_radius": 0,
+    "receive_grid_alerts": 0,
+    "created_at": "2019-03-09T11:10:52Z",
+    "photos": [],
+    "formatted_phone_number": ""
+   },
+   "vehicle_name": "Tesla Model S",
+   "vehicle_type": 4,
+   "id": 1586731,
+   "kilowatts": null,
+   "created_at": "2019-03-12T11:04:39Z",
+   "waiting": false,
+   "amps": 0,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/8319_cc0640_032_EVOX01.png"
+  },
+  {
    "comment": "",
    "rating": 1,
-   "connector_type": 2,
    "volts": null,
-   "created_at": "2018-12-28T17:59:19Z",
    "finished": "2018-12-28T18:55:59Z",
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -97,8 +171,7 @@
     "id": 447629,
     "notify_nearby": 0,
     "first_name": "dcb0284",
-    "vehicle_color": 1,
-    "last_login": "2019-02-10T14:45:11Z",
+    "last_login": "2019-07-29T15:40:42Z",
     "allow_notifications": null,
     "vehicle_description": "",
     "phone": "",
@@ -110,21 +183,23 @@
     "receive_grid_alerts": 0,
     "created_at": "2018-12-28T17:58:05Z",
     "photos": [],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 0
+    "formatted_phone_number": ""
    },
-   "amps": null,
+   "vehicle_name": "Chrysler Pacifica Hybrid",
    "vehicle_type": 66,
-   "id": 1468798
+   "id": 1468798,
+   "kilowatts": null,
+   "created_at": "2018-12-28T17:59:19Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/12019_cc0640_032_PAU.png"
   },
   {
    "comment": "Chilling! ... Sort of literally. 😝",
    "rating": 1,
-   "connector_type": 6,
    "volts": 210,
-   "created_at": "2018-11-27T17:07:30Z",
    "finished": "2018-11-27T19:03:01Z",
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -135,8 +210,7 @@
     "id": 127157,
     "notify_nearby": 0,
     "first_name": "Logan",
-    "vehicle_color": 17,
-    "last_login": "2019-02-04T15:51:16Z",
+    "last_login": "2019-08-07T14:29:21Z",
     "allow_notifications": null,
     "vehicle_description": "",
     "phone": "2605702767",
@@ -159,20 +233,23 @@
       "id": 237422
      }
     ],
-    "formatted_phone_number": "+1 260-570-2767",
-    "vehicle_subtype": 14
+    "formatted_phone_number": "+1 260-570-2767"
    },
-   "amps": 40,
+   "vehicle_name": "Tesla Model S",
    "vehicle_type": 4,
-   "id": 1421406
+   "id": 1421406,
+   "kilowatts": 8,
+   "created_at": "2018-11-27T17:07:30Z",
+   "connector_type": 6,
+   "waiting": false,
+   "amps": 40,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/8319_cc0640_032_EVOX01.png"
   },
   {
    "comment": "",
    "rating": 1,
    "volts": 240,
-   "created_at": "2018-11-13T05:31:10Z",
    "finished": "2018-11-13T06:31:10Z",
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -183,8 +260,7 @@
     "id": 422000,
     "notify_nearby": 0,
     "first_name": "tcpriem",
-    "vehicle_color": 9,
-    "last_login": "2018-12-28T13:59:27Z",
+    "last_login": "2019-08-10T18:26:50Z",
     "allow_notifications": null,
     "vehicle_description": "",
     "phone": "",
@@ -196,21 +272,22 @@
     "receive_grid_alerts": 0,
     "created_at": "2018-11-07T13:10:54Z",
     "photos": [],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 5
+    "formatted_phone_number": ""
    },
-   "amps": 40,
+   "vehicle_name": "Tesla Model S",
    "vehicle_type": 4,
-   "id": 1399286
+   "id": 1399286,
+   "kilowatts": 9,
+   "created_at": "2018-11-13T05:31:10Z",
+   "waiting": false,
+   "amps": 40,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/8319_cc0640_032_EVOX01.png"
   },
   {
    "comment": "",
    "rating": 1,
-   "connector_type": 2,
    "volts": 0,
-   "created_at": "2018-09-26T21:28:27Z",
    "finished": "2018-09-27T00:28:26Z",
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -221,8 +298,7 @@
     "id": 102440,
     "notify_nearby": 0,
     "first_name": "Wrensey",
-    "vehicle_color": 7,
-    "last_login": "2019-02-21T13:30:23Z",
+    "last_login": "2019-08-12T11:03:00Z",
     "allow_notifications": null,
     "vehicle_description": "2015 SL, 6.6 kW charger, Quick charge port ",
     "phone": "8593618060",
@@ -234,21 +310,23 @@
     "receive_grid_alerts": 0,
     "created_at": "2015-03-27T15:43:32Z",
     "photos": [],
-    "formatted_phone_number": "+1 859-361-8060",
-    "vehicle_subtype": 2
+    "formatted_phone_number": "+1 859-361-8060"
    },
-   "amps": 0,
+   "vehicle_name": "Nissan LEAF",
    "vehicle_type": 1,
-   "id": 1327722
+   "id": 1327722,
+   "kilowatts": null,
+   "created_at": "2018-09-26T21:28:27Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": 0,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/7399_cc0640_032_QX1.png"
   },
   {
    "comment": "",
    "rating": 1,
-   "connector_type": 2,
    "volts": 0,
-   "created_at": "2018-09-24T20:53:47Z",
    "finished": "2018-09-24T23:53:46Z",
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -259,8 +337,7 @@
     "id": 102440,
     "notify_nearby": 0,
     "first_name": "Wrensey",
-    "vehicle_color": 7,
-    "last_login": "2019-02-21T13:30:23Z",
+    "last_login": "2019-08-12T11:03:00Z",
     "allow_notifications": null,
     "vehicle_description": "2015 SL, 6.6 kW charger, Quick charge port ",
     "phone": "8593618060",
@@ -272,21 +349,23 @@
     "receive_grid_alerts": 0,
     "created_at": "2015-03-27T15:43:32Z",
     "photos": [],
-    "formatted_phone_number": "+1 859-361-8060",
-    "vehicle_subtype": 2
+    "formatted_phone_number": "+1 859-361-8060"
    },
-   "amps": 0,
+   "vehicle_name": "Nissan LEAF",
    "vehicle_type": 1,
-   "id": 1325113
-  },
-  {
-   "comment": "",
-   "rating": 1,
+   "id": 1325113,
+   "kilowatts": null,
+   "created_at": "2018-09-24T20:53:47Z",
    "connector_type": 2,
-   "volts": 0,
-   "created_at": "2018-09-24T00:31:12Z",
-   "finished": "2018-09-24T04:31:11Z",
    "waiting": false,
+   "amps": 0,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/7399_cc0640_032_QX1.png"
+  },
+  {
+   "comment": "",
+   "rating": 1,
+   "volts": 0,
+   "finished": "2018-09-24T04:31:11Z",
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -297,8 +376,7 @@
     "id": 102440,
     "notify_nearby": 0,
     "first_name": "Wrensey",
-    "vehicle_color": 7,
-    "last_login": "2019-02-21T13:30:23Z",
+    "last_login": "2019-08-12T11:03:00Z",
     "allow_notifications": null,
     "vehicle_description": "2015 SL, 6.6 kW charger, Quick charge port ",
     "phone": "8593618060",
@@ -310,20 +388,23 @@
     "receive_grid_alerts": 0,
     "created_at": "2015-03-27T15:43:32Z",
     "photos": [],
-    "formatted_phone_number": "+1 859-361-8060",
-    "vehicle_subtype": 2
+    "formatted_phone_number": "+1 859-361-8060"
    },
-   "amps": 0,
+   "vehicle_name": "Nissan LEAF",
    "vehicle_type": 1,
-   "id": 1324000
+   "id": 1324000,
+   "kilowatts": null,
+   "created_at": "2018-09-24T00:31:12Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": 0,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/7399_cc0640_032_QX1.png"
   },
   {
    "comment": "",
    "rating": 1,
    "volts": 0,
-   "created_at": "2018-05-24T12:52:06Z",
    "finished": "2018-05-24T16:52:05Z",
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": true,
@@ -334,8 +415,7 @@
     "id": 134123,
     "notify_nearby": 0,
     "first_name": "Scott B.",
-    "vehicle_color": 1,
-    "last_login": "2019-02-15T18:40:10Z",
+    "last_login": "2019-07-24T16:20:38Z",
     "allow_notifications": null,
     "vehicle_description": "2013 SV",
     "phone": "",
@@ -347,21 +427,22 @@
     "receive_grid_alerts": 0,
     "created_at": "2015-11-05T22:49:48Z",
     "photos": [],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 1
+    "formatted_phone_number": ""
    },
-   "amps": 0,
+   "vehicle_name": "Nissan LEAF",
    "vehicle_type": 1,
-   "id": 1139216
+   "id": 1139216,
+   "kilowatts": null,
+   "created_at": "2018-05-24T12:52:06Z",
+   "waiting": false,
+   "amps": 0,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/7399_cc0640_032_QX1.png"
   },
   {
    "comment": "",
    "rating": 1,
-   "connector_type": 2,
    "volts": 0,
-   "created_at": "2018-05-01T22:27:35Z",
    "finished": "2018-05-02T01:27:34Z",
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -372,8 +453,7 @@
     "id": 275396,
     "notify_nearby": 1,
     "first_name": "Dmytriy Lyakhovets",
-    "vehicle_color": 7,
-    "last_login": "2019-02-19T01:43:20Z",
+    "last_login": "2019-08-01T00:25:09Z",
     "allow_notifications": null,
     "vehicle_description": "",
     "phone": "",
@@ -385,21 +465,23 @@
     "receive_grid_alerts": 0,
     "created_at": "2017-09-23T20:59:24Z",
     "photos": [],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 0
+    "formatted_phone_number": ""
    },
-   "amps": 0,
+   "vehicle_name": "Chevrolet Volt",
    "vehicle_type": 2,
-   "id": 1111513
+   "id": 1111513,
+   "kilowatts": null,
+   "created_at": "2018-05-01T22:27:35Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": 0,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/7411_cc0640_032_GAN.png"
   },
   {
    "comment": "",
    "rating": 1,
-   "connector_type": 2,
    "volts": 0,
-   "created_at": "2018-03-20T22:54:03Z",
    "finished": "2018-03-21T01:24:02Z",
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -410,8 +492,7 @@
     "id": 275396,
     "notify_nearby": 1,
     "first_name": "Dmytriy Lyakhovets",
-    "vehicle_color": 7,
-    "last_login": "2019-02-19T01:43:20Z",
+    "last_login": "2019-08-01T00:25:09Z",
     "allow_notifications": null,
     "vehicle_description": "",
     "phone": "",
@@ -423,21 +504,23 @@
     "receive_grid_alerts": 0,
     "created_at": "2017-09-23T20:59:24Z",
     "photos": [],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 0
+    "formatted_phone_number": ""
    },
-   "amps": 0,
+   "vehicle_name": "Chevrolet Volt",
    "vehicle_type": 2,
-   "id": 1060562
+   "id": 1060562,
+   "kilowatts": null,
+   "created_at": "2018-03-20T22:54:03Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": 0,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/7411_cc0640_032_GAN.png"
   },
   {
    "comment": "",
    "rating": 1,
-   "connector_type": 2,
    "volts": 0,
-   "created_at": "2018-02-24T22:35:07Z",
    "finished": "2018-02-24T23:35:06Z",
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -448,8 +531,7 @@
     "id": 102440,
     "notify_nearby": 0,
     "first_name": "Wrensey",
-    "vehicle_color": 7,
-    "last_login": "2019-02-21T13:30:23Z",
+    "last_login": "2019-08-12T11:03:00Z",
     "allow_notifications": null,
     "vehicle_description": "2015 SL, 6.6 kW charger, Quick charge port ",
     "phone": "8593618060",
@@ -461,21 +543,23 @@
     "receive_grid_alerts": 0,
     "created_at": "2015-03-27T15:43:32Z",
     "photos": [],
-    "formatted_phone_number": "+1 859-361-8060",
-    "vehicle_subtype": 2
+    "formatted_phone_number": "+1 859-361-8060"
    },
-   "amps": 0,
+   "vehicle_name": "Nissan LEAF",
    "vehicle_type": 1,
-   "id": 1033724
+   "id": 1033724,
+   "kilowatts": null,
+   "created_at": "2018-02-24T22:35:07Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": 0,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/7399_cc0640_032_QX1.png"
   },
   {
    "comment": "25 mi/hr for a Tesla in 35° F temps.  Thanks for the overnight charge.",
    "rating": 1,
-   "connector_type": 6,
    "volts": 212,
-   "created_at": "2018-02-18T03:47:06Z",
    "finished": "2018-02-18T11:47:06Z",
-   "waiting": false,
    "user": {
     "last_name": "Schilberg",
     "hide_address": true,
@@ -486,8 +570,7 @@
     "id": 104774,
     "notify_nearby": 1,
     "first_name": "Darren",
-    "vehicle_color": 9,
-    "last_login": "2019-02-17T07:52:24Z",
+    "last_login": "2019-08-12T16:48:25Z",
     "allow_notifications": null,
     "vehicle_description": "90D",
     "phone": "",
@@ -530,18 +613,23 @@
       "id": 79476
      }
     ],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 10
+    "formatted_phone_number": ""
    },
-   "amps": 40,
+   "vehicle_name": "Tesla Model S",
    "vehicle_type": 4,
-   "id": 1026135
+   "id": 1026135,
+   "kilowatts": 8,
+   "created_at": "2018-02-18T03:47:06Z",
+   "connector_type": 6,
+   "waiting": false,
+   "amps": 40,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/8319_cc0640_032_EVOX01.png"
   }
  ],
  "under_repair": false,
  "poi_name": "Hotel/Lodging",
  "locale": "US",
- "updated_at": "2018-12-28T17:59:19Z",
+ "updated_at": "2019-05-14T19:42:20Z",
  "cost": false,
  "pwps_version": null,
  "id": 138454,
@@ -741,7 +829,7 @@
    "available_changed_at": null
   }
  ],
- "url": "http://api.plugshare.com/view/location/138454",
+ "url": "https://www.plugshare.com/location/138454",
  "created_at": "2017-12-19T18:24:15Z",
  "promos": [],
  "photos": [
@@ -757,5 +845,6 @@
   }
  ],
  "formatted_phone_number": "",
- "coming_soon": null
+ "coming_soon": null,
+ "total_reviews": 13
 }

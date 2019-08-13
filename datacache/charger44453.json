@@ -46,11 +46,7 @@
  "open247": false,
  "valid_outlets": [
   {
-   "connector": 1,
-   "power": 0
-  },
-  {
-   "connector": 2,
+   "connector": 13,
    "power": 0
   },
   {
@@ -58,11 +54,7 @@
    "power": 0
   },
   {
-   "connector": 13,
-   "power": 0
-  },
-  {
-   "connector": 4,
+   "connector": 2,
    "power": 0
   },
   {
@@ -70,28 +62,71 @@
    "power": 0
   },
   {
+   "connector": 4,
+   "power": 0
+  },
+  {
    "connector": 5,
+   "power": 0
+  },
+  {
+   "connector": 1,
    "power": 0
   }
  ],
  "phone": "5024425260",
  "e164_phone_number": "+15024425260",
+ "total_photos": 2,
  "locked": false,
- "title_description": "DMB Transport - Free Electric Car Charging - 6 Check-ins 2 Photos - 5500 Poplar Level Road, Louisville, KY 40228, USA - US - Workplace Public - PlugShare",
+ "title_description": "DMB Transport - Free Electric Car Charging - 7 Check-ins 2 Photos - 5500 Poplar Level Road, Louisville, KY 40228, USA - US - Workplace Public - PlugShare",
  "name": "DMB Transport",
  "icon_type": "G",
  "enabled": true,
  "longitude": -85.658501,
  "reviews": [
   {
+   "comment": "Folks here very cool. As good as their word. They have to let you in But I was able to wait in their office. I only get 16 A (3.33 kW) but yesterday afternoon went from 18 EV miles to about 56 from 3p to 6p. Lady in office was more than happy for me to come back today for max charge before going back to the mid-South. Thank you guys.",
+   "rating": 1,
+   "volts": 0,
+   "user": {
+    "last_name": "",
+    "hide_address": false,
+    "charger_type": 0,
+    "country_code": "US",
+    "language_code": "en",
+    "allow_promo_email": true,
+    "id": 544866,
+    "notify_nearby": 0,
+    "first_name": "skyguy63",
+    "last_login": "2019-08-03T06:25:49Z",
+    "allow_notifications": null,
+    "vehicle_description": "",
+    "phone": "",
+    "e164_phone_number": "",
+    "hide_phone": false,
+    "vehicle_type": 54,
+    "about": "",
+    "notify_nearby_radius": 0,
+    "receive_grid_alerts": 0,
+    "created_at": "2019-05-30T12:48:18Z",
+    "photos": [],
+    "formatted_phone_number": ""
+   },
+   "vehicle_name": "Chevrolet Volt Gen2",
+   "vehicle_type": 54,
+   "id": 1746474,
+   "kilowatts": null,
+   "created_at": "2019-06-07T04:58:08Z",
+   "waiting": false,
+   "amps": 0,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/10780_cc0640_032_GA6.png"
+  },
+  {
    "comment": "Great service. Ed is super nice!",
    "rating": 1,
-   "connector_type": 2,
    "volts": null,
-   "created_at": "2016-11-10T21:49:52Z",
-   "finished": "2016-11-10T22:49:52Z",
    "station_id": 62330,
-   "waiting": false,
+   "finished": "2016-11-10T22:49:52Z",
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -102,7 +137,6 @@
     "id": 64778,
     "notify_nearby": 0,
     "first_name": "Sharon Deegan",
-    "vehicle_color": 12,
     "last_login": "2016-11-10T21:49:52Z",
     "allow_notifications": null,
     "vehicle_description": "",
@@ -115,21 +149,24 @@
     "receive_grid_alerts": 0,
     "created_at": "2014-05-19T22:00:19Z",
     "photos": [],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 0
+    "formatted_phone_number": ""
    },
-   "amps": null,
+   "vehicle_name": "Smart ED",
    "vehicle_type": 16,
+   "id": 589210,
+   "kilowatts": null,
+   "created_at": "2016-11-10T21:49:52Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
    "outlet_id": 149578,
-   "id": 589210
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/9640_cc0640_032_ECA.png"
   },
   {
    "comment": "",
    "rating": 1,
    "volts": 0,
-   "created_at": "2015-04-10T15:23:26Z",
    "finished": "2015-04-10T19:24:21Z",
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -140,8 +177,7 @@
     "id": 102440,
     "notify_nearby": 0,
     "first_name": "Wrensey",
-    "vehicle_color": 7,
-    "last_login": "2019-02-21T13:30:23Z",
+    "last_login": "2019-08-12T11:03:00Z",
     "allow_notifications": null,
     "vehicle_description": "2015 SL, 6.6 kW charger, Quick charge port ",
     "phone": "8593618060",
@@ -153,21 +189,22 @@
     "receive_grid_alerts": 0,
     "created_at": "2015-03-27T15:43:32Z",
     "photos": [],
-    "formatted_phone_number": "+1 859-361-8060",
-    "vehicle_subtype": 2
+    "formatted_phone_number": "+1 859-361-8060"
    },
-   "amps": 0,
+   "vehicle_name": "Nissan LEAF",
    "vehicle_type": 1,
-   "id": 220409
+   "id": 220409,
+   "kilowatts": null,
+   "created_at": "2015-04-10T15:23:26Z",
+   "waiting": false,
+   "amps": 0,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/7399_cc0640_032_QX1.png"
   },
   {
    "comment": "48 amp. Very nice people (ask for Ed). Behind a gate after hours but if you call ahead they will give you the code to get in. ",
    "rating": 1,
-   "connector_type": 2,
    "volts": null,
-   "created_at": "2014-06-20T18:41:04Z",
    "finished": "2014-06-20T21:41:21Z",
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": true,
@@ -178,8 +215,7 @@
     "id": 59446,
     "notify_nearby": 0,
     "first_name": "Indy Red",
-    "vehicle_color": 9,
-    "last_login": "2019-02-03T13:45:37Z",
+    "last_login": "2019-08-03T00:02:41Z",
     "allow_notifications": null,
     "vehicle_description": "",
     "phone": "",
@@ -191,20 +227,23 @@
     "receive_grid_alerts": 0,
     "created_at": "2014-03-30T17:32:45Z",
     "photos": [],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 5
+    "formatted_phone_number": ""
    },
-   "amps": null,
+   "vehicle_name": "Tesla Model S",
    "vehicle_type": 4,
-   "id": 117849
+   "id": 117849,
+   "kilowatts": null,
+   "created_at": "2014-06-20T18:41:04Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/8319_cc0640_032_EVOX01.png"
   },
   {
    "comment": "",
    "rating": 1,
    "volts": null,
-   "created_at": "2014-04-10T19:53:07Z",
    "finished": "2014-04-10T20:23:02Z",
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": true,
@@ -215,19 +254,28 @@
     "id": 14864,
     "notify_nearby": 1,
     "first_name": "Austin",
-    "vehicle_color": 3,
-    "last_login": "2019-02-21T22:14:21Z",
+    "last_login": "2019-08-12T13:43:48Z",
     "allow_notifications": null,
     "vehicle_description": "Awesome gateway electric car! ;-)",
     "phone": "",
     "e164_phone_number": "",
     "hide_phone": true,
-    "vehicle_type": 23,
+    "vehicle_type": 75,
     "about": "Ready for the Model 3!",
     "notify_nearby_radius": 16000,
     "receive_grid_alerts": 0,
     "created_at": "2013-04-15T15:33:57Z",
     "photos": [
+     {
+      "user_id": 14864,
+      "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/400667.jpg",
+      "created_at": "2019-03-28T10:58:55Z",
+      "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/400667.png",
+      "caption": "",
+      "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/400667.png",
+      "order": 0,
+      "id": 400667
+     },
      {
       "user_id": 14864,
       "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/281261.jpg",
@@ -249,19 +297,21 @@
       "id": 9823
      }
     ],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 0
+    "formatted_phone_number": ""
    },
-   "amps": null,
+   "vehicle_name": "Ford Fusion Energi",
    "vehicle_type": 13,
-   "id": 96305
+   "id": 96305,
+   "kilowatts": null,
+   "created_at": "2014-04-10T19:53:07Z",
+   "waiting": false,
+   "amps": null,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/9787_cc0640_032_UH.png"
   },
   {
    "comment": "",
    "rating": 1,
    "volts": null,
-   "created_at": "2014-04-03T19:49:29Z",
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -272,32 +322,32 @@
     "id": 57518,
     "notify_nearby": 0,
     "first_name": "Dewey Warren",
-    "vehicle_color": 2,
-    "last_login": "2019-02-11T21:36:07Z",
+    "last_login": "2019-08-03T13:30:24Z",
     "allow_notifications": null,
     "vehicle_description": "2014 Nissan Leaf S",
     "phone": "",
     "e164_phone_number": "",
     "hide_phone": false,
-    "vehicle_type": 4,
+    "vehicle_type": 75,
     "about": "",
     "notify_nearby_radius": 0,
     "receive_grid_alerts": 0,
     "created_at": "2014-03-13T01:47:48Z",
     "photos": [],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 16
+    "formatted_phone_number": ""
    },
-   "amps": null,
+   "vehicle_name": "Nissan LEAF",
    "vehicle_type": 1,
-   "id": 94666
+   "id": 94666,
+   "kilowatts": null,
+   "created_at": "2014-04-03T19:49:29Z",
+   "waiting": false,
+   "amps": null,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/7399_cc0640_032_QX1.png"
   },
   {
    "comment": "",
    "rating": 1,
-   "volts": null,
-   "created_at": "2014-03-13T03:55:31Z",
-   "finished": "2014-03-13T03:56:42Z",
    "waiting": false,
    "user": {
     "last_name": "",
@@ -309,7 +359,6 @@
     "id": 57531,
     "notify_nearby": 0,
     "first_name": "Melissa",
-    "vehicle_color": 0,
     "last_login": "2014-03-13T03:49:06Z",
     "allow_notifications": null,
     "vehicle_description": "",
@@ -322,17 +371,20 @@
     "receive_grid_alerts": 0,
     "created_at": "2014-03-13T03:48:03Z",
     "photos": [],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 0
+    "formatted_phone_number": ""
    },
+   "volts": null,
    "amps": null,
+   "created_at": "2014-03-13T03:55:31Z",
+   "kilowatts": null,
+   "finished": "2014-03-13T03:56:42Z",
    "id": 87955
   }
  ],
  "under_repair": false,
  "poi_name": "Workplace Public",
  "locale": "US",
- "updated_at": "2019-02-11T21:41:13Z",
+ "updated_at": "2019-06-07T04:58:08Z",
  "cost": false,
  "pwps_version": null,
  "id": 44453,
@@ -404,7 +456,7 @@
    "available_changed_at": null
   }
  ],
- "url": "http://api.plugshare.com/view/location/44453",
+ "url": "https://www.plugshare.com/location/44453",
  "created_at": "2014-03-13T02:07:42Z",
  "promos": [],
  "photos": [
@@ -430,5 +482,6 @@
   }
  ],
  "formatted_phone_number": "+1 502-442-5260",
- "coming_soon": null
+ "coming_soon": null,
+ "total_reviews": 7
 }

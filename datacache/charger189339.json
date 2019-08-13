@@ -1,0 +1,412 @@
+{
+ "reverse_geocoded_address_components": {
+  "postal_code": "40204",
+  "country_code": "US",
+  "street_number": "900",
+  "locality": "Louisville",
+  "sublocality_1": null,
+  "route": "E Kentucky St",
+  "sublocality_2": null,
+  "administrative_area_2": "Jefferson County",
+  "administrative_area_3": null,
+  "sublocality_3": null,
+  "administrative_area_1": "KY"
+ },
+ "opening_date": "None",
+ "nissan_nctc": false,
+ "payment_enabled": null,
+ "reverse_geocoded_address": "900 E Kentucky St, Louisville, KY 40204, USA",
+ "amenities": [
+  {
+   "location_id": 189339,
+   "type": 8
+  },
+  {
+   "location_id": 189339,
+   "type": 9
+  },
+  {
+   "location_id": 189339,
+   "type": 2
+  }
+ ],
+ "latitude": 38.235672,
+ "open247": true,
+ "valid_outlets": [
+  {
+   "connector": 13,
+   "power": 0
+  },
+  {
+   "connector": 3,
+   "power": 0
+  },
+  {
+   "connector": 2,
+   "power": 0
+  },
+  {
+   "connector": 6,
+   "power": 0
+  },
+  {
+   "connector": 4,
+   "power": 0
+  },
+  {
+   "connector": 5,
+   "power": 0
+  },
+  {
+   "connector": 1,
+   "power": 0
+  }
+ ],
+ "phone": "",
+ "e164_phone_number": "",
+ "total_photos": 1,
+ "locked": false,
+ "title_description": "Logan Street Market - Free Electric Car Charging - 5 Check-ins 1 Photos - 1001 Logan St, Louisville, KY  40204, United States - US - PlugShare",
+ "name": "Logan Street Market",
+ "icon_type": "G",
+ "enabled": true,
+ "longitude": -85.739157,
+ "reviews": [
+  {
+   "comment": "",
+   "rating": 1,
+   "volts": null,
+   "station_id": 395629,
+   "finished": "2019-08-11T16:24:56Z",
+   "user": {
+    "last_name": "",
+    "hide_address": false,
+    "charger_type": 0,
+    "country_code": "US",
+    "language_code": null,
+    "allow_promo_email": false,
+    "id": 81997,
+    "notify_nearby": 0,
+    "first_name": "Stuart’s LEAF ",
+    "last_login": "2019-08-12T19:52:25Z",
+    "allow_notifications": null,
+    "vehicle_description": "2011 Leaf SL -- Ocean Blue",
+    "phone": "5024265376",
+    "e164_phone_number": "+15024265376",
+    "hide_phone": false,
+    "vehicle_type": 1,
+    "about": "President of EVolve KY, Kentucky’s electric vehicle organization. Group meets monthly. Visit our website at www.evolveky.org or call me for more information. ",
+    "notify_nearby_radius": 0,
+    "receive_grid_alerts": 0,
+    "created_at": "2014-10-05T21:52:21Z",
+    "photos": [
+     {
+      "user_id": 81997,
+      "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/62035.jpg",
+      "created_at": "2014-10-05T22:14:34Z",
+      "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/62035.png",
+      "caption": "",
+      "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/62035.png",
+      "order": 0,
+      "id": 62035
+     }
+    ],
+    "formatted_phone_number": "+1 502-426-5376"
+   },
+   "vehicle_name": "Nissan LEAF",
+   "vehicle_type": 1,
+   "id": 1900258,
+   "kilowatts": null,
+   "created_at": "2019-08-11T15:24:55Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/7399_cc0640_032_QX1.png"
+  },
+  {
+   "comment": "",
+   "rating": 1,
+   "volts": null,
+   "station_id": 395629,
+   "finished": "2019-08-07T11:25:26Z",
+   "user": {
+    "last_name": "",
+    "hide_address": false,
+    "charger_type": 0,
+    "country_code": "US",
+    "language_code": null,
+    "allow_promo_email": false,
+    "id": 102440,
+    "notify_nearby": 0,
+    "first_name": "Wrensey",
+    "last_login": "2019-08-12T11:03:00Z",
+    "allow_notifications": null,
+    "vehicle_description": "2015 SL, 6.6 kW charger, Quick charge port ",
+    "phone": "8593618060",
+    "e164_phone_number": "",
+    "hide_phone": false,
+    "vehicle_type": 1,
+    "about": "EVolve KY (EAA group) Lexington member.",
+    "notify_nearby_radius": 16000,
+    "receive_grid_alerts": 0,
+    "created_at": "2015-03-27T15:43:32Z",
+    "photos": [],
+    "formatted_phone_number": "+1 859-361-8060"
+   },
+   "vehicle_name": "Nissan LEAF",
+   "vehicle_type": 1,
+   "id": 1889147,
+   "kilowatts": 0,
+   "created_at": "2019-08-07T11:24:24Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/7399_cc0640_032_QX1.png"
+  },
+  {
+   "comment": "",
+   "rating": 1,
+   "volts": null,
+   "station_id": 395629,
+   "finished": "2019-05-02T19:55:42Z",
+   "user": {
+    "last_name": "",
+    "hide_address": false,
+    "charger_type": 0,
+    "country_code": "US",
+    "language_code": null,
+    "allow_promo_email": false,
+    "id": 81997,
+    "notify_nearby": 0,
+    "first_name": "Stuart’s LEAF ",
+    "last_login": "2019-08-12T19:52:25Z",
+    "allow_notifications": null,
+    "vehicle_description": "2011 Leaf SL -- Ocean Blue",
+    "phone": "5024265376",
+    "e164_phone_number": "+15024265376",
+    "hide_phone": false,
+    "vehicle_type": 1,
+    "about": "President of EVolve KY, Kentucky’s electric vehicle organization. Group meets monthly. Visit our website at www.evolveky.org or call me for more information. ",
+    "notify_nearby_radius": 0,
+    "receive_grid_alerts": 0,
+    "created_at": "2014-10-05T21:52:21Z",
+    "photos": [
+     {
+      "user_id": 81997,
+      "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/62035.jpg",
+      "created_at": "2014-10-05T22:14:34Z",
+      "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/62035.png",
+      "caption": "",
+      "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/62035.png",
+      "order": 0,
+      "id": 62035
+     }
+    ],
+    "formatted_phone_number": "+1 502-426-5376"
+   },
+   "vehicle_name": "Nissan LEAF",
+   "vehicle_type": 1,
+   "id": 1677638,
+   "kilowatts": null,
+   "created_at": "2019-05-02T19:40:42Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/7399_cc0640_032_QX1.png"
+  },
+  {
+   "comment": "",
+   "rating": 1,
+   "volts": null,
+   "station_id": 395629,
+   "finished": "2019-05-02T19:39:49Z",
+   "user": {
+    "last_name": "",
+    "hide_address": false,
+    "charger_type": 0,
+    "country_code": "US",
+    "language_code": null,
+    "allow_promo_email": false,
+    "id": 81997,
+    "notify_nearby": 0,
+    "first_name": "Stuart’s LEAF ",
+    "last_login": "2019-08-12T19:52:25Z",
+    "allow_notifications": null,
+    "vehicle_description": "2011 Leaf SL -- Ocean Blue",
+    "phone": "5024265376",
+    "e164_phone_number": "+15024265376",
+    "hide_phone": false,
+    "vehicle_type": 1,
+    "about": "President of EVolve KY, Kentucky’s electric vehicle organization. Group meets monthly. Visit our website at www.evolveky.org or call me for more information. ",
+    "notify_nearby_radius": 0,
+    "receive_grid_alerts": 0,
+    "created_at": "2014-10-05T21:52:21Z",
+    "photos": [
+     {
+      "user_id": 81997,
+      "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/62035.jpg",
+      "created_at": "2014-10-05T22:14:34Z",
+      "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/62035.png",
+      "caption": "",
+      "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/62035.png",
+      "order": 0,
+      "id": 62035
+     }
+    ],
+    "formatted_phone_number": "+1 502-426-5376"
+   },
+   "vehicle_name": "Chevrolet Bolt EV",
+   "vehicle_type": 63,
+   "id": 1677634,
+   "kilowatts": null,
+   "created_at": "2019-05-02T19:39:22Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/13022_cc0640_032_G7Q.png"
+  },
+  {
+   "comment": "Station now active. Across the street is parking lot. Chargers in back corner. Signage still needs to go up. ",
+   "rating": 0,
+   "volts": null,
+   "station_id": 395629,
+   "user": {
+    "last_name": "",
+    "hide_address": false,
+    "charger_type": 0,
+    "country_code": "US",
+    "language_code": null,
+    "allow_promo_email": false,
+    "id": 81997,
+    "notify_nearby": 0,
+    "first_name": "Stuart’s LEAF ",
+    "last_login": "2019-08-12T19:52:25Z",
+    "allow_notifications": null,
+    "vehicle_description": "2011 Leaf SL -- Ocean Blue",
+    "phone": "5024265376",
+    "e164_phone_number": "+15024265376",
+    "hide_phone": false,
+    "vehicle_type": 1,
+    "about": "President of EVolve KY, Kentucky’s electric vehicle organization. Group meets monthly. Visit our website at www.evolveky.org or call me for more information. ",
+    "notify_nearby_radius": 0,
+    "receive_grid_alerts": 0,
+    "created_at": "2014-10-05T21:52:21Z",
+    "photos": [
+     {
+      "user_id": 81997,
+      "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/62035.jpg",
+      "created_at": "2014-10-05T22:14:34Z",
+      "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/62035.png",
+      "caption": "",
+      "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/62035.png",
+      "order": 0,
+      "id": 62035
+     }
+    ],
+    "formatted_phone_number": "+1 502-426-5376"
+   },
+   "vehicle_name": "Chevrolet Bolt EV",
+   "vehicle_type": 63,
+   "id": 1677632,
+   "kilowatts": null,
+   "created_at": "2019-05-02T19:38:19Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/13022_cc0640_032_G7Q.png"
+  }
+ ],
+ "under_repair": false,
+ "poi_name": null,
+ "locale": "US",
+ "updated_at": "2019-08-11T15:24:55Z",
+ "cost": false,
+ "pwps_version": null,
+ "id": 189339,
+ "datasources": [],
+ "cost_description": "",
+ "access": 1,
+ "score": 9,
+ "description": "Evolve KY dual station for Logan Street Market and other community businesses. www.evolveky.org",
+ "custom_ports": "",
+ "confidence": 0,
+ "hours": "",
+ "all_promos": [],
+ "address": "1001 Logan St, Louisville, KY  40204, United States",
+ "parking_type_name": null,
+ "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png",
+ "stations": [
+  {
+   "volts": null,
+   "network_ext_id": null,
+   "qr_enabled": null,
+   "cost": 0,
+   "pwps_version": null,
+   "location_id": 189339,
+   "id": 395629,
+   "cost_description": "Unknown",
+   "pre_charge_instructions": null,
+   "nissan_nctc": false,
+   "payment_enabled": null,
+   "available": 0,
+   "outlets": [
+    {
+     "available": 0,
+     "description": null,
+     "power": 0,
+     "volts": null,
+     "id": 696045,
+     "watts": null,
+     "connector": 2,
+     "connector_type": 2,
+     "amps": null,
+     "available_changed_at": null,
+     "outlet_index": null
+    },
+    {
+     "available": 0,
+     "description": null,
+     "power": 0,
+     "volts": null,
+     "id": 696044,
+     "watts": null,
+     "connector": 2,
+     "connector_type": 2,
+     "amps": null,
+     "available_changed_at": null,
+     "outlet_index": null
+    }
+   ],
+   "hours": "",
+   "promos": [],
+   "ocpp_version": null,
+   "kilowatts": null,
+   "requiresAccessCard": false,
+   "manufacturer": "",
+   "name": null,
+   "network_id": null,
+   "created_at": "2019-05-02T19:35:16Z",
+   "amps": null,
+   "model": "",
+   "available_changed_at": null
+  }
+ ],
+ "url": "https://www.plugshare.com/location/189339",
+ "created_at": "2019-05-02T19:35:16Z",
+ "promos": [],
+ "photos": [
+  {
+   "user_id": 81997,
+   "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/413925.jpg",
+   "created_at": "2019-05-02T19:36:23Z",
+   "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/413925.png",
+   "caption": "Station now active. Signage still needs to go up.",
+   "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/413925.png",
+   "order": 0,
+   "id": 413925
+  }
+ ],
+ "formatted_phone_number": "",
+ "coming_soon": false,
+ "total_reviews": 5
+}

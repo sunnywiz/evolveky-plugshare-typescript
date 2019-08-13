@@ -46,11 +46,7 @@
  "open247": false,
  "valid_outlets": [
   {
-   "connector": 1,
-   "power": 0
-  },
-  {
-   "connector": 2,
+   "connector": 13,
    "power": 0
   },
   {
@@ -58,11 +54,7 @@
    "power": 0
   },
   {
-   "connector": 13,
-   "power": 0
-  },
-  {
-   "connector": 4,
+   "connector": 2,
    "power": 0
   },
   {
@@ -70,16 +62,85 @@
    "power": 0
   },
   {
+   "connector": 4,
+   "power": 0
+  },
+  {
    "connector": 5,
+   "power": 0
+  },
+  {
+   "connector": 1,
    "power": 0
   }
  ],
  "phone": "8122824303",
  "e164_phone_number": "+18122824303",
+ "total_photos": 3,
  "locked": false,
- "title_description": "First Harrison Bank - Electric Car Charging -  3 Photos - 7735 IN-62, Charlestown, IN 47111 - US - Bank - PlugShare",
+ "title_description": "First Harrison Bank - Electric Car Charging - 1 Check-ins 3 Photos - 7735 IN-62, Charlestown, IN 47111 - US - Bank - PlugShare",
  "name": "First Harrison Bank",
  "icon_type": "G",
+ "enabled": true,
+ "longitude": -85.681633,
+ "reviews": [
+  {
+   "comment": "No power out of 8-5 hrs ",
+   "rating": -1,
+   "volts": 0,
+   "user": {
+    "last_name": "",
+    "hide_address": false,
+    "charger_type": 0,
+    "country_code": "US",
+    "language_code": "en",
+    "allow_promo_email": false,
+    "id": 342915,
+    "notify_nearby": 0,
+    "first_name": "Jason",
+    "last_login": "2019-08-11T22:07:55Z",
+    "allow_notifications": null,
+    "vehicle_description": "",
+    "phone": "",
+    "e164_phone_number": "",
+    "hide_phone": false,
+    "vehicle_type": 2,
+    "about": "",
+    "notify_nearby_radius": 0,
+    "receive_grid_alerts": 0,
+    "created_at": "2018-04-29T17:33:18Z",
+    "photos": [],
+    "formatted_phone_number": ""
+   },
+   "vehicle_name": "Chevrolet Volt",
+   "vehicle_type": 2,
+   "id": 1706735,
+   "kilowatts": null,
+   "created_at": "2019-05-18T00:04:09Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": 0,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/7411_cc0640_032_GAN.png"
+  }
+ ],
+ "under_repair": false,
+ "poi_name": "Bank",
+ "locale": "US",
+ "updated_at": "2019-05-18T00:04:09Z",
+ "cost": true,
+ "pwps_version": null,
+ "id": 140517,
+ "datasources": [],
+ "cost_description": "",
+ "access": 1,
+ "description": "",
+ "custom_ports": "",
+ "confidence": 2,
+ "hours": "8:30am to 5pm",
+ "all_promos": [],
+ "address": "7735 IN-62, Charlestown, IN 47111",
+ "parking_type_name": "Free",
+ "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png",
  "stations": [
   {
    "volts": null,
@@ -164,27 +225,9 @@
    "available_changed_at": null
   }
  ],
- "enabled": true,
- "longitude": -85.681633,
- "reviews": [],
- "under_repair": false,
- "poi_name": "Bank",
- "locale": "US",
- "updated_at": "2019-01-18T01:32:44Z",
- "cost": true,
- "pwps_version": null,
- "id": 140517,
- "datasources": [],
- "cost_description": "",
- "access": 1,
- "description": "",
- "custom_ports": "",
- "confidence": 2,
- "hours": "8:30am to 5pm",
- "all_promos": [],
- "address": "7735 IN-62, Charlestown, IN 47111",
- "parking_type_name": "Free",
- "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png",
+ "url": "https://www.plugshare.com/location/140517",
+ "created_at": "2018-01-10T21:16:58Z",
+ "promos": [],
  "photos": [
   {
    "user_id": null,
@@ -217,9 +260,7 @@
    "id": 346592
   }
  ],
- "url": "http://api.plugshare.com/view/location/140517",
- "created_at": "2018-01-10T21:16:58Z",
- "promos": [],
  "formatted_phone_number": "+1 812-282-4303",
- "coming_soon": null
+ "coming_soon": null,
+ "total_reviews": 1
 }

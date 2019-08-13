@@ -38,11 +38,7 @@
  "open247": true,
  "valid_outlets": [
   {
-   "connector": 1,
-   "power": 0
-  },
-  {
-   "connector": 2,
+   "connector": 13,
    "power": 0
   },
   {
@@ -50,11 +46,7 @@
    "power": 0
   },
   {
-   "connector": 13,
-   "power": 0
-  },
-  {
-   "connector": 4,
+   "connector": 2,
    "power": 0
   },
   {
@@ -62,26 +54,70 @@
    "power": 0
   },
   {
+   "connector": 4,
+   "power": 0
+  },
+  {
    "connector": 5,
+   "power": 0
+  },
+  {
+   "connector": 1,
    "power": 0
   }
  ],
  "phone": "",
  "e164_phone_number": "",
+ "total_photos": 4,
  "locked": false,
- "title_description": "Glassworks Garage - Electric Car Charging - 9 Check-ins 4 Photos - 809 W Market St, Louisville KY 40202, United States - US - Car Service - PlugShare",
+ "title_description": "Glassworks Garage - Electric Car Charging - 10 Check-ins 4 Photos - 809 W Market St, Louisville KY 40202, United States - US - Car Service - PlugShare",
  "name": "Glassworks Garage",
  "icon_type": "G",
  "enabled": true,
  "longitude": -85.764133,
  "reviews": [
   {
+   "comment": "Both Located on the third floor",
+   "rating": 1,
+   "volts": null,
+   "user": {
+    "last_name": "",
+    "hide_address": false,
+    "charger_type": 0,
+    "country_code": "US",
+    "language_code": "en",
+    "allow_promo_email": true,
+    "id": 537776,
+    "notify_nearby": 0,
+    "first_name": "stauth",
+    "last_login": "2019-08-04T01:28:08Z",
+    "allow_notifications": null,
+    "vehicle_description": "",
+    "phone": "",
+    "e164_phone_number": "",
+    "hide_phone": false,
+    "vehicle_type": 2,
+    "about": "Just picked up my Gen1 Volt 23May2019 ... >25k miles",
+    "notify_nearby_radius": 0,
+    "receive_grid_alerts": 0,
+    "created_at": "2019-05-21T17:24:42Z",
+    "photos": [],
+    "formatted_phone_number": ""
+   },
+   "vehicle_name": "Chevrolet Volt",
+   "vehicle_type": 2,
+   "id": 1814846,
+   "kilowatts": 3,
+   "created_at": "2019-07-07T22:24:27Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/7411_cc0640_032_GAN.png"
+  },
+  {
    "comment": "Plugged in, but no charge",
    "rating": -1,
    "volts": 0,
-   "created_at": "2018-10-22T16:20:13Z",
-   "connector_type": 2,
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -92,8 +128,7 @@
     "id": 410209,
     "notify_nearby": 0,
     "first_name": "Ben Reno-Weber",
-    "vehicle_color": 1,
-    "last_login": "2019-02-01T13:05:31Z",
+    "last_login": "2019-07-12T13:27:59Z",
     "allow_notifications": null,
     "vehicle_description": "",
     "phone": "",
@@ -105,23 +140,25 @@
     "receive_grid_alerts": 0,
     "created_at": "2018-10-15T16:01:32Z",
     "photos": [],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 0
+    "formatted_phone_number": ""
    },
-   "amps": 0,
-   "problem": 4,
+   "vehicle_name": "Mini Cooper S E Countryman All4 Plug-In Hybrid",
    "vehicle_type": 73,
    "id": 1366878,
-   "problem_description": "Could not activate"
+   "kilowatts": null,
+   "created_at": "2018-10-22T16:20:13Z",
+   "connector_type": 2,
+   "waiting": false,
+   "problem_description": "Could not activate",
+   "amps": 0,
+   "problem": 4,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/12647_cc0640_032_B15.png"
   },
   {
    "comment": "",
    "rating": 1,
-   "connector_type": 2,
    "volts": null,
-   "created_at": "2018-06-18T13:07:15Z",
    "finished": "2018-06-18T14:07:16Z",
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -132,7 +169,6 @@
     "id": 360816,
     "notify_nearby": 0,
     "first_name": "Russell",
-    "vehicle_color": 6,
     "last_login": "2018-06-27T21:43:32Z",
     "allow_notifications": null,
     "vehicle_description": "",
@@ -145,19 +181,21 @@
     "receive_grid_alerts": 0,
     "created_at": "2018-06-18T12:03:11Z",
     "photos": [],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 1
+    "formatted_phone_number": ""
    },
-   "amps": null,
+   "vehicle_name": "Nissan LEAF",
    "vehicle_type": 1,
-   "id": 1173798
+   "id": 1173798,
+   "kilowatts": null,
+   "created_at": "2018-06-18T13:07:15Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/7399_cc0640_032_QX1.png"
   },
   {
    "comment": "",
    "rating": 1,
-   "volts": null,
-   "created_at": "2017-09-03T19:46:06Z",
-   "connector_type": 2,
    "waiting": false,
    "user": {
     "last_name": "",
@@ -169,8 +207,7 @@
     "id": 153704,
     "notify_nearby": 0,
     "first_name": "B&D",
-    "vehicle_color": 0,
-    "last_login": "2019-02-03T00:35:41Z",
+    "last_login": "2019-06-17T14:23:59Z",
     "allow_notifications": null,
     "vehicle_description": "",
     "phone": "",
@@ -182,68 +219,69 @@
     "receive_grid_alerts": 0,
     "created_at": "2016-03-26T16:36:05Z",
     "photos": [],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 0
+    "formatted_phone_number": ""
    },
+   "volts": null,
+   "connector_type": 2,
    "amps": null,
+   "created_at": "2017-09-03T19:46:06Z",
+   "kilowatts": null,
    "id": 847836
   },
   {
    "comment": "This was perfect parking for the Science March!  ",
    "rating": 0,
    "volts": null,
+   "user": {
+    "last_name": "",
+    "hide_address": false,
+    "charger_type": 0,
+    "country_code": "US",
+    "language_code": null,
+    "allow_promo_email": false,
+    "id": 81997,
+    "notify_nearby": 0,
+    "first_name": "Stuart’s LEAF ",
+    "last_login": "2019-08-12T19:52:25Z",
+    "allow_notifications": null,
+    "vehicle_description": "2011 Leaf SL -- Ocean Blue",
+    "phone": "5024265376",
+    "e164_phone_number": "+15024265376",
+    "hide_phone": false,
+    "vehicle_type": 1,
+    "about": "President of EVolve KY, Kentucky’s electric vehicle organization. Group meets monthly. Visit our website at www.evolveky.org or call me for more information. ",
+    "notify_nearby_radius": 0,
+    "receive_grid_alerts": 0,
+    "created_at": "2014-10-05T21:52:21Z",
+    "photos": [
+     {
+      "user_id": 81997,
+      "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/62035.jpg",
+      "created_at": "2014-10-05T22:14:34Z",
+      "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/62035.png",
+      "caption": "",
+      "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/62035.png",
+      "order": 0,
+      "id": 62035
+     }
+    ],
+    "formatted_phone_number": "+1 502-426-5376"
+   },
+   "vehicle_name": "Nissan LEAF",
+   "vehicle_type": 1,
+   "id": 714349,
+   "kilowatts": null,
    "created_at": "2017-04-23T19:11:43Z",
    "connector_type": 2,
    "waiting": false,
-   "user": {
-    "last_name": "",
-    "hide_address": false,
-    "charger_type": 0,
-    "country_code": "US",
-    "language_code": null,
-    "allow_promo_email": false,
-    "id": 81997,
-    "notify_nearby": 0,
-    "first_name": "Stuart",
-    "vehicle_color": 8,
-    "last_login": "2019-02-22T00:56:32Z",
-    "allow_notifications": null,
-    "vehicle_description": "2011 Leaf SL -- Ocean Blue",
-    "phone": "5024265376",
-    "e164_phone_number": "",
-    "hide_phone": false,
-    "vehicle_type": 1,
-    "about": "President of EVolve KY, Kentucky’s electric vehicle organization. Group meets monthly. Visit our website at www.evolveky.org or call me for more information. ",
-    "notify_nearby_radius": 0,
-    "receive_grid_alerts": 0,
-    "created_at": "2014-10-05T21:52:21Z",
-    "photos": [
-     {
-      "user_id": 81997,
-      "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/62035.jpg",
-      "created_at": "2014-10-05T22:14:34Z",
-      "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/62035.png",
-      "caption": "",
-      "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/62035.png",
-      "order": 0,
-      "id": 62035
-     }
-    ],
-    "formatted_phone_number": "+1 502-426-5376",
-    "vehicle_subtype": 2
-   },
    "amps": null,
-   "vehicle_type": 1,
-   "id": 714349
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/7399_cc0640_032_QX1.png"
   },
   {
    "comment": "",
    "rating": 1,
-   "connector_type": 2,
    "volts": null,
-   "created_at": "2017-04-23T17:19:27Z",
    "finished": "2017-04-23T19:10:42Z",
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -253,13 +291,12 @@
     "allow_promo_email": false,
     "id": 81997,
     "notify_nearby": 0,
-    "first_name": "Stuart",
-    "vehicle_color": 8,
-    "last_login": "2019-02-22T00:56:32Z",
+    "first_name": "Stuart’s LEAF ",
+    "last_login": "2019-08-12T19:52:25Z",
     "allow_notifications": null,
     "vehicle_description": "2011 Leaf SL -- Ocean Blue",
     "phone": "5024265376",
-    "e164_phone_number": "",
+    "e164_phone_number": "+15024265376",
     "hide_phone": false,
     "vehicle_type": 1,
     "about": "President of EVolve KY, Kentucky’s electric vehicle organization. Group meets monthly. Visit our website at www.evolveky.org or call me for more information. ",
@@ -278,21 +315,23 @@
       "id": 62035
      }
     ],
-    "formatted_phone_number": "+1 502-426-5376",
-    "vehicle_subtype": 2
+    "formatted_phone_number": "+1 502-426-5376"
    },
-   "amps": null,
+   "vehicle_name": "Nissan LEAF",
    "vehicle_type": 1,
-   "id": 714241
+   "id": 714241,
+   "kilowatts": null,
+   "created_at": "2017-04-23T17:19:27Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/7399_cc0640_032_QX1.png"
   },
   {
    "comment": "",
    "rating": 1,
-   "connector_type": 2,
    "volts": null,
-   "created_at": "2017-02-26T18:09:05Z",
    "finished": "2017-02-26T19:09:05Z",
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": true,
@@ -303,19 +342,28 @@
     "id": 14864,
     "notify_nearby": 1,
     "first_name": "Austin",
-    "vehicle_color": 3,
-    "last_login": "2019-02-21T22:14:21Z",
+    "last_login": "2019-08-12T13:43:48Z",
     "allow_notifications": null,
     "vehicle_description": "Awesome gateway electric car! ;-)",
     "phone": "",
     "e164_phone_number": "",
     "hide_phone": true,
-    "vehicle_type": 23,
+    "vehicle_type": 75,
     "about": "Ready for the Model 3!",
     "notify_nearby_radius": 16000,
     "receive_grid_alerts": 0,
     "created_at": "2013-04-15T15:33:57Z",
     "photos": [
+     {
+      "user_id": 14864,
+      "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/400667.jpg",
+      "created_at": "2019-03-28T10:58:55Z",
+      "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/400667.png",
+      "caption": "",
+      "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/400667.png",
+      "order": 0,
+      "id": 400667
+     },
      {
       "user_id": 14864,
       "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/281261.jpg",
@@ -337,79 +385,92 @@
       "id": 9823
      }
     ],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 0
+    "formatted_phone_number": ""
    },
-   "amps": null,
+   "vehicle_name": "Ford Fusion Energi",
    "vehicle_type": 13,
-   "id": 667007
+   "id": 667007,
+   "kilowatts": null,
+   "created_at": "2017-02-26T18:09:05Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/9787_cc0640_032_UH.png"
   },
   {
    "comment": "",
    "rating": 1,
    "volts": null,
+   "user": {
+    "last_name": "",
+    "hide_address": true,
+    "charger_type": 0,
+    "country_code": "US",
+    "language_code": null,
+    "allow_promo_email": false,
+    "id": 14864,
+    "notify_nearby": 1,
+    "first_name": "Austin",
+    "last_login": "2019-08-12T13:43:48Z",
+    "allow_notifications": null,
+    "vehicle_description": "Awesome gateway electric car! ;-)",
+    "phone": "",
+    "e164_phone_number": "",
+    "hide_phone": true,
+    "vehicle_type": 75,
+    "about": "Ready for the Model 3!",
+    "notify_nearby_radius": 16000,
+    "receive_grid_alerts": 0,
+    "created_at": "2013-04-15T15:33:57Z",
+    "photos": [
+     {
+      "user_id": 14864,
+      "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/400667.jpg",
+      "created_at": "2019-03-28T10:58:55Z",
+      "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/400667.png",
+      "caption": "",
+      "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/400667.png",
+      "order": 0,
+      "id": 400667
+     },
+     {
+      "user_id": 14864,
+      "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/281261.jpg",
+      "created_at": "2018-04-03T21:51:12Z",
+      "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/281261.png",
+      "caption": "",
+      "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/281261.png",
+      "order": 0,
+      "id": 281261
+     },
+     {
+      "user_id": 14864,
+      "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/9823.jpg",
+      "created_at": "2013-05-14T12:16:23Z",
+      "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/9823.png",
+      "caption": "",
+      "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/9823.png",
+      "order": 0,
+      "id": 9823
+     }
+    ],
+    "formatted_phone_number": ""
+   },
+   "vehicle_name": "Ford Fusion Energi",
+   "vehicle_type": 13,
+   "id": 634556,
+   "kilowatts": null,
    "created_at": "2017-01-14T15:13:44Z",
    "connector_type": 2,
    "waiting": false,
-   "user": {
-    "last_name": "",
-    "hide_address": true,
-    "charger_type": 0,
-    "country_code": "US",
-    "language_code": null,
-    "allow_promo_email": false,
-    "id": 14864,
-    "notify_nearby": 1,
-    "first_name": "Austin",
-    "vehicle_color": 3,
-    "last_login": "2019-02-21T22:14:21Z",
-    "allow_notifications": null,
-    "vehicle_description": "Awesome gateway electric car! ;-)",
-    "phone": "",
-    "e164_phone_number": "",
-    "hide_phone": true,
-    "vehicle_type": 23,
-    "about": "Ready for the Model 3!",
-    "notify_nearby_radius": 16000,
-    "receive_grid_alerts": 0,
-    "created_at": "2013-04-15T15:33:57Z",
-    "photos": [
-     {
-      "user_id": 14864,
-      "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/281261.jpg",
-      "created_at": "2018-04-03T21:51:12Z",
-      "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/281261.png",
-      "caption": "",
-      "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/281261.png",
-      "order": 0,
-      "id": 281261
-     },
-     {
-      "user_id": 14864,
-      "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/9823.jpg",
-      "created_at": "2013-05-14T12:16:23Z",
-      "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/9823.png",
-      "caption": "",
-      "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/9823.png",
-      "order": 0,
-      "id": 9823
-     }
-    ],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 0
-   },
    "amps": null,
-   "vehicle_type": 13,
-   "id": 634556
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/9787_cc0640_032_UH.png"
   },
   {
    "comment": "",
    "rating": 1,
-   "connector_type": 2,
    "volts": null,
-   "created_at": "2017-01-11T15:46:33Z",
    "finished": "2017-01-11T16:46:34Z",
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -419,13 +480,12 @@
     "allow_promo_email": false,
     "id": 81997,
     "notify_nearby": 0,
-    "first_name": "Stuart",
-    "vehicle_color": 8,
-    "last_login": "2019-02-22T00:56:32Z",
+    "first_name": "Stuart’s LEAF ",
+    "last_login": "2019-08-12T19:52:25Z",
     "allow_notifications": null,
     "vehicle_description": "2011 Leaf SL -- Ocean Blue",
     "phone": "5024265376",
-    "e164_phone_number": "",
+    "e164_phone_number": "+15024265376",
     "hide_phone": false,
     "vehicle_type": 1,
     "about": "President of EVolve KY, Kentucky’s electric vehicle organization. Group meets monthly. Visit our website at www.evolveky.org or call me for more information. ",
@@ -444,21 +504,23 @@
       "id": 62035
      }
     ],
-    "formatted_phone_number": "+1 502-426-5376",
-    "vehicle_subtype": 2
+    "formatted_phone_number": "+1 502-426-5376"
    },
-   "amps": null,
+   "vehicle_name": "Nissan LEAF",
    "vehicle_type": 1,
-   "id": 632517
+   "id": 632517,
+   "kilowatts": null,
+   "created_at": "2017-01-11T15:46:33Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/7399_cc0640_032_QX1.png"
   },
   {
    "comment": "",
    "rating": 1,
-   "connector_type": 2,
    "volts": null,
-   "created_at": "2016-12-30T18:02:32Z",
    "finished": "2016-12-30T18:47:38Z",
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": true,
@@ -469,19 +531,28 @@
     "id": 14864,
     "notify_nearby": 1,
     "first_name": "Austin",
-    "vehicle_color": 3,
-    "last_login": "2019-02-21T22:14:21Z",
+    "last_login": "2019-08-12T13:43:48Z",
     "allow_notifications": null,
     "vehicle_description": "Awesome gateway electric car! ;-)",
     "phone": "",
     "e164_phone_number": "",
     "hide_phone": true,
-    "vehicle_type": 23,
+    "vehicle_type": 75,
     "about": "Ready for the Model 3!",
     "notify_nearby_radius": 16000,
     "receive_grid_alerts": 0,
     "created_at": "2013-04-15T15:33:57Z",
     "photos": [
+     {
+      "user_id": 14864,
+      "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/400667.jpg",
+      "created_at": "2019-03-28T10:58:55Z",
+      "thumbnail": "https://s3.amazonaws.com/plugshare.production.photos/thumb/400667.png",
+      "caption": "",
+      "thumbnail2x": "https://s3.amazonaws.com/plugshare.production.photos/thumb2x/400667.png",
+      "order": 0,
+      "id": 400667
+     },
      {
       "user_id": 14864,
       "url": "https://s3.amazonaws.com/plugshare.production.photos/photos/281261.jpg",
@@ -503,25 +574,30 @@
       "id": 9823
      }
     ],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 0
+    "formatted_phone_number": ""
    },
-   "amps": null,
+   "vehicle_name": "Ford Fusion Energi",
    "vehicle_type": 13,
-   "id": 624021
+   "id": 624021,
+   "kilowatts": null,
+   "created_at": "2016-12-30T18:02:32Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/9787_cc0640_032_UH.png"
   }
  ],
  "under_repair": false,
  "poi_name": "Car Service",
  "locale": "US",
- "updated_at": "2018-12-01T16:27:51Z",
+ "updated_at": "2019-07-07T22:24:27Z",
  "cost": true,
  "pwps_version": null,
  "id": 102537,
  "datasources": [],
  "cost_description": "Free to charge-pay to park.",
  "access": 1,
- "score": 6.9,
+ "score": 8,
  "description": "Across the street from Glassworks on Market Street.\nMove green EV cones to park, then replace when leaving. Two single pedestal chargers on 3A.",
  "custom_ports": "",
  "confidence": 1,
@@ -614,7 +690,7 @@
    "available_changed_at": null
   }
  ],
- "url": "http://api.plugshare.com/view/location/102537",
+ "url": "https://www.plugshare.com/location/102537",
  "created_at": "2016-12-30T18:02:21Z",
  "promos": [],
  "photos": [
@@ -660,5 +736,6 @@
   }
  ],
  "formatted_phone_number": "",
- "coming_soon": null
+ "coming_soon": null,
+ "total_reviews": 10
 }

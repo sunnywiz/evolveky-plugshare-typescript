@@ -42,11 +42,7 @@
  "open247": true,
  "valid_outlets": [
   {
-   "connector": 1,
-   "power": 0
-  },
-  {
-   "connector": 2,
+   "connector": 13,
    "power": 0
   },
   {
@@ -54,11 +50,7 @@
    "power": 0
   },
   {
-   "connector": 13,
-   "power": 0
-  },
-  {
-   "connector": 4,
+   "connector": 2,
    "power": 0
   },
   {
@@ -66,27 +58,147 @@
    "power": 0
   },
   {
+   "connector": 4,
+   "power": 0
+  },
+  {
    "connector": 5,
+   "power": 0
+  },
+  {
+   "connector": 1,
    "power": 0
   }
  ],
  "phone": "",
  "e164_phone_number": "",
+ "total_photos": 4,
  "locked": false,
- "title_description": "Kentucky Science Center - Electric Car Charging - 14 Check-ins 4 Photos - 727 W Main St, Louisville, KY 40202, USA - US - Museum - PlugShare",
+ "title_description": "Kentucky Science Center - Electric Car Charging - 17 Check-ins 4 Photos - 727 W Main St, Louisville, KY 40202, USA - US - Museum - PlugShare",
  "name": "Kentucky Science Center",
  "icon_type": "G",
  "enabled": true,
  "longitude": -85.762665,
  "reviews": [
   {
+   "comment": "",
+   "rating": 1,
+   "volts": 0,
+   "finished": "2019-05-15T15:24:03Z",
+   "user": {
+    "last_name": "",
+    "hide_address": false,
+    "charger_type": 0,
+    "country_code": "US",
+    "language_code": "en",
+    "allow_promo_email": false,
+    "id": 391946,
+    "notify_nearby": 3,
+    "first_name": "Adam Hodges",
+    "last_login": "2019-08-10T03:59:56Z",
+    "allow_notifications": null,
+    "vehicle_description": "",
+    "phone": "5023035072",
+    "e164_phone_number": "+15023035072",
+    "hide_phone": false,
+    "vehicle_type": 17,
+    "about": "",
+    "notify_nearby_radius": 16000,
+    "receive_grid_alerts": 0,
+    "created_at": "2018-08-29T19:56:58Z",
+    "photos": [],
+    "formatted_phone_number": "+1 502-303-5072"
+   },
+   "vehicle_name": "Chevrolet Spark EV",
+   "vehicle_type": 17,
+   "id": 1701782,
+   "kilowatts": null,
+   "created_at": "2019-05-15T13:24:04Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": 0,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/9842_cc0640_032_G54.png"
+  },
+  {
+   "comment": "",
+   "rating": 1,
+   "volts": 0,
+   "user": {
+    "last_name": "",
+    "hide_address": false,
+    "charger_type": 0,
+    "country_code": "US",
+    "language_code": "en",
+    "allow_promo_email": false,
+    "id": 391946,
+    "notify_nearby": 3,
+    "first_name": "Adam Hodges",
+    "last_login": "2019-08-10T03:59:56Z",
+    "allow_notifications": null,
+    "vehicle_description": "",
+    "phone": "5023035072",
+    "e164_phone_number": "+15023035072",
+    "hide_phone": false,
+    "vehicle_type": 17,
+    "about": "",
+    "notify_nearby_radius": 16000,
+    "receive_grid_alerts": 0,
+    "created_at": "2018-08-29T19:56:58Z",
+    "photos": [],
+    "formatted_phone_number": "+1 502-303-5072"
+   },
+   "vehicle_name": "Chevrolet Spark EV",
+   "vehicle_type": 17,
+   "id": 1701779,
+   "kilowatts": null,
+   "created_at": "2019-05-15T13:23:33Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": 0,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/9842_cc0640_032_G54.png"
+  },
+  {
+   "comment": "",
+   "rating": 1,
+   "volts": 0,
+   "user": {
+    "last_name": "",
+    "hide_address": false,
+    "charger_type": 1,
+    "country_code": "US",
+    "language_code": "en-US",
+    "allow_promo_email": false,
+    "id": 466604,
+    "notify_nearby": 0,
+    "first_name": "chipwolford",
+    "last_login": "2019-08-03T02:48:18Z",
+    "allow_notifications": null,
+    "vehicle_description": "",
+    "phone": "",
+    "e164_phone_number": "",
+    "hide_phone": false,
+    "vehicle_type": 75,
+    "about": "",
+    "notify_nearby_radius": 0,
+    "receive_grid_alerts": 0,
+    "created_at": "2019-02-05T17:41:07Z",
+    "photos": [],
+    "formatted_phone_number": ""
+   },
+   "vehicle_name": "Tesla Model 3",
+   "vehicle_type": 75,
+   "id": 1646045,
+   "kilowatts": null,
+   "created_at": "2019-04-15T18:08:31Z",
+   "waiting": false,
+   "amps": 0,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/12659_cc0640_032_PPSW.png"
+  },
+  {
    "comment": "If coming from east, I64w exit 3, stay right onto river road... keep staying right. You enter parking lot. Credit card only.  Stay right. Chargers. ",
    "rating": 1,
-   "connector_type": 2,
    "volts": null,
-   "created_at": "2019-01-24T14:27:21Z",
    "finished": "2019-01-24T15:27:21Z",
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -97,8 +209,7 @@
     "id": 348561,
     "notify_nearby": 0,
     "first_name": "sunnywiz",
-    "vehicle_color": 3,
-    "last_login": "2019-02-22T04:51:10Z",
+    "last_login": "2019-08-11T19:30:04Z",
     "allow_notifications": null,
     "vehicle_description": "",
     "phone": "",
@@ -110,21 +221,23 @@
     "receive_grid_alerts": 0,
     "created_at": "2018-05-16T14:48:56Z",
     "photos": [],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 2
+    "formatted_phone_number": ""
    },
-   "amps": null,
+   "vehicle_name": "Nissan LEAF",
    "vehicle_type": 1,
-   "id": 1512175
+   "id": 1512175,
+   "kilowatts": null,
+   "created_at": "2019-01-24T14:27:21Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/7399_cc0640_032_QX1.png"
   },
   {
    "comment": "",
    "rating": 1,
-   "connector_type": 2,
    "volts": null,
-   "created_at": "2019-01-13T20:33:17Z",
    "finished": "2019-01-13T21:33:17Z",
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -135,8 +248,7 @@
     "id": 339207,
     "notify_nearby": 0,
     "first_name": "Ben",
-    "vehicle_color": 3,
-    "last_login": "2019-02-10T19:01:48Z",
+    "last_login": "2019-07-24T15:33:27Z",
     "allow_notifications": null,
     "vehicle_description": "",
     "phone": "",
@@ -148,21 +260,23 @@
     "receive_grid_alerts": 0,
     "created_at": "2018-04-22T15:48:41Z",
     "photos": [],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 2
+    "formatted_phone_number": ""
    },
-   "amps": null,
+   "vehicle_name": "Nissan LEAF",
    "vehicle_type": 1,
-   "id": 1495701
+   "id": 1495701,
+   "kilowatts": null,
+   "created_at": "2019-01-13T20:33:17Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/7399_cc0640_032_QX1.png"
   },
   {
    "comment": "",
    "rating": 1,
-   "connector_type": 2,
    "volts": null,
-   "created_at": "2018-11-15T18:15:08Z",
    "finished": "2018-11-15T19:15:08Z",
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -173,8 +287,7 @@
     "id": 120735,
     "notify_nearby": 0,
     "first_name": "Avishay",
-    "vehicle_color": 6,
-    "last_login": "2019-02-10T04:29:59Z",
+    "last_login": "2019-08-03T23:19:43Z",
     "allow_notifications": null,
     "vehicle_description": "",
     "phone": "",
@@ -186,21 +299,23 @@
     "receive_grid_alerts": 0,
     "created_at": "2015-07-29T01:30:35Z",
     "photos": [],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 0
+    "formatted_phone_number": ""
    },
-   "amps": null,
+   "vehicle_name": "Toyota Prius Prime",
    "vehicle_type": 64,
-   "id": 1402614
+   "id": 1402614,
+   "kilowatts": null,
+   "created_at": "2018-11-15T18:15:08Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/11705_cc0640_032_070.png"
   },
   {
    "comment": "",
    "rating": 1,
-   "connector_type": 6,
    "volts": 238,
-   "created_at": "2018-10-14T13:56:55Z",
    "finished": "2018-10-14T14:57:17Z",
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -211,8 +326,7 @@
     "id": 397008,
     "notify_nearby": 0,
     "first_name": "FlyingDevil",
-    "vehicle_color": 2,
-    "last_login": "2019-02-18T17:11:41Z",
+    "last_login": "2019-07-26T05:28:56Z",
     "allow_notifications": null,
     "vehicle_description": "",
     "phone": "",
@@ -224,20 +338,22 @@
     "receive_grid_alerts": 0,
     "created_at": "2018-09-11T19:33:06Z",
     "photos": [],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 3
+    "formatted_phone_number": ""
    },
-   "amps": 40,
+   "vehicle_name": "Tesla Model 3",
    "vehicle_type": 75,
-   "id": 1354197
+   "id": 1354197,
+   "kilowatts": 9,
+   "created_at": "2018-10-14T13:56:55Z",
+   "connector_type": 6,
+   "waiting": false,
+   "amps": 40,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/12659_cc0640_032_PPSW.png"
   },
   {
    "comment": "Great spot, all available and well marked, in the shade on a hot day was an added bonus!",
    "rating": 1,
    "volts": 0,
-   "created_at": "2018-07-11T01:29:13Z",
-   "connector_type": 6,
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -248,7 +364,6 @@
     "id": 72804,
     "notify_nearby": 0,
     "first_name": "model 3 driver",
-    "vehicle_color": 6,
     "last_login": "2018-07-14T04:10:02Z",
     "allow_notifications": null,
     "vehicle_description": "",
@@ -261,21 +376,23 @@
     "receive_grid_alerts": 0,
     "created_at": "2014-07-26T18:49:20Z",
     "photos": [],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 0
+    "formatted_phone_number": ""
    },
-   "amps": 0,
+   "vehicle_name": "Tesla Model 3",
    "vehicle_type": 75,
-   "id": 1207380
+   "id": 1207380,
+   "kilowatts": null,
+   "created_at": "2018-07-11T01:29:13Z",
+   "connector_type": 6,
+   "waiting": false,
+   "amps": 0,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/12659_cc0640_032_PPSW.png"
   },
   {
    "comment": "Easy access, good condition. ",
    "rating": 1,
-   "connector_type": 2,
    "volts": null,
-   "created_at": "2018-04-15T16:51:20Z",
    "finished": "2018-04-15T19:22:47Z",
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": true,
@@ -286,8 +403,7 @@
     "id": 3820,
     "notify_nearby": 0,
     "first_name": "Alex",
-    "vehicle_color": 3,
-    "last_login": "2019-02-02T00:01:15Z",
+    "last_login": "2019-07-21T15:41:38Z",
     "allow_notifications": true,
     "vehicle_description": "2013 Black Volt",
     "phone": "",
@@ -299,21 +415,23 @@
     "receive_grid_alerts": 0,
     "created_at": "2012-01-28T07:41:32Z",
     "photos": [],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 0
+    "formatted_phone_number": ""
    },
-   "amps": null,
+   "vehicle_name": "Chevrolet Bolt EV",
    "vehicle_type": 63,
-   "id": 1091409
+   "id": 1091409,
+   "kilowatts": null,
+   "created_at": "2018-04-15T16:51:20Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/13022_cc0640_032_G7Q.png"
   },
   {
    "comment": "Let me know if you need to charge.",
    "rating": 1,
-   "connector_type": 2,
    "volts": null,
-   "created_at": "2018-03-16T11:52:28Z",
    "finished": "2018-03-16T15:52:28Z",
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -324,8 +442,7 @@
     "id": 246884,
     "notify_nearby": 0,
     "first_name": "Levi",
-    "vehicle_color": 2,
-    "last_login": "2019-02-20T14:46:36Z",
+    "last_login": "2019-08-09T14:55:52Z",
     "allow_notifications": null,
     "vehicle_description": "",
     "phone": "8597538345",
@@ -337,20 +454,22 @@
     "receive_grid_alerts": 0,
     "created_at": "2017-06-14T09:34:56Z",
     "photos": [],
-    "formatted_phone_number": "+1 859-753-8345",
-    "vehicle_subtype": 3
+    "formatted_phone_number": "+1 859-753-8345"
    },
-   "amps": null,
+   "vehicle_name": "Chevrolet Bolt EV",
    "vehicle_type": 63,
-   "id": 1055024
+   "id": 1055024,
+   "kilowatts": null,
+   "created_at": "2018-03-16T11:52:28Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/13022_cc0640_032_G7Q.png"
   },
   {
    "comment": "Two Tesla plugs and two J-1772 plugs in alternating line up for four spots. ",
    "rating": 1,
    "volts": 205,
-   "created_at": "2018-03-14T15:45:30Z",
-   "connector_type": 6,
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -361,7 +480,6 @@
     "id": 320606,
     "notify_nearby": 0,
     "first_name": "Dave",
-    "vehicle_color": 10,
     "last_login": "2018-07-31T23:47:43Z",
     "allow_notifications": null,
     "vehicle_description": "",
@@ -374,20 +492,22 @@
     "receive_grid_alerts": 0,
     "created_at": "2018-02-27T00:53:26Z",
     "photos": [],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 0
+    "formatted_phone_number": ""
    },
-   "amps": 40,
+   "vehicle_name": "Tesla Roadster",
    "vehicle_type": 3,
-   "id": 1053136
+   "id": 1053136,
+   "kilowatts": 8,
+   "created_at": "2018-03-14T15:45:30Z",
+   "connector_type": 6,
+   "waiting": false,
+   "amps": 40,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/6020_cc0640_032_EVOX01.png"
   },
   {
    "comment": "$8.00 to park. ",
    "rating": 0,
    "volts": null,
-   "created_at": "2017-10-28T17:57:00Z",
-   "connector_type": 6,
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -398,8 +518,7 @@
     "id": 219793,
     "notify_nearby": 0,
     "first_name": "Jenn McFly",
-    "vehicle_color": 4,
-    "last_login": "2019-01-31T19:56:05Z",
+    "last_login": "2019-07-22T14:11:59Z",
     "allow_notifications": null,
     "vehicle_description": "",
     "phone": "",
@@ -422,19 +541,22 @@
       "id": 201179
      }
     ],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 5
+    "formatted_phone_number": ""
    },
-   "amps": null,
+   "vehicle_name": "Tesla Model S",
    "vehicle_type": 4,
-   "id": 904865
+   "id": 904865,
+   "kilowatts": null,
+   "created_at": "2017-10-28T17:57:00Z",
+   "connector_type": 6,
+   "waiting": false,
+   "amps": null,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/8319_cc0640_032_EVOX01.png"
   },
   {
    "comment": "",
    "rating": 1,
    "volts": null,
-   "created_at": "2017-10-19T21:33:45Z",
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -445,8 +567,7 @@
     "id": 194125,
     "notify_nearby": 0,
     "first_name": "Bruce",
-    "vehicle_color": 2,
-    "last_login": "2018-12-23T20:19:26Z",
+    "last_login": "2019-07-17T17:13:45Z",
     "allow_notifications": null,
     "vehicle_description": "",
     "phone": "",
@@ -458,20 +579,22 @@
     "receive_grid_alerts": 0,
     "created_at": "2016-10-16T17:02:51Z",
     "photos": [],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 3
+    "formatted_phone_number": ""
    },
-   "amps": null,
+   "vehicle_name": "BMW i3",
    "vehicle_type": 18,
-   "id": 895402
+   "id": 895402,
+   "kilowatts": null,
+   "created_at": "2017-10-19T21:33:45Z",
+   "waiting": false,
+   "amps": null,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/9689_cc0640_032_B81.png"
   },
   {
    "comment": "",
    "rating": 1,
    "volts": null,
-   "created_at": "2017-09-30T12:43:00Z",
    "finished": "2017-09-30T16:43:00Z",
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -482,8 +605,7 @@
     "id": 96593,
     "notify_nearby": 0,
     "first_name": "Rowlie",
-    "vehicle_color": 7,
-    "last_login": "2019-02-16T16:18:25Z",
+    "last_login": "2019-08-06T19:39:57Z",
     "allow_notifications": null,
     "vehicle_description": "",
     "phone": "",
@@ -495,21 +617,22 @@
     "receive_grid_alerts": 0,
     "created_at": "2015-02-04T04:52:37Z",
     "photos": [],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 6
+    "formatted_phone_number": ""
    },
-   "amps": null,
+   "vehicle_name": "Tesla Model S",
    "vehicle_type": 4,
-   "id": 875400
+   "id": 875400,
+   "kilowatts": null,
+   "created_at": "2017-09-30T12:43:00Z",
+   "waiting": false,
+   "amps": null,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/8319_cc0640_032_EVOX01.png"
   },
   {
    "comment": "Turn right out of pay station under the overpass. 2+2 charge stations about 100 ft on your right\n ",
    "rating": 1,
-   "connector_type": 6,
    "volts": 227,
-   "created_at": "2017-08-23T06:10:43Z",
    "finished": "2017-08-23T06:12:05Z",
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -520,8 +643,7 @@
     "id": 13645,
     "notify_nearby": 0,
     "first_name": "Mort",
-    "vehicle_color": 0,
-    "last_login": "2018-11-26T21:19:54Z",
+    "last_login": "2019-04-23T21:09:10Z",
     "allow_notifications": null,
     "vehicle_description": "",
     "phone": "",
@@ -533,21 +655,23 @@
     "receive_grid_alerts": 0,
     "created_at": "2013-03-17T18:00:49Z",
     "photos": [],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 0
+    "formatted_phone_number": ""
    },
-   "amps": 40,
+   "vehicle_name": "Tesla Model S",
    "vehicle_type": 4,
-   "id": 835449
+   "id": 835449,
+   "kilowatts": 9,
+   "created_at": "2017-08-23T06:10:43Z",
+   "connector_type": 6,
+   "waiting": false,
+   "amps": 40,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/8319_cc0640_032_EVOX01.png"
   },
   {
    "comment": "",
    "rating": 1,
-   "connector_type": 2,
    "volts": null,
-   "created_at": "2017-08-19T16:55:17Z",
    "finished": "2017-08-19T17:55:17Z",
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -558,33 +682,35 @@
     "id": 179621,
     "notify_nearby": 0,
     "first_name": "Janet Lopez",
-    "vehicle_color": 4,
-    "last_login": "2017-08-19T20:31:47Z",
+    "last_login": "2019-07-01T18:28:22Z",
     "allow_notifications": null,
     "vehicle_description": "",
     "phone": "",
     "e164_phone_number": "",
     "hide_phone": false,
-    "vehicle_type": 13,
+    "vehicle_type": 77,
     "about": "",
     "notify_nearby_radius": 0,
     "receive_grid_alerts": 0,
     "created_at": "2016-08-07T13:18:16Z",
     "photos": [],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 0
+    "formatted_phone_number": ""
    },
-   "amps": null,
+   "vehicle_name": "Ford Fusion Energi",
    "vehicle_type": 13,
-   "id": 831182
+   "id": 831182,
+   "kilowatts": null,
+   "created_at": "2017-08-19T16:55:17Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": null,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/9787_cc0640_032_UH.png"
   },
   {
    "comment": "6 dollars to park",
    "rating": 1,
    "volts": null,
-   "created_at": "2017-08-12T16:38:19Z",
    "finished": "2017-08-12T18:38:31Z",
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -595,31 +721,34 @@
     "id": 81360,
     "notify_nearby": 3,
     "first_name": "August ",
-    "vehicle_color": 6,
-    "last_login": "2019-02-16T01:33:55Z",
+    "last_login": "2019-08-10T14:46:39Z",
     "allow_notifications": null,
     "vehicle_description": "",
     "phone": "4254082336",
     "e164_phone_number": "",
     "hide_phone": false,
-    "vehicle_type": 75,
+    "vehicle_type": 63,
     "about": "Got our leaf in October of 2014 love the car Added a Chevy Bolt to the stable in May of 2017 100% electric in Indiana. Peace",
     "notify_nearby_radius": 10000,
     "receive_grid_alerts": 0,
     "created_at": "2014-10-01T18:48:24Z",
     "photos": [],
-    "formatted_phone_number": "+1 425-408-2336",
-    "vehicle_subtype": 4
+    "formatted_phone_number": "+1 425-408-2336"
    },
-   "amps": null,
+   "vehicle_name": "Chevrolet Bolt EV",
    "vehicle_type": 63,
-   "id": 823787
+   "id": 823787,
+   "kilowatts": null,
+   "created_at": "2017-08-12T16:38:19Z",
+   "waiting": false,
+   "amps": null,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/13022_cc0640_032_G7Q.png"
   }
  ],
  "under_repair": false,
  "poi_name": "Museum",
  "locale": "US",
- "updated_at": "2019-01-24T14:27:21Z",
+ "updated_at": "2019-05-15T13:24:04Z",
  "cost": true,
  "pwps_version": null,
  "id": 125034,
@@ -819,7 +948,7 @@
    "available_changed_at": null
   }
  ],
- "url": "http://api.plugshare.com/view/location/125034",
+ "url": "https://www.plugshare.com/location/125034",
  "created_at": "2017-08-11T13:36:13Z",
  "promos": [],
  "photos": [
@@ -865,5 +994,6 @@
   }
  ],
  "formatted_phone_number": "",
- "coming_soon": null
+ "coming_soon": null,
+ "total_reviews": 17
 }

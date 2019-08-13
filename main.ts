@@ -55,19 +55,19 @@ function delay(ms: number)
 
 async function asyncmain() { 
     // don't want to overstay my welcome with plugshare. 
-    // var data = await getListOfChargersFromWeb();
-    // await saveChargerDataToFile(data);
+    var data = await plugshareRegionSearch();
+    await saveChargerDataToFile(data);
 
     var chargers = await readChargerDataFromFile();
     console.log(chargers.length);
 
     for(let index in chargers) { 
         let charger = chargers[index];
-        // console.log("getting more details about "+charger.name);
-        // let chargerDetail = await plugShareGetLocation(charger.id);
-        // await saveChargerDetail(chargerDetail);
-        // await delay(1000);  // be nice. 
-        var chargerDetail = await readChargerDetail(charger.id);
+        console.log("getting more details about "+charger.name);
+        let chargerDetail = await plugShareGetLocation(charger.id);
+        await saveChargerDetail(chargerDetail);
+        await delay(1000);  // be nice. 
+        chargerDetail = await readChargerDetail(charger.id);
         chargers[index] = chargerDetail; 
     }
 

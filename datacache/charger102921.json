@@ -38,11 +38,7 @@
  "open247": false,
  "valid_outlets": [
   {
-   "connector": 1,
-   "power": 0
-  },
-  {
-   "connector": 2,
+   "connector": 13,
    "power": 0
   },
   {
@@ -50,11 +46,7 @@
    "power": 0
   },
   {
-   "connector": 13,
-   "power": 0
-  },
-  {
-   "connector": 4,
+   "connector": 2,
    "power": 0
   },
   {
@@ -62,12 +54,21 @@
    "power": 0
   },
   {
+   "connector": 4,
+   "power": 0
+  },
+  {
    "connector": 5,
+   "power": 0
+  },
+  {
+   "connector": 1,
    "power": 0
   }
  ],
  "phone": "8127259186",
  "e164_phone_number": "+18127259186",
+ "total_photos": 4,
  "locked": false,
  "title_description": "The Pepin Mansion B&B - Free Electric Car Charging - 5 Check-ins 4 Photos - 1003 E. Main St., New Albany, Indiana 47150 - US - Hotel/Lodging - PlugShare",
  "name": "The Pepin Mansion B&B",
@@ -79,9 +80,7 @@
    "comment": "The charger is in the “car port” on the East side of the house.  Park on the concrete drive and charge.  The chargers are on the left side of the drive.",
    "rating": 1,
    "volts": null,
-   "created_at": "2019-02-13T00:35:35Z",
    "finished": "2019-02-13T01:35:35Z",
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -92,8 +91,7 @@
     "id": 214387,
     "notify_nearby": 0,
     "first_name": "Gary's",
-    "vehicle_color": 13,
-    "last_login": "2019-02-21T16:41:30Z",
+    "last_login": "2019-04-09T12:20:24Z",
     "allow_notifications": null,
     "vehicle_description": "",
     "phone": "",
@@ -105,22 +103,23 @@
     "receive_grid_alerts": 0,
     "created_at": "2017-01-26T20:15:47Z",
     "photos": [],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 14
+    "formatted_phone_number": ""
    },
-   "amps": null,
+   "vehicle_name": "Tesla Model S",
    "vehicle_type": 4,
-   "id": 1542820
+   "id": 1542820,
+   "kilowatts": null,
+   "created_at": "2019-02-13T00:35:35Z",
+   "waiting": false,
+   "amps": null,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/8319_cc0640_032_EVOX01.png"
   },
   {
    "comment": "",
    "rating": 1,
-   "connector_type": 2,
    "volts": 0,
-   "created_at": "2019-01-20T22:07:58Z",
-   "finished": "2019-01-20T23:37:57Z",
    "station_id": 173679,
-   "waiting": false,
+   "finished": "2019-01-20T23:37:57Z",
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -131,8 +130,7 @@
     "id": 363601,
     "notify_nearby": 0,
     "first_name": "alexshull",
-    "vehicle_color": 2,
-    "last_login": "2019-02-19T19:23:38Z",
+    "last_login": "2019-08-06T15:38:19Z",
     "allow_notifications": null,
     "vehicle_description": "",
     "phone": "",
@@ -144,22 +142,24 @@
     "receive_grid_alerts": 0,
     "created_at": "2018-06-25T16:01:48Z",
     "photos": [],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 1
+    "formatted_phone_number": ""
    },
-   "amps": 0,
+   "vehicle_name": "Nissan LEAF",
    "vehicle_type": 1,
+   "id": 1506834,
+   "kilowatts": null,
+   "created_at": "2019-01-20T22:07:58Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": 0,
    "outlet_id": 471269,
-   "id": 1506834
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/7399_cc0640_032_QX1.png"
   },
   {
    "comment": "Fantastic B&B",
    "rating": 1,
    "volts": 0,
-   "created_at": "2019-01-02T23:41:09Z",
-   "connector_type": 6,
    "station_id": 227959,
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": false,
@@ -170,8 +170,7 @@
     "id": 128536,
     "notify_nearby": 0,
     "first_name": "Robert",
-    "vehicle_color": 4,
-    "last_login": "2019-02-11T22:49:51Z",
+    "last_login": "2019-07-02T07:09:59Z",
     "allow_notifications": null,
     "vehicle_description": "",
     "phone": "",
@@ -183,22 +182,24 @@
     "receive_grid_alerts": 0,
     "created_at": "2015-09-23T17:16:40Z",
     "photos": [],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 8
+    "formatted_phone_number": ""
    },
-   "amps": 40,
+   "vehicle_name": "Tesla Model S",
    "vehicle_type": 4,
+   "id": 1478283,
+   "kilowatts": null,
+   "created_at": "2019-01-02T23:41:09Z",
+   "connector_type": 6,
+   "waiting": false,
+   "amps": 40,
    "outlet_id": 477532,
-   "id": 1478283
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/8319_cc0640_032_EVOX01.png"
   },
   {
    "comment": "J1772 charger worked perfectly, and a great place to spend the night in the area!",
    "rating": 1,
    "volts": 0,
-   "created_at": "2018-05-12T03:14:09Z",
-   "connector_type": 2,
    "station_id": 173679,
-   "waiting": false,
    "user": {
     "last_name": "Barczak",
     "hide_address": false,
@@ -209,8 +210,7 @@
     "id": 74013,
     "notify_nearby": 3,
     "first_name": "Mark",
-    "vehicle_color": 3,
-    "last_login": "2019-02-19T02:14:31Z",
+    "last_login": "2019-08-12T18:02:36Z",
     "allow_notifications": null,
     "vehicle_description": "2011 Electric Blue Nissan Leaf",
     "phone": "3609072806",
@@ -233,21 +233,23 @@
       "id": 289450
      }
     ],
-    "formatted_phone_number": "+1 360-907-2806",
-    "vehicle_subtype": 3
+    "formatted_phone_number": "+1 360-907-2806"
    },
-   "amps": 0,
+   "vehicle_name": "Nissan LEAF 2018",
    "vehicle_type": 81,
+   "id": 1123778,
+   "kilowatts": null,
+   "created_at": "2018-05-12T03:14:09Z",
+   "connector_type": 2,
+   "waiting": false,
+   "amps": 0,
    "outlet_id": 471269,
-   "id": 1123778
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/2018_LEAF_WHITE.jpg"
   },
   {
    "comment": "Worked great! Lovely B&B too. ",
    "rating": 1,
    "volts": 242,
-   "created_at": "2018-01-22T04:19:28Z",
-   "connector_type": 6,
-   "waiting": false,
    "user": {
     "last_name": "",
     "hide_address": true,
@@ -258,12 +260,11 @@
     "id": 27228,
     "notify_nearby": 0,
     "first_name": "Susan",
-    "vehicle_color": 2,
-    "last_login": "2019-01-26T03:08:04Z",
+    "last_login": "2019-08-02T02:00:23Z",
     "allow_notifications": null,
     "vehicle_description": "",
-    "phone": "",
-    "e164_phone_number": "",
+    "phone": "2252700290",
+    "e164_phone_number": "+12252700290",
     "hide_phone": true,
     "vehicle_type": 4,
     "about": "",
@@ -312,12 +313,17 @@
       "id": 296691
      }
     ],
-    "formatted_phone_number": "",
-    "vehicle_subtype": 5
+    "formatted_phone_number": "+1 225-270-0290"
    },
-   "amps": 40,
+   "vehicle_name": "Tesla Model S",
    "vehicle_type": 4,
-   "id": 996886
+   "id": 996886,
+   "kilowatts": 9,
+   "created_at": "2018-01-22T04:19:28Z",
+   "connector_type": 6,
+   "waiting": false,
+   "amps": 40,
+   "vehicle_default_img": "https://s3.amazonaws.com/plugshare.production.assets/vehicles/8319_cc0640_032_EVOX01.png"
   }
  ],
  "under_repair": false,
@@ -432,7 +438,7 @@
    "available_changed_at": null
   }
  ],
- "url": "http://api.plugshare.com/view/location/102921",
+ "url": "https://www.plugshare.com/location/102921",
  "created_at": "2017-01-04T19:45:30Z",
  "promos": [],
  "photos": [
@@ -478,5 +484,6 @@
   }
  ],
  "formatted_phone_number": "+1 812-725-9186",
- "coming_soon": null
+ "coming_soon": null,
+ "total_reviews": 5
 }
