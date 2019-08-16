@@ -53,6 +53,17 @@ function delay(ms: number)
   return new Promise(resolve => setTimeout(resolve, ms));
 }
 
+// https://stackoverflow.com/questions/11257062/converting-json-object-to-csv-format-in-javascript
+function arrayToCSV(objArray:any) {
+    const array = typeof objArray !== 'object' ? JSON.parse(objArray) : objArray;
+    let str = `${Object.keys(array[0]).map(value => `"${value}"`).join(",")}` + '\r\n';
+
+    return array.reduce((str:string, next:any) => {
+        str += `${Object.values(next).map(value => `"${value}"`).join(",")}` + '\r\n';
+        return str;
+       }, str);
+}
+
 async function asyncmain() { 
     // don't want to overstay my welcome with plugshare. 
     // var data = await plugshareRegionSearch();
@@ -83,15 +94,16 @@ async function asyncmain() {
             latitude: charger.latitude, 
             longitude: charger.longitude, 
             isEvolve: isEvolve?1:0,
-            radius: isEvolve?20:10, 
+            radius: isEvolve?20:10,
             openingDate: openingDate, 
             name: charger.name, 
-            description: charger.description
+            // description: charger.description
         });
     }
-    fs.writeFileSync("results.json", JSON.stringify(results,undefined,1),
-    'utf8');
-    console.log(results); 
+
+    var csv = arrayToCSV(results);
+    fs.writeFileSync("chargers.csv", csv, 'utf8');
+    console.log(csv); 
 }
 
 asyncmain()

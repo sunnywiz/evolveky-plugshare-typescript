@@ -1,0 +1,1590 @@
+{
+  "datasets": [
+    {
+      "version": "v1",
+      "data": {
+        "id": "ic7b533ye",
+        "label": "chargers.csv",
+        "color": [
+          143,
+          47,
+          191
+        ],
+        "allData": [
+          [
+            38.251625,
+            -85.643013,
+            0,
+            10,
+            "2016-10-02T13:01:42Z",
+            "Jeff Wyler Nissan"
+          ],
+          [
+            38.190327,
+            -85.808846,
+            0,
+            10,
+            "2013-05-06T13:06:58Z",
+            "Byerly Nissan"
+          ],
+          [
+            38.185872,
+            -85.639876,
+            0,
+            10,
+            "2013-12-30T03:14:21Z",
+            "Collins Nissan"
+          ],
+          [
+            38.187408,
+            -85.644287,
+            0,
+            10,
+            "2013-12-29T20:45:48Z",
+            "Bob Hook Chevrolet"
+          ],
+          [
+            38.37949,
+            -85.431152,
+            0,
+            10,
+            "2014-01-04T14:22:50Z",
+            "Tri-County Ford"
+          ],
+          [
+            38.159443,
+            -85.658501,
+            0,
+            10,
+            "2014-03-13T03:55:31Z",
+            "DMB Transport"
+          ],
+          [
+            38.216698,
+            -85.579857,
+            0,
+            10,
+            "2014-06-09T21:07:32Z",
+            "Sam Swope BMW"
+          ],
+          [
+            38.185844,
+            -85.741646,
+            0,
+            10,
+            "2014-07-17T00:52:51Z",
+            "Louisville International Airport"
+          ],
+          [
+            38.185177,
+            -85.639343,
+            0,
+            10,
+            "2014-11-23T19:16:01Z",
+            "Bill Collins Ford"
+          ],
+          [
+            38.061409,
+            -85.696388,
+            0,
+            10,
+            "2015-05-31T01:22:47Z",
+            "Kentucky One Medical Center Jewish South"
+          ],
+          [
+            38.253147,
+            -85.738831,
+            1,
+            20,
+            "2019-07-05T02:53:55Z",
+            "The Green Building"
+          ],
+          [
+            38.243017,
+            -85.628308,
+            0,
+            10,
+            "2015-12-14T23:37:21Z",
+            "Bluegrass Porshe"
+          ],
+          [
+            38.243607,
+            -85.628227,
+            0,
+            10,
+            "2015-12-03T21:03:35Z",
+            "Blue Grass Audi"
+          ],
+          [
+            38.229301,
+            -85.642361,
+            0,
+            10,
+            "2015-12-03T13:39:20Z",
+            "Springs Medical Center"
+          ],
+          [
+            38.235338,
+            -85.643653,
+            0,
+            10,
+            "2016-11-28T12:52:37Z",
+            "Springs Business Center"
+          ],
+          [
+            38.197298,
+            -85.561222,
+            0,
+            10,
+            "2017-04-05T15:34:42Z",
+            "Jeffersontown Library"
+          ],
+          [
+            38.271257,
+            -85.789136,
+            1,
+            20,
+            "2016-04-21T17:26:49Z",
+            "The Anchor Building"
+          ],
+          [
+            38.233318,
+            -85.711302,
+            1,
+            20,
+            "2019-06-26T17:44:18Z",
+            "Highland Green Building"
+          ],
+          [
+            38.242612,
+            -85.743114,
+            0,
+            10,
+            "2017-02-03T13:42:25Z",
+            "Louisville Metro Housing Authority EVCS #7"
+          ],
+          [
+            38.242969,
+            -85.746268,
+            0,
+            10,
+            "2017-06-13T17:46:39Z",
+            "Louisville Metro Housing Authority EVCS #2"
+          ],
+          [
+            38.242823,
+            -85.744685,
+            0,
+            10,
+            "2017-03-13T15:27:32Z",
+            "Louisville Metro Housing Authority EVCS #4"
+          ],
+          [
+            38.242503,
+            -85.742352,
+            0,
+            10,
+            "2017-06-13T18:16:20Z",
+            "Louisville Metro Housing Authority EVCS #9"
+          ],
+          [
+            38.243002,
+            -85.74525,
+            0,
+            10,
+            "2017-06-13T17:57:11Z",
+            "Louisville Metro Housing Authority EVCS #3"
+          ],
+          [
+            38.242302,
+            -85.745329,
+            0,
+            10,
+            "2016-05-20T01:01:13Z",
+            "Louisville Metro Housing Authority EVCS #5"
+          ],
+          [
+            38.242168,
+            -85.744992,
+            0,
+            10,
+            "2016-05-20T00:58:11Z",
+            "Louisville Metro Housing Authority EVCS #6"
+          ],
+          [
+            38.241831,
+            -85.742371,
+            0,
+            10,
+            "2017-04-24T00:33:02Z",
+            "Louisville Metro Housing Authority EVCS #8"
+          ],
+          [
+            38.248463,
+            -85.757889,
+            0,
+            10,
+            "2017-08-02T13:22:57Z",
+            "Clay Commons"
+          ],
+          [
+            38.255754,
+            -85.7513,
+            0,
+            10,
+            "2017-04-26T22:33:11Z",
+            "1st and Main PARC Garage"
+          ],
+          [
+            38.256298,
+            -85.73009,
+            0,
+            10,
+            "2016-11-17T21:33:42Z",
+            "LG&E E. Washington Street"
+          ],
+          [
+            38.233464,
+            -85.766289,
+            0,
+            10,
+            "2019-07-12T19:03:23Z",
+            "Air Pollution Control District"
+          ],
+          [
+            38.256312,
+            -85.764133,
+            0,
+            10,
+            "2016-12-30T18:02:32Z",
+            "Glassworks Garage"
+          ],
+          [
+            38.239097,
+            -85.72363,
+            0,
+            10,
+            "2017-01-04T20:46:55Z",
+            "LG&E Hepburn Avenue"
+          ],
+          [
+            38.28717,
+            -85.812532,
+            0,
+            10,
+            "2018-01-22T04:19:28Z",
+            "The Pepin Mansion B&B"
+          ],
+          [
+            38.32872,
+            -85.562939,
+            1,
+            20,
+            "2019-07-19T20:37:49Z",
+            "YMCA at Norton Commons"
+          ],
+          [
+            38.255707,
+            -85.747053,
+            0,
+            10,
+            "2018-07-21T13:30:18Z",
+            "E. Main St. Parking/Charging"
+          ],
+          [
+            38.263781,
+            -85.776055,
+            1,
+            20,
+            "2017-03-23T15:29:14Z",
+            "Healthy House"
+          ],
+          [
+            38.253659,
+            -85.70216,
+            1,
+            20,
+            "2019-04-30T15:56:58Z",
+            "The Irish Rover"
+          ],
+          [
+            38.318607,
+            -85.763286,
+            0,
+            10,
+            "2017-06-13T00:06:53Z",
+            "Mitsubishi Store Clarksville"
+          ],
+          [
+            38.243176,
+            -85.747164,
+            0,
+            10,
+            "2017-06-13T17:35:50Z",
+            "Louisville Metro Housing Authority EVCS #1"
+          ],
+          [
+            38.257824,
+            -85.765831,
+            0,
+            10,
+            "2018-02-21T16:30:25Z",
+            "LG&E Main & 9th"
+          ],
+          [
+            38.21398,
+            -85.54002,
+            0,
+            10,
+            "2017-09-20T21:01:43Z",
+            "Hawthorn Suites by Wyndham Louisville"
+          ],
+          [
+            38.221068,
+            -85.53726,
+            0,
+            10,
+            "2017-09-01T15:56:25Z",
+            "Hilton Garden Inn Louisville East"
+          ],
+          [
+            38.25766,
+            -85.762665,
+            0,
+            10,
+            "2017-08-12T16:38:19Z",
+            "Kentucky Science Center"
+          ],
+          [
+            38.18952,
+            -85.809045,
+            0,
+            10,
+            "2017-09-28T18:27:58Z",
+            "Byerly Ford"
+          ],
+          [
+            38.247232,
+            -85.627586,
+            0,
+            10,
+            "2019-06-06T02:56:32Z",
+            "Hilton Garden Inn"
+          ],
+          [
+            38.254686,
+            -85.691806,
+            0,
+            10,
+            "2017-09-26T03:00:56Z",
+            "LG&E Crescent Hill Library"
+          ],
+          [
+            38.220194,
+            -85.534761,
+            0,
+            10,
+            "2018-02-18T03:47:06Z",
+            "Wingate by Wyndham Louisville East"
+          ],
+          [
+            38.280904,
+            -85.628436,
+            1,
+            20,
+            "2019-06-09T14:51:57Z",
+            "Thomas Jefferson Unitarian Church"
+          ],
+          [
+            38.388986,
+            -85.681633,
+            0,
+            10,
+            "2019-05-18T00:04:09Z",
+            "First Harrison Bank"
+          ],
+          [
+            38.215174,
+            -85.756242,
+            0,
+            10,
+            "2018-08-07T12:26:10Z",
+            "University of Louisville"
+          ],
+          [
+            38.220117,
+            -85.626289,
+            1,
+            20,
+            "2019-04-05T21:48:28Z",
+            "Heine Bros. Coffee - Hikes Point"
+          ],
+          [
+            38.219834,
+            -85.759671,
+            0,
+            10,
+            "2018-04-05T15:07:40Z",
+            "Speed Art Museum"
+          ],
+          [
+            38.137596,
+            -85.68673,
+            0,
+            10,
+            "2018-05-22T17:55:28Z",
+            "Tattoo Charlie’s"
+          ],
+          [
+            38.230009,
+            -85.703197,
+            1,
+            20,
+            "2019-05-19T17:56:18Z",
+            "Safai Coffee"
+          ],
+          [
+            38.330547,
+            -85.74333,
+            0,
+            10,
+            "2018-05-11T23:41:28Z",
+            "Taxspeaker"
+          ],
+          [
+            38.190264,
+            -85.74426,
+            0,
+            10,
+            "2018-07-04T02:27:35Z",
+            "Residence Inn"
+          ],
+          [
+            38.190859,
+            -85.743196,
+            0,
+            10,
+            "2018-10-08T10:59:38Z",
+            "Hampton Inn Louisville - Airport"
+          ],
+          [
+            38.252571,
+            -85.755017,
+            0,
+            10,
+            "2018-09-15T17:43:50Z",
+            "Omni Garage"
+          ],
+          [
+            38.258228,
+            -85.751253,
+            0,
+            10,
+            "2018-12-26T02:22:40Z",
+            "Witherspoon Garage"
+          ],
+          [
+            38.242103,
+            -85.671174,
+            0,
+            10,
+            "2018-12-12T19:55:48Z",
+            "LG&E Seneca Park"
+          ],
+          [
+            38.264235,
+            -85.580355,
+            0,
+            10,
+            "2018-11-03T18:38:53Z",
+            "LG&E AB Sawyer Park"
+          ],
+          [
+            38.340479,
+            -85.618992,
+            1,
+            20,
+            "2018-11-07T18:34:44Z",
+            "Prospect Plaza"
+          ],
+          [
+            38.336927,
+            -85.463569,
+            1,
+            20,
+            "2019-01-11T19:04:46Z",
+            "Yew Dell Botanical Gardens"
+          ],
+          [
+            38.234292,
+            -85.732244,
+            0,
+            10,
+            "2019-01-21T17:55:11Z",
+            "Full Stop Station"
+          ],
+          [
+            38.31676,
+            -85.574799,
+            1,
+            20,
+            "2019-05-17T12:54:01Z",
+            "Norton Brownsboro Hospital"
+          ],
+          [
+            38.19353,
+            -85.565509,
+            1,
+            20,
+            "2019-02-19T18:35:34Z",
+            "Jefferson County Clerk"
+          ],
+          [
+            38.162138,
+            -85.779754,
+            0,
+            10,
+            "Thu Aug 15 2019 21:23:50 GMT-0400 (Eastern Daylight Time)",
+            "LG&E Iroquois Park"
+          ],
+          [
+            38.170592,
+            -85.562223,
+            0,
+            10,
+            "2019-05-11T14:55:10Z",
+            "LG&E Charlie Vettiner Park"
+          ],
+          [
+            38.256273,
+            -85.754399,
+            0,
+            10,
+            "2019-04-11T20:49:39Z",
+            "LG&E Center"
+          ],
+          [
+            38.066157,
+            -85.695168,
+            0,
+            10,
+            "2019-05-31T15:48:13Z",
+            "Tru Hilton Hotel"
+          ],
+          [
+            38.235672,
+            -85.739157,
+            1,
+            20,
+            "2019-05-02T19:38:19Z",
+            "Logan Street Market"
+          ],
+          [
+            38.191035,
+            -85.741701,
+            0,
+            10,
+            "2019-05-11T00:59:58Z",
+            "Springhill Suites"
+          ],
+          [
+            38.285142,
+            -85.820873,
+            1,
+            20,
+            "2019-05-16T17:49:11Z",
+            "New Albany Farmers Market"
+          ],
+          [
+            38.203323,
+            -85.556978,
+            0,
+            10,
+            "Thu Aug 15 2019 21:23:50 GMT-0400 (Eastern Daylight Time)",
+            "Hawthorn Suites Louisville/Jeffersontown"
+          ],
+          [
+            38.268589,
+            -85.576557,
+            1,
+            20,
+            "2019-06-26T23:50:01Z",
+            "Northeast Regional Library"
+          ],
+          [
+            38.225301,
+            -85.49723,
+            0,
+            10,
+            "Thu Aug 15 2019 21:23:50 GMT-0400 (Eastern Daylight Time)",
+            "the Lodges"
+          ]
+        ],
+        "fields": [
+          {
+            "name": "latitude",
+            "type": "real",
+            "format": ""
+          },
+          {
+            "name": "longitude",
+            "type": "real",
+            "format": ""
+          },
+          {
+            "name": "isEvolve",
+            "type": "integer",
+            "format": ""
+          },
+          {
+            "name": "radius",
+            "type": "integer",
+            "format": ""
+          },
+          {
+            "name": "openingDate",
+            "type": "timestamp",
+            "format": "YYYY-M-DTH:m:s"
+          },
+          {
+            "name": "name",
+            "type": "string",
+            "format": ""
+          }
+        ]
+      }
+    },
+    {
+      "version": "v1",
+      "data": {
+        "id": "2s7zsfwea",
+        "label": "chargers.csv",
+        "color": [
+          0,
+          92,
+          255
+        ],
+        "allData": [
+          [
+            38.251625,
+            -85.643013,
+            0,
+            10,
+            "2016-10-02T13:01:42Z",
+            "Jeff Wyler Nissan"
+          ],
+          [
+            38.190327,
+            -85.808846,
+            0,
+            10,
+            "2013-05-06T13:06:58Z",
+            "Byerly Nissan"
+          ],
+          [
+            38.185872,
+            -85.639876,
+            0,
+            10,
+            "2013-12-30T03:14:21Z",
+            "Collins Nissan"
+          ],
+          [
+            38.187408,
+            -85.644287,
+            0,
+            10,
+            "2013-12-29T20:45:48Z",
+            "Bob Hook Chevrolet"
+          ],
+          [
+            38.37949,
+            -85.431152,
+            0,
+            10,
+            "2014-01-04T14:22:50Z",
+            "Tri-County Ford"
+          ],
+          [
+            38.159443,
+            -85.658501,
+            0,
+            10,
+            "2014-03-13T03:55:31Z",
+            "DMB Transport"
+          ],
+          [
+            38.216698,
+            -85.579857,
+            0,
+            10,
+            "2014-06-09T21:07:32Z",
+            "Sam Swope BMW"
+          ],
+          [
+            38.185844,
+            -85.741646,
+            0,
+            10,
+            "2014-07-17T00:52:51Z",
+            "Louisville International Airport"
+          ],
+          [
+            38.185177,
+            -85.639343,
+            0,
+            10,
+            "2014-11-23T19:16:01Z",
+            "Bill Collins Ford"
+          ],
+          [
+            38.061409,
+            -85.696388,
+            0,
+            10,
+            "2015-05-31T01:22:47Z",
+            "Kentucky One Medical Center Jewish South"
+          ],
+          [
+            38.253147,
+            -85.738831,
+            1,
+            20,
+            "2019-07-05T02:53:55Z",
+            "The Green Building"
+          ],
+          [
+            38.243017,
+            -85.628308,
+            0,
+            10,
+            "2015-12-14T23:37:21Z",
+            "Bluegrass Porshe"
+          ],
+          [
+            38.243607,
+            -85.628227,
+            0,
+            10,
+            "2015-12-03T21:03:35Z",
+            "Blue Grass Audi"
+          ],
+          [
+            38.229301,
+            -85.642361,
+            0,
+            10,
+            "2015-12-03T13:39:20Z",
+            "Springs Medical Center"
+          ],
+          [
+            38.235338,
+            -85.643653,
+            0,
+            10,
+            "2016-11-28T12:52:37Z",
+            "Springs Business Center"
+          ],
+          [
+            38.197298,
+            -85.561222,
+            0,
+            10,
+            "2017-04-05T15:34:42Z",
+            "Jeffersontown Library"
+          ],
+          [
+            38.271257,
+            -85.789136,
+            1,
+            20,
+            "2016-04-21T17:26:49Z",
+            "The Anchor Building"
+          ],
+          [
+            38.233318,
+            -85.711302,
+            1,
+            20,
+            "2019-06-26T17:44:18Z",
+            "Highland Green Building"
+          ],
+          [
+            38.242612,
+            -85.743114,
+            0,
+            10,
+            "2017-02-03T13:42:25Z",
+            "Louisville Metro Housing Authority EVCS #7"
+          ],
+          [
+            38.242969,
+            -85.746268,
+            0,
+            10,
+            "2017-06-13T17:46:39Z",
+            "Louisville Metro Housing Authority EVCS #2"
+          ],
+          [
+            38.242823,
+            -85.744685,
+            0,
+            10,
+            "2017-03-13T15:27:32Z",
+            "Louisville Metro Housing Authority EVCS #4"
+          ],
+          [
+            38.242503,
+            -85.742352,
+            0,
+            10,
+            "2017-06-13T18:16:20Z",
+            "Louisville Metro Housing Authority EVCS #9"
+          ],
+          [
+            38.243002,
+            -85.74525,
+            0,
+            10,
+            "2017-06-13T17:57:11Z",
+            "Louisville Metro Housing Authority EVCS #3"
+          ],
+          [
+            38.242302,
+            -85.745329,
+            0,
+            10,
+            "2016-05-20T01:01:13Z",
+            "Louisville Metro Housing Authority EVCS #5"
+          ],
+          [
+            38.242168,
+            -85.744992,
+            0,
+            10,
+            "2016-05-20T00:58:11Z",
+            "Louisville Metro Housing Authority EVCS #6"
+          ],
+          [
+            38.241831,
+            -85.742371,
+            0,
+            10,
+            "2017-04-24T00:33:02Z",
+            "Louisville Metro Housing Authority EVCS #8"
+          ],
+          [
+            38.248463,
+            -85.757889,
+            0,
+            10,
+            "2017-08-02T13:22:57Z",
+            "Clay Commons"
+          ],
+          [
+            38.255754,
+            -85.7513,
+            0,
+            10,
+            "2017-04-26T22:33:11Z",
+            "1st and Main PARC Garage"
+          ],
+          [
+            38.256298,
+            -85.73009,
+            0,
+            10,
+            "2016-11-17T21:33:42Z",
+            "LG&E E. Washington Street"
+          ],
+          [
+            38.233464,
+            -85.766289,
+            0,
+            10,
+            "2019-07-12T19:03:23Z",
+            "Air Pollution Control District"
+          ],
+          [
+            38.256312,
+            -85.764133,
+            0,
+            10,
+            "2016-12-30T18:02:32Z",
+            "Glassworks Garage"
+          ],
+          [
+            38.239097,
+            -85.72363,
+            0,
+            10,
+            "2017-01-04T20:46:55Z",
+            "LG&E Hepburn Avenue"
+          ],
+          [
+            38.28717,
+            -85.812532,
+            0,
+            10,
+            "2018-01-22T04:19:28Z",
+            "The Pepin Mansion B&B"
+          ],
+          [
+            38.32872,
+            -85.562939,
+            1,
+            20,
+            "2019-07-19T20:37:49Z",
+            "YMCA at Norton Commons"
+          ],
+          [
+            38.255707,
+            -85.747053,
+            0,
+            10,
+            "2018-07-21T13:30:18Z",
+            "E. Main St. Parking/Charging"
+          ],
+          [
+            38.263781,
+            -85.776055,
+            1,
+            20,
+            "2017-03-23T15:29:14Z",
+            "Healthy House"
+          ],
+          [
+            38.253659,
+            -85.70216,
+            1,
+            20,
+            "2019-04-30T15:56:58Z",
+            "The Irish Rover"
+          ],
+          [
+            38.318607,
+            -85.763286,
+            0,
+            10,
+            "2017-06-13T00:06:53Z",
+            "Mitsubishi Store Clarksville"
+          ],
+          [
+            38.243176,
+            -85.747164,
+            0,
+            10,
+            "2017-06-13T17:35:50Z",
+            "Louisville Metro Housing Authority EVCS #1"
+          ],
+          [
+            38.257824,
+            -85.765831,
+            0,
+            10,
+            "2018-02-21T16:30:25Z",
+            "LG&E Main & 9th"
+          ],
+          [
+            38.21398,
+            -85.54002,
+            0,
+            10,
+            "2017-09-20T21:01:43Z",
+            "Hawthorn Suites by Wyndham Louisville"
+          ],
+          [
+            38.221068,
+            -85.53726,
+            0,
+            10,
+            "2017-09-01T15:56:25Z",
+            "Hilton Garden Inn Louisville East"
+          ],
+          [
+            38.25766,
+            -85.762665,
+            0,
+            10,
+            "2017-08-12T16:38:19Z",
+            "Kentucky Science Center"
+          ],
+          [
+            38.18952,
+            -85.809045,
+            0,
+            10,
+            "2017-09-28T18:27:58Z",
+            "Byerly Ford"
+          ],
+          [
+            38.247232,
+            -85.627586,
+            0,
+            10,
+            "2019-06-06T02:56:32Z",
+            "Hilton Garden Inn"
+          ],
+          [
+            38.254686,
+            -85.691806,
+            0,
+            10,
+            "2017-09-26T03:00:56Z",
+            "LG&E Crescent Hill Library"
+          ],
+          [
+            38.220194,
+            -85.534761,
+            0,
+            10,
+            "2018-02-18T03:47:06Z",
+            "Wingate by Wyndham Louisville East"
+          ],
+          [
+            38.280904,
+            -85.628436,
+            1,
+            20,
+            "2019-06-09T14:51:57Z",
+            "Thomas Jefferson Unitarian Church"
+          ],
+          [
+            38.388986,
+            -85.681633,
+            0,
+            10,
+            "2019-05-18T00:04:09Z",
+            "First Harrison Bank"
+          ],
+          [
+            38.215174,
+            -85.756242,
+            0,
+            10,
+            "2018-08-07T12:26:10Z",
+            "University of Louisville"
+          ],
+          [
+            38.220117,
+            -85.626289,
+            1,
+            20,
+            "2019-04-05T21:48:28Z",
+            "Heine Bros. Coffee - Hikes Point"
+          ],
+          [
+            38.219834,
+            -85.759671,
+            0,
+            10,
+            "2018-04-05T15:07:40Z",
+            "Speed Art Museum"
+          ],
+          [
+            38.137596,
+            -85.68673,
+            0,
+            10,
+            "2018-05-22T17:55:28Z",
+            "Tattoo Charlie’s"
+          ],
+          [
+            38.230009,
+            -85.703197,
+            1,
+            20,
+            "2019-05-19T17:56:18Z",
+            "Safai Coffee"
+          ],
+          [
+            38.330547,
+            -85.74333,
+            0,
+            10,
+            "2018-05-11T23:41:28Z",
+            "Taxspeaker"
+          ],
+          [
+            38.190264,
+            -85.74426,
+            0,
+            10,
+            "2018-07-04T02:27:35Z",
+            "Residence Inn"
+          ],
+          [
+            38.190859,
+            -85.743196,
+            0,
+            10,
+            "2018-10-08T10:59:38Z",
+            "Hampton Inn Louisville - Airport"
+          ],
+          [
+            38.252571,
+            -85.755017,
+            0,
+            10,
+            "2018-09-15T17:43:50Z",
+            "Omni Garage"
+          ],
+          [
+            38.258228,
+            -85.751253,
+            0,
+            10,
+            "2018-12-26T02:22:40Z",
+            "Witherspoon Garage"
+          ],
+          [
+            38.242103,
+            -85.671174,
+            0,
+            10,
+            "2018-12-12T19:55:48Z",
+            "LG&E Seneca Park"
+          ],
+          [
+            38.264235,
+            -85.580355,
+            0,
+            10,
+            "2018-11-03T18:38:53Z",
+            "LG&E AB Sawyer Park"
+          ],
+          [
+            38.340479,
+            -85.618992,
+            1,
+            20,
+            "2018-11-07T18:34:44Z",
+            "Prospect Plaza"
+          ],
+          [
+            38.336927,
+            -85.463569,
+            1,
+            20,
+            "2019-01-11T19:04:46Z",
+            "Yew Dell Botanical Gardens"
+          ],
+          [
+            38.234292,
+            -85.732244,
+            0,
+            10,
+            "2019-01-21T17:55:11Z",
+            "Full Stop Station"
+          ],
+          [
+            38.31676,
+            -85.574799,
+            1,
+            20,
+            "2019-05-17T12:54:01Z",
+            "Norton Brownsboro Hospital"
+          ],
+          [
+            38.19353,
+            -85.565509,
+            1,
+            20,
+            "2019-02-19T18:35:34Z",
+            "Jefferson County Clerk"
+          ],
+          [
+            38.162138,
+            -85.779754,
+            0,
+            10,
+            "Thu Aug 15 2019 21:23:50 GMT-0400 (Eastern Daylight Time)",
+            "LG&E Iroquois Park"
+          ],
+          [
+            38.170592,
+            -85.562223,
+            0,
+            10,
+            "2019-05-11T14:55:10Z",
+            "LG&E Charlie Vettiner Park"
+          ],
+          [
+            38.256273,
+            -85.754399,
+            0,
+            10,
+            "2019-04-11T20:49:39Z",
+            "LG&E Center"
+          ],
+          [
+            38.066157,
+            -85.695168,
+            0,
+            10,
+            "2019-05-31T15:48:13Z",
+            "Tru Hilton Hotel"
+          ],
+          [
+            38.235672,
+            -85.739157,
+            1,
+            20,
+            "2019-05-02T19:38:19Z",
+            "Logan Street Market"
+          ],
+          [
+            38.191035,
+            -85.741701,
+            0,
+            10,
+            "2019-05-11T00:59:58Z",
+            "Springhill Suites"
+          ],
+          [
+            38.285142,
+            -85.820873,
+            1,
+            20,
+            "2019-05-16T17:49:11Z",
+            "New Albany Farmers Market"
+          ],
+          [
+            38.203323,
+            -85.556978,
+            0,
+            10,
+            "Thu Aug 15 2019 21:23:50 GMT-0400 (Eastern Daylight Time)",
+            "Hawthorn Suites Louisville/Jeffersontown"
+          ],
+          [
+            38.268589,
+            -85.576557,
+            1,
+            20,
+            "2019-06-26T23:50:01Z",
+            "Northeast Regional Library"
+          ],
+          [
+            38.225301,
+            -85.49723,
+            0,
+            10,
+            "Thu Aug 15 2019 21:23:50 GMT-0400 (Eastern Daylight Time)",
+            "the Lodges"
+          ]
+        ],
+        "fields": [
+          {
+            "name": "latitude",
+            "type": "real",
+            "format": ""
+          },
+          {
+            "name": "longitude",
+            "type": "real",
+            "format": ""
+          },
+          {
+            "name": "isEvolve",
+            "type": "integer",
+            "format": ""
+          },
+          {
+            "name": "radius",
+            "type": "integer",
+            "format": ""
+          },
+          {
+            "name": "openingDate",
+            "type": "timestamp",
+            "format": "YYYY-M-DTH:m:s"
+          },
+          {
+            "name": "name",
+            "type": "string",
+            "format": ""
+          }
+        ]
+      }
+    }
+  ],
+  "config": {
+    "version": "v1",
+    "config": {
+      "visState": {
+        "filters": [
+          {
+            "dataId": "ic7b533ye",
+            "id": "ovj21dol9",
+            "name": "isEvolve",
+            "type": "range",
+            "value": [
+              0,
+              0.471
+            ],
+            "enlarged": false,
+            "plotType": "histogram",
+            "yAxis": null
+          },
+          {
+            "dataId": "2s7zsfwea",
+            "id": "w2qe1nj55",
+            "name": "isEvolve",
+            "type": "range",
+            "value": [
+              0.502,
+              1
+            ],
+            "enlarged": false,
+            "plotType": "histogram",
+            "yAxis": null
+          }
+        ],
+        "layers": [
+          {
+            "id": "ad99rdi",
+            "type": "point",
+            "config": {
+              "dataId": "2s7zsfwea",
+              "label": "Evolve KY",
+              "color": [
+                255,
+                251,
+                152
+              ],
+              "columns": {
+                "lat": "latitude",
+                "lng": "longitude",
+                "altitude": null
+              },
+              "isVisible": true,
+              "visConfig": {
+                "radius": 25,
+                "fixedRadius": false,
+                "opacity": 0.8,
+                "outline": false,
+                "thickness": 2,
+                "strokeColor": null,
+                "colorRange": {
+                  "name": "Global Warming",
+                  "type": "sequential",
+                  "category": "Uber",
+                  "colors": [
+                    "#5A1846",
+                    "#900C3F",
+                    "#C70039",
+                    "#E3611C",
+                    "#F1920E",
+                    "#FFC300"
+                  ]
+                },
+                "strokeColorRange": {
+                  "name": "Global Warming",
+                  "type": "sequential",
+                  "category": "Uber",
+                  "colors": [
+                    "#5A1846",
+                    "#900C3F",
+                    "#C70039",
+                    "#E3611C",
+                    "#F1920E",
+                    "#FFC300"
+                  ]
+                },
+                "radiusRange": [
+                  0,
+                  50
+                ],
+                "filled": true
+              },
+              "textLabel": [
+                {
+                  "field": {
+                    "name": "name",
+                    "type": "string"
+                  },
+                  "color": [
+                    255,
+                    255,
+                    255
+                  ],
+                  "size": 21,
+                  "offset": [
+                    0,
+                    0
+                  ],
+                  "anchor": "start",
+                  "alignment": "center"
+                },
+                {
+                  "field": null,
+                  "color": [
+                    255,
+                    255,
+                    255
+                  ],
+                  "size": 18,
+                  "offset": [
+                    0,
+                    0
+                  ],
+                  "anchor": "start",
+                  "alignment": "center"
+                }
+              ]
+            },
+            "visualChannels": {
+              "colorField": null,
+              "colorScale": "quantile",
+              "strokeColorField": null,
+              "strokeColorScale": "quantile",
+              "sizeField": null,
+              "sizeScale": "linear"
+            }
+          },
+          {
+            "id": "rfhi85",
+            "type": "point",
+            "config": {
+              "dataId": "ic7b533ye",
+              "label": "Point",
+              "color": [
+                77,
+                181,
+                217
+              ],
+              "columns": {
+                "lat": "latitude",
+                "lng": "longitude",
+                "altitude": null
+              },
+              "isVisible": true,
+              "visConfig": {
+                "radius": 20,
+                "fixedRadius": false,
+                "opacity": 0.8,
+                "outline": false,
+                "thickness": 2,
+                "strokeColor": null,
+                "colorRange": {
+                  "name": "Global Warming",
+                  "type": "sequential",
+                  "category": "Uber",
+                  "colors": [
+                    "#5A1846",
+                    "#900C3F",
+                    "#C70039",
+                    "#E3611C",
+                    "#F1920E",
+                    "#FFC300"
+                  ]
+                },
+                "strokeColorRange": {
+                  "name": "Global Warming",
+                  "type": "sequential",
+                  "category": "Uber",
+                  "colors": [
+                    "#5A1846",
+                    "#900C3F",
+                    "#C70039",
+                    "#E3611C",
+                    "#F1920E",
+                    "#FFC300"
+                  ]
+                },
+                "radiusRange": [
+                  0,
+                  50
+                ],
+                "filled": true
+              },
+              "textLabel": [
+                {
+                  "field": null,
+                  "color": [
+                    255,
+                    255,
+                    255
+                  ],
+                  "size": 18,
+                  "offset": [
+                    0,
+                    0
+                  ],
+                  "anchor": "start",
+                  "alignment": "center"
+                }
+              ]
+            },
+            "visualChannels": {
+              "colorField": null,
+              "colorScale": "quantile",
+              "strokeColorField": null,
+              "strokeColorScale": "quantile",
+              "sizeField": null,
+              "sizeScale": "linear"
+            }
+          }
+        ],
+        "interactionConfig": {
+          "tooltip": {
+            "fieldsToShow": {
+              "ic7b533ye": [
+                "isEvolve",
+                "radius",
+                "openingDate",
+                "name"
+              ],
+              "2s7zsfwea": [
+                "isEvolve",
+                "radius",
+                "openingDate",
+                "name"
+              ]
+            },
+            "enabled": true
+          },
+          "brush": {
+            "size": 0.5,
+            "enabled": false
+          }
+        },
+        "layerBlending": "normal",
+        "splitMaps": []
+      },
+      "mapState": {
+        "bearing": 0,
+        "dragRotate": false,
+        "latitude": 38.2251975,
+        "longitude": -85.6260125,
+        "pitch": 0,
+        "zoom": 11,
+        "isSplit": false
+      },
+      "mapStyle": {
+        "styleType": "dark",
+        "topLayerGroups": {},
+        "visibleLayerGroups": {
+          "label": true,
+          "road": true,
+          "border": false,
+          "building": true,
+          "water": true,
+          "land": true,
+          "3d building": false
+        },
+        "threeDBuildingColor": [
+          9.665468314072013,
+          17.18305478057247,
+          31.1442867897876
+        ],
+        "mapStyles": {}
+      }
+    }
+  },
+  "info": {
+    "app": "kepler.gl",
+    "created_at": "Thu Aug 15 2019 22:17:19 GMT-0400 (Eastern Daylight Time)"
+  }
+}
