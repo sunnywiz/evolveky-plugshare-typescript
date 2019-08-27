@@ -122,7 +122,7 @@
     "id": 81997,
     "notify_nearby": 0,
     "first_name": "Stuart’s LEAF ",
-    "last_login": "2019-08-12T19:52:25Z",
+    "last_login": "2019-08-27T13:06:00Z",
     "allow_notifications": null,
     "vehicle_description": "2011 Leaf SL -- Ocean Blue",
     "phone": "5024265376",
@@ -334,8 +334,8 @@
      "description": null,
      "power": 0,
      "volts": null,
+     "kilowatts": 7.2,
      "id": 333096,
-     "watts": null,
      "connector": 2,
      "connector_type": 2,
      "amps": null,
@@ -346,7 +346,7 @@
    "hours": "",
    "promos": [],
    "ocpp_version": null,
-   "kilowatts": null,
+   "kilowatts": 7.2,
    "requiresAccessCard": false,
    "manufacturer": "GE",
    "name": "LMHA EVCS #4",
@@ -355,7 +355,7 @@
    "longitude": -85.744664,
    "amps": null,
    "model": "",
-   "available_changed_at": "2019-07-19T00:13:05Z"
+   "available_changed_at": "2019-08-17T19:11:05Z"
   }
  ],
  "url": "https://www.plugshare.com/location/87276",

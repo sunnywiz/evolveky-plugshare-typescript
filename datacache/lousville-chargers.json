@@ -6,6 +6,7 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 202343,
       "power": 0
      }
@@ -16,6 +17,7 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 202575,
       "power": 0
      }
@@ -40,6 +42,7 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 664623,
       "power": 0
      }
@@ -50,6 +53,7 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 529777,
       "power": 0
      }
@@ -67,12 +71,44 @@
   "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
  },
  {
+  "name": "Bernheim Arboretum & Research Forest",
+  "stations": [
+   {
+    "outlets": [
+     {
+      "connector": 2,
+      "kilowatts": null,
+      "id": 453764,
+      "power": 0
+     },
+     {
+      "connector": 2,
+      "kilowatts": null,
+      "id": 453765,
+      "power": 0
+     }
+    ],
+    "id": 85220
+   }
+  ],
+  "url": "http://api.plugshare.com/view/location/61436",
+  "icon_type": "G",
+  "longitude": -85.658989,
+  "access": 1,
+  "score": 10,
+  "address": "2499 Clermont Road Clermont, Kentucky 40110",
+  "latitude": 37.918591,
+  "id": 61436,
+  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
+ },
+ {
   "name": "Tattoo Charlie’s",
   "stations": [
    {
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 551071,
       "power": 0
      }
@@ -101,11 +137,13 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 633881,
       "power": 0
      },
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 633880,
       "power": 0
      }
@@ -130,11 +168,13 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 524768,
       "power": 0
      },
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 524769,
       "power": 0
      }
@@ -159,11 +199,13 @@
     "outlets": [
      {
       "connector": 1,
+      "kilowatts": null,
       "id": 93400,
       "power": 0
      },
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 93401,
       "power": 0
      }
@@ -194,12 +236,14 @@
     "outlets": [
      {
       "connector": 2,
-      "id": 684040,
+      "kilowatts": null,
+      "id": 684041,
       "power": 0
      },
      {
       "connector": 2,
-      "id": 684041,
+      "kilowatts": null,
+      "id": 684040,
       "power": 0
      }
     ],
@@ -216,6 +260,37 @@
   "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
  },
  {
+  "name": "Mount St. Francis",
+  "stations": [
+   {
+    "outlets": [
+     {
+      "connector": 2,
+      "kilowatts": null,
+      "id": 740977,
+      "power": 0
+     },
+     {
+      "connector": 2,
+      "kilowatts": null,
+      "id": 740976,
+      "power": 0
+     }
+    ],
+    "id": 423084
+   }
+  ],
+  "url": "http://api.plugshare.com/view/location/199491",
+  "icon_type": "G",
+  "longitude": -85.90382,
+  "access": 1,
+  "score": 10,
+  "address": "101 St Anthony Dr, Mt St Francis, IN 47146",
+  "latitude": 38.336552,
+  "id": 199491,
+  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
+ },
+ {
   "name": "LG&E Iroquois Park",
   "stations": [
    {
@@ -228,11 +303,13 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 684039,
       "power": 0
      },
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 684038,
       "power": 0
      }
@@ -262,11 +339,13 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 629509,
       "power": 0
      },
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 629496,
       "power": 0
      }
@@ -291,6 +370,7 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 471269,
       "power": 0
      }
@@ -302,6 +382,7 @@
     "outlets": [
      {
       "connector": 6,
+      "kilowatts": 8,
       "id": 477532,
       "power": 0
      }
@@ -332,11 +413,13 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 565700,
       "power": 0
      },
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 565701,
       "power": 0
      }
@@ -361,11 +444,13 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 743948,
       "power": 0
      },
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 743947,
       "power": 0
      }
@@ -389,6 +474,7 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 387398,
       "power": 0
      }
@@ -413,6 +499,7 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 318984,
       "power": 0
      }
@@ -423,6 +510,7 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 318985,
       "power": 0
      }
@@ -447,6 +535,7 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 437107,
       "power": 0
      }
@@ -471,11 +560,13 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 327110,
       "power": 0
      },
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 274078,
       "power": 0
      }
@@ -499,6 +590,7 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 422028,
       "power": 0
      }
@@ -523,6 +615,7 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 541065,
       "power": 0
      }
@@ -534,44 +627,10 @@
   "icon_type": "G",
   "longitude": -85.626289,
   "access": 1,
-  "score": 7.9,
+  "score": 8.2,
   "address": "3965 Taylorsville Rd, Louisville, KY 40220",
   "latitude": 38.220117,
   "id": 143695,
-  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
- },
- {
-  "name": "LG&E Crescent Hill Library",
-  "stations": [
-   {
-    "network_id": 1,
-    "promos": [
-     {
-      "id": 2
-     }
-    ],
-    "outlets": [
-     {
-      "connector": 2,
-      "id": 490136,
-      "power": 0
-     },
-     {
-      "connector": 2,
-      "id": 490137,
-      "power": 0
-     }
-    ],
-    "id": 236012
-   }
-  ],
-  "url": "http://api.plugshare.com/view/location/130057",
-  "icon_type": "G",
-  "longitude": -85.691806,
-  "access": 1,
-  "address": "2762 Frankfort Ave, Louisville, KY 40206",
-  "latitude": 38.254686,
-  "id": 130057,
   "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
  },
  {
@@ -581,11 +640,13 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 423868,
       "power": 0
      },
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 423869,
       "power": 0
      }
@@ -604,6 +665,42 @@
   "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
  },
  {
+  "name": "LG&E Crescent Hill Library",
+  "stations": [
+   {
+    "network_id": 1,
+    "promos": [
+     {
+      "id": 2
+     }
+    ],
+    "outlets": [
+     {
+      "connector": 2,
+      "kilowatts": null,
+      "id": 490136,
+      "power": 0
+     },
+     {
+      "connector": 2,
+      "kilowatts": null,
+      "id": 490137,
+      "power": 0
+     }
+    ],
+    "id": 236012
+   }
+  ],
+  "url": "http://api.plugshare.com/view/location/130057",
+  "icon_type": "G",
+  "longitude": -85.691806,
+  "access": 1,
+  "address": "2762 Frankfort Ave, Louisville, KY 40206",
+  "latitude": 38.254686,
+  "id": 130057,
+  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
+ },
+ {
   "name": "Sam Swope BMW",
   "stations": [
    {
@@ -616,11 +713,13 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 166029,
       "power": 0
      },
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 299149,
       "power": 0
      }
@@ -651,11 +750,13 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 383999,
       "power": 0
      },
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 384000,
       "power": 0
      }
@@ -680,11 +781,13 @@
     "outlets": [
      {
       "connector": 1,
+      "kilowatts": null,
       "id": 149577,
       "power": 0
      },
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 149578,
       "power": 0
      }
@@ -709,6 +812,7 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 702594,
       "power": 0
      }
@@ -733,6 +837,7 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 561630,
       "power": 0
      }
@@ -744,7 +849,7 @@
   "icon_type": "G",
   "longitude": -85.703197,
   "access": 1,
-  "score": 10,
+  "score": 7.8,
   "address": "1707 Bardstown Rd, Louisville, KY 40205",
   "latitude": 38.230009,
   "id": 152263,
@@ -757,21 +862,23 @@
     "outlets": [
      {
       "connector": 2,
-      "id": 262335,
-      "power": 0
-     }
-    ],
-    "id": 99638
-   },
-   {
-    "outlets": [
-     {
-      "connector": 2,
+      "kilowatts": null,
       "id": 262671,
       "power": 0
      }
     ],
     "id": 106495
+   },
+   {
+    "outlets": [
+     {
+      "connector": 2,
+      "kilowatts": null,
+      "id": 262335,
+      "power": 0
+     }
+    ],
+    "id": 99638
    }
   ],
   "url": "http://api.plugshare.com/view/location/70274",
@@ -791,6 +898,7 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 700981,
       "power": 0
      }
@@ -812,41 +920,11 @@
   "name": "Hawthorn Suites by Wyndham Louisville",
   "stations": [
    {
-    "outlets": [
-     {
-      "connector": 2,
-      "id": 466500,
-      "power": 0
-     }
-    ],
-    "id": 220520
-   },
-   {
-    "outlets": [
-     {
-      "connector": 2,
-      "id": 466499,
-      "power": 0
-     }
-    ],
-    "id": 220519
-   },
-   {
     "network_id": 35,
     "outlets": [
      {
       "connector": 6,
-      "id": 469348,
-      "power": 0
-     }
-    ],
-    "id": 222388
-   },
-   {
-    "network_id": 35,
-    "outlets": [
-     {
-      "connector": 6,
+      "kilowatts": 8,
       "id": 469349,
       "power": 0
      }
@@ -858,6 +936,41 @@
     "outlets": [
      {
       "connector": 6,
+      "kilowatts": 8,
+      "id": 469348,
+      "power": 0
+     }
+    ],
+    "id": 222388
+   },
+   {
+    "outlets": [
+     {
+      "connector": 2,
+      "kilowatts": null,
+      "id": 466500,
+      "power": 0
+     }
+    ],
+    "id": 220520
+   },
+   {
+    "outlets": [
+     {
+      "connector": 2,
+      "kilowatts": null,
+      "id": 466499,
+      "power": 0
+     }
+    ],
+    "id": 220519
+   },
+   {
+    "network_id": 35,
+    "outlets": [
+     {
+      "connector": 6,
+      "kilowatts": 8,
       "id": 480092,
       "power": 0
      }
@@ -869,6 +982,7 @@
     "outlets": [
      {
       "connector": 6,
+      "kilowatts": 8,
       "id": 480093,
       "power": 0
      }
@@ -893,6 +1007,7 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 655065,
       "power": 0
      }
@@ -923,6 +1038,7 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 718063,
       "power": 0
      }
@@ -939,6 +1055,7 @@
     "outlets": [
      {
       "connector": 6,
+      "kilowatts": null,
       "id": 718062,
       "power": 0
      }
@@ -962,11 +1079,13 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 656778,
       "power": 0
      },
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 656777,
       "power": 0
      }
@@ -997,11 +1116,13 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 279400,
       "power": 0
      },
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 279461,
       "power": 0
      }
@@ -1026,11 +1147,13 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 696045,
       "power": 0
      },
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 696044,
       "power": 0
      }
@@ -1055,11 +1178,13 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 668652,
       "power": 0
      },
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 668651,
       "power": 0
      }
@@ -1084,6 +1209,7 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 306141,
       "power": 0
      }
@@ -1114,11 +1240,13 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 279460,
       "power": 0
      },
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 279458,
       "power": 0
      }
@@ -1135,11 +1263,13 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 279387,
       "power": 0
      },
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 279459,
       "power": 0
      }
@@ -1164,6 +1294,7 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 551014,
       "power": 0
      }
@@ -1174,6 +1305,7 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 551015,
       "power": 0
      }
@@ -1184,6 +1316,7 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 551016,
       "power": 0
      }
@@ -1208,11 +1341,13 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 553222,
       "power": 0
      },
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 553223,
       "power": 0
      }
@@ -1223,11 +1358,13 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 399776,
       "power": 0
      },
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 399777,
       "power": 0
      }
@@ -1252,6 +1389,7 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 372113,
       "power": 0
      }
@@ -1262,6 +1400,7 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 372115,
       "power": 0
      }
@@ -1286,6 +1425,7 @@
     "outlets": [
      {
       "connector": 6,
+      "kilowatts": null,
       "id": 699001,
       "power": 0
      }
@@ -1296,6 +1436,7 @@
     "outlets": [
      {
       "connector": 6,
+      "kilowatts": null,
       "id": 699000,
       "power": 0
      }
@@ -1306,6 +1447,7 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 694563,
       "power": 0
      }
@@ -1330,6 +1472,7 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 110964,
       "power": 0
      }
@@ -1360,6 +1503,7 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 407141,
       "power": 0
      }
@@ -1384,6 +1528,7 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 720367,
       "power": 0
      }
@@ -1414,11 +1559,13 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 474394,
       "power": 0
      },
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 474395,
       "power": 0
      }
@@ -1442,11 +1589,13 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 662393,
       "power": 0
      },
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 662392,
       "power": 0
      }
@@ -1457,11 +1606,13 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 662391,
       "power": 0
      },
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 662390,
       "power": 0
      }
@@ -1473,7 +1624,7 @@
   "icon_type": "G",
   "longitude": -85.574799,
   "access": 1,
-  "score": 10,
+  "score": 5,
   "address": "4960 Norton Healthcare Blvd, Louisville, KY 40241",
   "latitude": 38.31676,
   "id": 179466,
@@ -1492,11 +1643,13 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 629511,
       "power": 0
      },
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 629497,
       "power": 0
      }
@@ -1521,6 +1674,7 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 372114,
       "power": 0
      }
@@ -1531,6 +1685,7 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 372112,
       "power": 0
      }
@@ -1555,6 +1710,7 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 617545,
       "power": 0
      }
@@ -1565,6 +1721,7 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 617544,
       "power": 0
      }
@@ -1595,11 +1752,13 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 448912,
       "power": 0
      },
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 449856,
       "power": 0
      }
@@ -1630,11 +1789,13 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 396414,
       "power": 0
      },
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 396461,
       "power": 0
      }
@@ -1659,6 +1820,7 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 395054,
       "power": 0
      }
@@ -1669,6 +1831,7 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 395055,
       "power": 0
      }
@@ -1680,10 +1843,70 @@
   "icon_type": "G",
   "longitude": -85.764133,
   "access": 1,
-  "score": 8,
+  "score": 8.2,
   "address": "809 W Market St, Louisville KY 40202, United States",
   "latitude": 38.256312,
   "id": 102537,
+  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
+ },
+ {
+  "name": "Kentucky Science Center",
+  "stations": [
+   {
+    "network_id": 35,
+    "outlets": [
+     {
+      "connector": 6,
+      "kilowatts": 16,
+      "id": 481006,
+      "power": 0
+     }
+    ],
+    "id": 230365
+   },
+   {
+    "network_id": 35,
+    "outlets": [
+     {
+      "connector": 6,
+      "kilowatts": 16,
+      "id": 481005,
+      "power": 0
+     }
+    ],
+    "id": 230364
+   },
+   {
+    "outlets": [
+     {
+      "connector": 2,
+      "kilowatts": null,
+      "id": 470278,
+      "power": 0
+     }
+    ],
+    "id": 222967
+   },
+   {
+    "outlets": [
+     {
+      "connector": 2,
+      "kilowatts": null,
+      "id": 470279,
+      "power": 0
+     }
+    ],
+    "id": 222968
+   }
+  ],
+  "url": "http://api.plugshare.com/view/location/125034",
+  "icon_type": "G",
+  "longitude": -85.762488,
+  "access": 1,
+  "score": 10,
+  "address": "122 N 8th St, Louisville, KY 40202, USA",
+  "latitude": 38.258422,
+  "id": 125034,
   "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
  },
  {
@@ -1693,6 +1916,7 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 303889,
       "power": 0
      }
@@ -1703,6 +1927,7 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 377981,
       "power": 0
      }
@@ -1727,6 +1952,7 @@
     "outlets": [
      {
       "connector": 6,
+      "kilowatts": null,
       "id": 699216,
       "power": 0
      }
@@ -1737,6 +1963,7 @@
     "outlets": [
      {
       "connector": 6,
+      "kilowatts": null,
       "id": 699215,
       "power": 0
      }
@@ -1747,6 +1974,7 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 699214,
       "power": 0
      }
@@ -1757,6 +1985,7 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 699213,
       "power": 0
      }
@@ -1781,6 +2010,7 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 523448,
       "power": 0
      }
@@ -1791,6 +2021,7 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 523453,
       "power": 0
      }
@@ -1802,6 +2033,7 @@
     "outlets": [
      {
       "connector": 6,
+      "kilowatts": 16,
       "id": 524754,
       "power": 0
      }
@@ -1813,6 +2045,7 @@
     "outlets": [
      {
       "connector": 6,
+      "kilowatts": 16,
       "id": 524755,
       "power": 0
      }
@@ -1837,6 +2070,7 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 540338,
       "power": 0
      }
@@ -1847,6 +2081,7 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 540339,
       "power": 0
      }
@@ -1865,68 +2100,13 @@
   "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
  },
  {
-  "name": "Kentucky Science Center",
-  "stations": [
-   {
-    "outlets": [
-     {
-      "connector": 2,
-      "id": 470279,
-      "power": 0
-     }
-    ],
-    "id": 222968
-   },
-   {
-    "outlets": [
-     {
-      "connector": 2,
-      "id": 470278,
-      "power": 0
-     }
-    ],
-    "id": 222967
-   },
-   {
-    "network_id": 35,
-    "outlets": [
-     {
-      "connector": 6,
-      "id": 481005,
-      "power": 0
-     }
-    ],
-    "id": 230364
-   },
-   {
-    "network_id": 35,
-    "outlets": [
-     {
-      "connector": 6,
-      "id": 481006,
-      "power": 0
-     }
-    ],
-    "id": 230365
-   }
-  ],
-  "url": "http://api.plugshare.com/view/location/125034",
-  "icon_type": "G",
-  "longitude": -85.762665,
-  "access": 1,
-  "score": 10,
-  "address": "727 W Main St, Louisville, KY 40202, USA",
-  "latitude": 38.25766,
-  "id": 125034,
-  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
- },
- {
   "name": "Hampton Inn Louisville - Airport",
   "stations": [
    {
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 579867,
       "power": 0
      }
@@ -1937,6 +2117,7 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 579868,
       "power": 0
      }
@@ -1948,6 +2129,7 @@
     "outlets": [
      {
       "connector": 6,
+      "kilowatts": 8,
       "id": 572063,
       "power": 0
      }
@@ -1959,6 +2141,7 @@
     "outlets": [
      {
       "connector": 6,
+      "kilowatts": 8,
       "id": 572064,
       "power": 0
      }
@@ -1983,12 +2166,14 @@
     "outlets": [
      {
       "connector": 2,
-      "id": 594530,
+      "kilowatts": null,
+      "id": 594529,
       "power": 0
      },
      {
       "connector": 2,
-      "id": 594529,
+      "kilowatts": null,
+      "id": 594530,
       "power": 0
      }
     ],
@@ -1999,6 +2184,7 @@
     "outlets": [
      {
       "connector": 6,
+      "kilowatts": 8,
       "id": 572061,
       "power": 0
      }
@@ -2010,6 +2196,7 @@
     "outlets": [
      {
       "connector": 6,
+      "kilowatts": 8,
       "id": 572062,
       "power": 0
      }
@@ -2035,6 +2222,7 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": 7.2,
       "id": 332979,
       "power": 0
      }
@@ -2059,6 +2247,7 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": 7.2,
       "id": 333095,
       "power": 0
      }
@@ -2082,6 +2271,7 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 121384,
       "power": 0
      }
@@ -2091,11 +2281,11 @@
   ],
   "url": "http://api.plugshare.com/view/location/18754",
   "icon_type": "G",
-  "longitude": -85.639876,
+  "longitude": -85.642285,
   "access": 1,
-  "score": 9.6,
+  "score": 10,
   "address": "4142 Bardstown Road Louisville, KY 40218",
-  "latitude": 38.185872,
+  "latitude": 38.185618,
   "id": 18754,
   "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
  },
@@ -2106,6 +2296,7 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 174058,
       "power": 0
      }
@@ -2130,6 +2321,7 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 163047,
       "power": 0
      }
@@ -2153,6 +2345,7 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 471706,
       "power": 0
      }
@@ -2177,6 +2370,7 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": 7.2,
       "id": 336107,
       "power": 0
      }
@@ -2207,12 +2401,14 @@
     "outlets": [
      {
       "connector": 2,
-      "id": 684046,
+      "kilowatts": null,
+      "id": 684045,
       "power": 0
      },
      {
       "connector": 2,
-      "id": 684045,
+      "kilowatts": null,
+      "id": 684046,
       "power": 0
      }
     ],
@@ -2229,31 +2425,6 @@
   "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
  },
  {
-  "name": "Louisville Metro Housing Authority EVCS #9",
-  "stations": [
-   {
-    "network_id": 4,
-    "outlets": [
-     {
-      "connector": 2,
-      "id": 333103,
-      "power": 0
-     }
-    ],
-    "id": 134293
-   }
-  ],
-  "url": "http://api.plugshare.com/view/location/87280",
-  "icon_type": "G",
-  "longitude": -85.742352,
-  "access": 1,
-  "score": 9,
-  "address": "748 S. Clay St., Louisville, KY 40203",
-  "latitude": 38.242503,
-  "id": 87280,
-  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
- },
- {
   "name": "Louisville Metro Housing Authority EVCS #8",
   "stations": [
    {
@@ -2261,6 +2432,7 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": 7.2,
       "id": 336106,
       "power": 0
      }
@@ -2279,12 +2451,39 @@
   "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
  },
  {
+  "name": "Louisville Metro Housing Authority EVCS #9",
+  "stations": [
+   {
+    "network_id": 4,
+    "outlets": [
+     {
+      "connector": 2,
+      "kilowatts": 7.2,
+      "id": 333103,
+      "power": 0
+     }
+    ],
+    "id": 134293
+   }
+  ],
+  "url": "http://api.plugshare.com/view/location/87280",
+  "icon_type": "G",
+  "longitude": -85.742352,
+  "access": 1,
+  "score": 9,
+  "address": "748 S. Clay St., Louisville, KY 40203",
+  "latitude": 38.242503,
+  "id": 87280,
+  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png"
+ },
+ {
   "name": "Omni Garage",
   "stations": [
    {
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 616508,
       "power": 0
      }
@@ -2295,6 +2494,7 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 616507,
       "power": 0
      }
@@ -2319,6 +2519,7 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 260785,
       "power": 0
      }
@@ -2343,11 +2544,13 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 260924,
       "power": 0
      },
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 260925,
       "power": 0
      }
@@ -2373,6 +2576,7 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": 7.2,
       "id": 333096,
       "power": 0
      }
@@ -2398,6 +2602,7 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": 7.2,
       "id": 333105,
       "power": 0
      }
@@ -2418,9 +2623,22 @@
   "name": "Hilton Garden Inn Louisville East",
   "stations": [
    {
+    "network_id": 35,
+    "outlets": [
+     {
+      "connector": 6,
+      "kilowatts": 8,
+      "id": 519830,
+      "power": 0
+     }
+    ],
+    "id": 255599
+   },
+   {
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 470274,
       "power": 0
      }
@@ -2431,6 +2649,7 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": null,
       "id": 470273,
       "power": 0
      }
@@ -2442,17 +2661,7 @@
     "outlets": [
      {
       "connector": 6,
-      "id": 519830,
-      "power": 0
-     }
-    ],
-    "id": 255599
-   },
-   {
-    "network_id": 35,
-    "outlets": [
-     {
-      "connector": 6,
+      "kilowatts": 8,
       "id": 519833,
       "power": 0
      }
@@ -2478,6 +2687,7 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": 7.2,
       "id": 336104,
       "power": 0
      }
@@ -2502,6 +2712,7 @@
     "outlets": [
      {
       "connector": 2,
+      "kilowatts": 7.2,
       "id": 336105,
       "power": 0
      }

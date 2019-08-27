@@ -134,6 +134,7 @@ declare module PlugShare {
     }
 
     export interface Review {
+        vehicle_name: string;
         comment: string;
         rating: number;
         volts?: any;
@@ -161,6 +162,7 @@ declare module PlugShare {
     }
 
     export interface Location {
+        total_reviews: number;
         reverse_geocoded_address_components: ReverseGeocodedAddressComponents;
         opening_date: string;
         nissan_nctc: boolean;

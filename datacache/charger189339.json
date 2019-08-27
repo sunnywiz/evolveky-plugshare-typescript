@@ -19,6 +19,14 @@
  "amenities": [
   {
    "location_id": 189339,
+   "type": 4
+  },
+  {
+   "location_id": 189339,
+   "type": 3
+  },
+  {
+   "location_id": 189339,
    "type": 8
   },
   {
@@ -66,7 +74,7 @@
  "e164_phone_number": "",
  "total_photos": 1,
  "locked": false,
- "title_description": "Logan Street Market - Free Electric Car Charging - 5 Check-ins 1 Photos - 1001 Logan St, Louisville, KY  40204, United States - US - PlugShare",
+ "title_description": "Logan Street Market - Free Electric Car Charging - 5 Check-ins 1 Photos - 1001 Logan St, Louisville, KY  40204, United States - US - Shopping Center - PlugShare",
  "name": "Logan Street Market",
  "icon_type": "G",
  "enabled": true,
@@ -88,7 +96,7 @@
     "id": 81997,
     "notify_nearby": 0,
     "first_name": "Stuart’s LEAF ",
-    "last_login": "2019-08-12T19:52:25Z",
+    "last_login": "2019-08-27T13:06:00Z",
     "allow_notifications": null,
     "vehicle_description": "2011 Leaf SL -- Ocean Blue",
     "phone": "5024265376",
@@ -139,7 +147,7 @@
     "id": 102440,
     "notify_nearby": 0,
     "first_name": "Wrensey",
-    "last_login": "2019-08-12T11:03:00Z",
+    "last_login": "2019-08-23T10:46:53Z",
     "allow_notifications": null,
     "vehicle_description": "2015 SL, 6.6 kW charger, Quick charge port ",
     "phone": "8593618060",
@@ -179,7 +187,7 @@
     "id": 81997,
     "notify_nearby": 0,
     "first_name": "Stuart’s LEAF ",
-    "last_login": "2019-08-12T19:52:25Z",
+    "last_login": "2019-08-27T13:06:00Z",
     "allow_notifications": null,
     "vehicle_description": "2011 Leaf SL -- Ocean Blue",
     "phone": "5024265376",
@@ -230,7 +238,7 @@
     "id": 81997,
     "notify_nearby": 0,
     "first_name": "Stuart’s LEAF ",
-    "last_login": "2019-08-12T19:52:25Z",
+    "last_login": "2019-08-27T13:06:00Z",
     "allow_notifications": null,
     "vehicle_description": "2011 Leaf SL -- Ocean Blue",
     "phone": "5024265376",
@@ -280,7 +288,7 @@
     "id": 81997,
     "notify_nearby": 0,
     "first_name": "Stuart’s LEAF ",
-    "last_login": "2019-08-12T19:52:25Z",
+    "last_login": "2019-08-27T13:06:00Z",
     "allow_notifications": null,
     "vehicle_description": "2011 Leaf SL -- Ocean Blue",
     "phone": "5024265376",
@@ -317,7 +325,7 @@
   }
  ],
  "under_repair": false,
- "poi_name": null,
+ "poi_name": "Shopping Center",
  "locale": "US",
  "updated_at": "2019-08-11T15:24:55Z",
  "cost": false,
@@ -329,11 +337,11 @@
  "score": 9,
  "description": "Evolve KY dual station for Logan Street Market and other community businesses. www.evolveky.org",
  "custom_ports": "",
- "confidence": 0,
+ "confidence": 1,
  "hours": "",
  "all_promos": [],
  "address": "1001 Logan St, Louisville, KY  40204, United States",
- "parking_type_name": null,
+ "parking_type_name": "Free",
  "icon": "https://s3.amazonaws.com/plugshare.production.assets/icons/G.png",
  "stations": [
   {
@@ -355,8 +363,8 @@
      "description": null,
      "power": 0,
      "volts": null,
+     "kilowatts": null,
      "id": 696045,
-     "watts": null,
      "connector": 2,
      "connector_type": 2,
      "amps": null,
@@ -368,8 +376,8 @@
      "description": null,
      "power": 0,
      "volts": null,
+     "kilowatts": null,
      "id": 696044,
-     "watts": null,
      "connector": 2,
      "connector_type": 2,
      "amps": null,
